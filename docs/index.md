@@ -1,0 +1,21 @@
+Who and what is included or excluded in knowledge practice? How does that matter both for what and how we know, and for recognition, equity, and justice? These are topics at the forefront of fields like feminist epistemology, critical race studies, social epistemology, political epistemology, indigenous studies, science and technology studies, and philosophy of science.
+
+The map makes visible some of the intertwined political and epistemic dimensions of knowledge creation and sharing discussed in this literature. Like all maps, this one is a single perspective on a complicated terrain. It is non-exhaustive. It connects ideas, rather than citations. It aims to give a sense for the diversity of voices and areas where these topics come up, while acknowledging that there is so much more to see and do between and beyond the points we depict.
+
+You can use this map to navigate the conceptual space, trace conceptual lineages and interrelations, and explore definitions and references. Take it as a starting point, a piece of equipment for orienting your thinking. At the same time, we hope that the map will preserve some disorientation: that it will raise questions, disrupt standard narratives, and create a sense of discomfort at its own inadequacy.
+
+<script src="https://giscus.app/client.js"
+        data-repo="natesheehan/conceptcartography"
+        data-repo-id="R_kgDOPB5QiQ"
+        data-category="General"
+        data-category-id="DIC_kwDOPB5Qic4CsAxd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="catppuccin_mocha"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
