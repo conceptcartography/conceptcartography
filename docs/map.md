@@ -1,4 +1,4 @@
-# 🧭 Concept Network Map
+# Concept Network Map
 
 <style>
 /* Main graph container wrapper */
@@ -12,8 +12,8 @@
 
 /* Force canvas to stay within the page content width */
 #graph-wrapper canvas {
-  max-width: 100%;
-  height: auto !important;
+  max-width: 50%;
+  height: 50% !important;
   display: block;
   margin: 0 auto;
 }
@@ -81,22 +81,6 @@
 
 
 
-
-
-<div id="graph-wrapper">
-  <div id="graph-controls">
-    <button onclick="resetView()">Reset View</button>
-    <button onclick="toggleRotate()">Toggle Auto-Rotate</button>
-    <button id="fullscreen-toggle" onclick="toggleFullScreen()">Enter Full Screen</button>
-    <select id="focus-select" onchange="focusNode(this.value)">
-      <option value="">Focus on a concept...</option>
-    </select>
-  </div>
-  <div id="graph-container"></div>
-</div>
-
-
-
 <div id="graph-legend">
   <strong>Relation types (edge colors):</strong><br>
   <span style="color: blue;">Type of</span>, 
@@ -108,6 +92,23 @@
   <span style="color: black;">Distinct from</span>, 
   <span style="color: cyan;">Depends on</span>
 </div>
+
+<div id="graph-wrapper">
+
+  <div id="graph-container">
+    <div id="graph-controls">
+    <button onclick="resetView()">Reset View</button>
+    <button onclick="toggleRotate()">Toggle Auto-Rotate</button>
+    <button id="fullscreen-toggle" onclick="toggleFullScreen()">Enter Full Screen</button>
+    <select id="focus-select" onchange="focusNode(this.value)">
+      <option value="">Focus on a concept...</option>
+    </select>
+  </div></div>
+</div>
+
+
+
+
 
 <!-- Load the 3d-force-graph library and wait for it -->
 <script>

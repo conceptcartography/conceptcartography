@@ -20,11 +20,11 @@ relations:
   target: diversity work
 ---
 
-# Epistemic Diversity Work
+# 🧠 Epistemic Diversity Work
 
 ## 📖 Definitions
 
-- "Making use of existing diversity involves using people with theoretical perspectives or social locations different from one’s own as a means of doing better science by using them to increase the diversity of views in one’s communities. [...] The person being used as a source of diversity is doing what I call epistemic diversity work. Such work can be manifested in a number of ways, including talking to members of a community about their research and commenting on or reviewing grant applications or papers." ([Fehr, 2011, p. 141])
+> "Making use of existing diversity involves using people with theoretical perspectives or social locations different from one’s own as a means of doing better science by using them to increase the diversity of views in one’s communities. [...] The person being used as a source of diversity is doing what I call epistemic diversity work. Such work can be manifested in a number of ways, including talking to members of a community about their research and commenting on or reviewing grant applications or papers." ([Fehr, 2011, p. 141])
 
 ## 🔗 Relations
 
@@ -34,3 +34,22 @@ relations:
 ## 📚 References
 
 - Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick, 133–54. New York: Springer.
+
+
+---
+
+<script src="https://giscus.app/client.js"
+        data-repo="natesheehan/conceptcartography"
+        data-repo-id="R_kgDOPB5QiQ"
+        data-category="General"
+        data-category-id="DIC_kwDOPB5Qic4CsAxd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="catppuccin_mocha"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

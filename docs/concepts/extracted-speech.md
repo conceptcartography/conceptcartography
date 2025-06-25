@@ -15,11 +15,11 @@ relations:
   target: epistemic exploitation
 ---
 
-# Extracted Speech
+# 🧠 Extracted Speech
 
 ## 📖 Definitions
 
-- "epistemic and social coercion may be used to produce testimony that is subordinating" (Pohlhaus 2017: 22)
+> "epistemic and social coercion may be used to produce testimony that is subordinating" (Pohlhaus 2017: 22)
 
 ## 💡 Examples
 
@@ -32,3 +32,22 @@ relations:
 ## 📚 References
 
 - McKinney, R. (2016) “Extracted speech,” Social Theory and Practice, 42(2): 258–284.
+
+
+---
+
+<script src="https://giscus.app/client.js"
+        data-repo="natesheehan/conceptcartography"
+        data-repo-id="R_kgDOPB5QiQ"
+        data-category="General"
+        data-category-id="DIC_kwDOPB5Qic4CsAxd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="catppuccin_mocha"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

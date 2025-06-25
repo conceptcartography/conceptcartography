@@ -16,11 +16,11 @@ relations:
   target: situated knowledge thesis
 ---
 
-# Generic situated knowledge thesis
+# 🧠 Generic situated knowledge thesis
 
 ## 📖 Definitions
 
-- "The point of departure for standpoint theorizing is a recognition that there is no "view from nowhere"; contingent histories, social context and relations, inevitably affect what epistemic agents know (including explicit knowledge as well as tacit experiential knowledge), and shape the hermeneutic resources, inferential heuristics, and other epistemic resources they bring to bear in generating and adjudicating knowledge claims." ([Wylie, 2012, p. 61])
+> "The point of departure for standpoint theorizing is a recognition that there is no "view from nowhere"; contingent histories, social context and relations, inevitably affect what epistemic agents know (including explicit knowledge as well as tacit experiential knowledge), and shape the hermeneutic resources, inferential heuristics, and other epistemic resources they bring to bear in generating and adjudicating knowledge claims." ([Wylie, 2012, p. 61])
 
 ## 🔗 Relations
 
@@ -29,3 +29,22 @@ relations:
 ## 📚 References
 
 - Wylie, Alison. 2012. “Feminist Philosophy of Science: Standpoint Matters.” Proceedings and Addresses of the American Philosophical Association 86 (2): 47–76.
+
+
+---
+
+<script src="https://giscus.app/client.js"
+        data-repo="natesheehan/conceptcartography"
+        data-repo-id="R_kgDOPB5QiQ"
+        data-category="General"
+        data-category-id="DIC_kwDOPB5Qic4CsAxd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="catppuccin_mocha"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
