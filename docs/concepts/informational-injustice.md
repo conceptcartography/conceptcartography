@@ -12,9 +12,13 @@ examples: []
 relations:
 - type: type of
   target: epistemic injustice
+- type: part of
+  target: informational asymmetry
+- type: type of
+  target: epistemic severing
 ---
 
-# Informational Injustice
+# informational injustice
 
 ## 📖 Definitions
 
@@ -23,6 +27,8 @@ relations:
 ## 🔗 Relations
 
 - **type of**: [epistemic injustice](./epistemic-injustice.md)
+- **part of**: [informational asymmetry](./informational-asymmetry.md)
+- **type of**: [epistemic severing](./epistemic-severing.md)
 
 ## 📚 References
 

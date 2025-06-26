@@ -12,7 +12,7 @@ relations:
   target: epistemic exclusion
 ---
 
-# Hermeneutical inequality
+# hermeneutical inequality
 
 ## 📖 Definitions
 

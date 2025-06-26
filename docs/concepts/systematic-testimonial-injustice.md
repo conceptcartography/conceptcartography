@@ -18,7 +18,7 @@ relations:
   target: testimonial injustice
 ---
 
-# Systematic testimonial injustice
+# systematic testimonial injustice
 
 ## 📖 Definitions
 

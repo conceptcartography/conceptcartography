@@ -11,9 +11,11 @@ examples: []
 relations:
 - type: part of
   target: informational injustice
+- type: part of
+  target: surplus information
 ---
 
-# Informational Asymmetry
+# informational asymmetry
 
 ## 📖 Definitions
 
@@ -22,6 +24,7 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [informational injustice](./informational-injustice.md)
+- **part of**: [surplus information](./surplus-information.md)
 
 ## 📚 References
 

@@ -16,7 +16,7 @@ relations:
   target: epistemic injustice
 ---
 
-# Interlacing
+# interlacing
 
 ## 📖 Definitions
 

@@ -21,7 +21,7 @@ relations:
   target: diversity work
 ---
 
-# Institutional passing
+# institutional passing
 
 ## 📖 Definitions
 

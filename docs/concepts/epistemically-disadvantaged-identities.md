@@ -21,7 +21,7 @@ relations:
   target: testimonial injustice
 ---
 
-# Epistemically disadvantaged identities
+# epistemically disadvantaged identities
 
 ## 📖 Definitions
 

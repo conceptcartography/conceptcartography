@@ -12,7 +12,7 @@ relations:
   target: epistemic severing
 ---
 
-# Epistemic blinkering
+# epistemic blinkering
 
 ## 📖 Definitions
 

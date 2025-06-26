@@ -12,7 +12,7 @@ relations:
   target: strong objectivity
 ---
 
-# Well-Ordered Science
+# well-ordered science
 
 ## 📖 Definitions
 

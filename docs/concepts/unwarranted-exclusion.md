@@ -10,7 +10,7 @@ relations:
   target: hermeneutical marginalization
 ---
 
-# Unwarranted Exclusion
+# unwarranted exclusion
 
 ## 📖 Definitions
 

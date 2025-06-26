@@ -11,7 +11,7 @@ relations:
   target: epistemic extractivism
 ---
 
-# Epistemic humility
+# epistemic humility
 
 ## 📖 Definitions
 

@@ -12,9 +12,11 @@ examples:
 relations:
 - type: produces
   target: linguistic epistemic injustice
+- type: part of
+  target: linguistic bias
 ---
 
-# Linguistic injustice
+# linguistic injustice
 
 ## 📖 Definitions
 
@@ -27,6 +29,7 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [linguistic epistemic injustice](./linguistic-epistemic-injustice.md)
+- **part of**: [linguistic bias](./linguistic-bias.md)
 
 ## 📚 References
 

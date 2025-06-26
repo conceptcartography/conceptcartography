@@ -16,7 +16,7 @@ relations:
   target: epistemic injustice
 ---
 
-# Epistemic freedom
+# epistemic freedom
 
 ## 📖 Definitions
 

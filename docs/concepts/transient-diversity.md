@@ -19,7 +19,7 @@ relations:
   target: epistemic diversity
 ---
 
-# Transient Diversity
+# transient diversity
 
 ## 📖 Definitions
 

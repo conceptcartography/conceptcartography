@@ -26,7 +26,7 @@ relations:
   target: epistemic injustice
 ---
 
-# Epistemic trust injustice
+# epistemic trust injustice
 
 ## 📖 Definitions
 

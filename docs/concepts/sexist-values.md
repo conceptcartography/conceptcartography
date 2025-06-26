@@ -18,7 +18,7 @@ relations:
   target: epistemic oppression
 ---
 
-# Sexist values
+# sexist values
 
 ## 📖 Definitions
 

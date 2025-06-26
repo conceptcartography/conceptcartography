@@ -12,7 +12,7 @@ relations:
   target: surplus information
 ---
 
-# Second-Level Surplus Information
+# second-level surplus information
 
 ## 📖 Definitions
 

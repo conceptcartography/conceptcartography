@@ -18,7 +18,7 @@ relations:
   target: epistemic diversity
 ---
 
-# diversity can benefit information elaboration (DBIE)
+# diversity can benefit information elaboration (dbie)
 
 ## 📖 Definitions
 

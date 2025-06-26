@@ -19,7 +19,7 @@ relations:
   target: epistemologies of ignorance
 ---
 
-# Liberatory epistemologies
+# liberatory epistemologies
 
 ## 📖 Definitions
 

@@ -34,7 +34,7 @@ relations:
   target: epistemic oppression
 ---
 
-# Contributory Injustice
+# contributory injustice
 
 ## 📖 Definitions
 

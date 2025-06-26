@@ -24,7 +24,7 @@ relations:
   target: epistemic creativity
 ---
 
-# Creative agency
+# creative agency
 
 ## 📖 Definitions
 

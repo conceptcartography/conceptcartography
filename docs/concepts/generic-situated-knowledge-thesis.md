@@ -16,7 +16,7 @@ relations:
   target: situated knowledge thesis
 ---
 
-# Generic situated knowledge thesis
+# generic situated knowledge thesis
 
 ## 📖 Definitions
 

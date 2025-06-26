@@ -21,9 +21,11 @@ examples:
 relations:
 - type: part of
   target: epistemologies of ignorance
+- type: counteracts
+  target: loving ignorance
 ---
 
-# Willful ignorance
+# willful ignorance
 
 ## 📖 Definitions
 
@@ -37,6 +39,7 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [epistemologies of ignorance](./epistemologies-of-ignorance.md)
+- **counteracts**: [loving ignorance](./loving-ignorance.md)
 
 ## 📚 References
 

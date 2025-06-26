@@ -16,9 +16,17 @@ examples: []
 relations:
 - type: depends on
   target: epistemic diversity
+- type: part of
+  target: situated knowledge thesis
+- type: part of
+  target: epistemic advantage thesis
+- type: part of
+  target: strong objectivitiy
+- type: part of
+  target: epistemic diversity
 ---
 
-# Standpoint Theory
+# standpoint theory
 
 ## 📖 Definitions
 
@@ -27,6 +35,10 @@ relations:
 ## 🔗 Relations
 
 - **depends on**: [epistemic diversity](./epistemic-diversity.md)
+- **part of**: [situated knowledge thesis](./situated-knowledge-thesis.md)
+- **part of**: [epistemic advantage thesis](./epistemic-advantage-thesis.md)
+- **part of**: [strong objectivitiy](./strong-objectivitiy.md)
+- **part of**: [epistemic diversity](./epistemic-diversity.md)
 
 ## 📚 References
 

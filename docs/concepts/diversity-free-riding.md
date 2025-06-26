@@ -14,9 +14,11 @@ relations:
   target: epistemic exploitation
 - type: depends on
   target: epistemic diversity work
+- type: counteracts
+  target: diversity development work
 ---
 
-# Diversity Free Riding
+# diversity free riding
 
 ## 📖 Definitions
 
@@ -26,6 +28,7 @@ relations:
 
 - **type of**: [epistemic exploitation](./epistemic-exploitation.md)
 - **depends on**: [epistemic diversity work](./epistemic-diversity-work.md)
+- **counteracts**: [diversity development work](./diversity-development-work.md)
 
 ## 📚 References
 

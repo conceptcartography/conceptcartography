@@ -26,7 +26,7 @@ relations:
   target: epistemic oppression
 ---
 
-# Third order epistemic exclusion
+# third order epistemic exclusion
 
 ## 📖 Definitions
 

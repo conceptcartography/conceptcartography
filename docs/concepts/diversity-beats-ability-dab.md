@@ -16,7 +16,7 @@ relations:
   target: epistemic diversity
 ---
 
-# diversity-beats-ability (DAB)
+# diversity-beats-ability (dab)
 
 ## 📖 Definitions
 

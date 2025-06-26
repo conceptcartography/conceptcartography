@@ -18,7 +18,7 @@ relations:
   target: novelty
 ---
 
-# Science fiction
+# science fiction
 
 ## 📖 Definitions
 

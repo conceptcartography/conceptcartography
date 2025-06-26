@@ -16,9 +16,11 @@ examples: []
 relations:
 - type: type of
   target: epistemic diversity
+- type: produces
+  target: epistemic diversity work
 ---
 
-# Effective epistemic diversity
+# effective epistemic diversity
 
 ## 📖 Definitions
 
@@ -27,6 +29,7 @@ relations:
 ## 🔗 Relations
 
 - **type of**: [epistemic diversity](./epistemic-diversity.md)
+- **produces**: [epistemic diversity work](./epistemic-diversity-work.md)
 
 ## 📚 References
 

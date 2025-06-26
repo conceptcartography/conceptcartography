@@ -15,10 +15,16 @@ definitions:
 examples:
 - description: women's health movement
   year: ''
-relations: []
+relations:
+- type: part of
+  target: willful ignorance
+- type: similar to
+  target: liberatory epistemologies
+- type: equivalent to
+  target: agnotology
 ---
 
-# Epistemologies of ignorance
+# epistemologies of ignorance
 
 ## 📖 Definitions
 
@@ -27,6 +33,12 @@ relations: []
 ## 💡 Examples
 
 - women's health movement
+
+## 🔗 Relations
+
+- **part of**: [willful ignorance](./willful-ignorance.md)
+- **similar to**: [liberatory epistemologies](./liberatory-epistemologies.md)
+- **equivalent to**: [agnotology](./agnotology.md)
 
 ## 📚 References
 

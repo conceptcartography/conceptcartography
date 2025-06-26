@@ -14,9 +14,13 @@ examples: []
 relations:
 - type: produces
   target: disorientation
+- type: part of
+  target: epistemic diversity work
+- type: part of
+  target: institutional passing
 ---
 
-# Diversity work
+# diversity work
 
 ## 📖 Definitions
 
@@ -25,6 +29,8 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [disorientation](./disorientation.md)
+- **part of**: [epistemic diversity work](./epistemic-diversity-work.md)
+- **part of**: [institutional passing](./institutional-passing.md)
 
 ## 📚 References
 

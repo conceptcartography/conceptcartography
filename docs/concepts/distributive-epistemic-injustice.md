@@ -10,9 +10,17 @@ examples: []
 relations:
 - type: type of
   target: epistemic injustice
+- type: counteracts
+  target: strong objectivitiy
+- type: type of
+  target: primary distributive epistemic injustice
+- type: type of
+  target: secondary distributive epistemic injustice
+- type: coextensive with
+  target: discriminatory epistemic injustice
 ---
 
-# Distributive Epistemic Injustice
+# distributive epistemic injustice
 
 ## 📖 Definitions
 
@@ -21,6 +29,10 @@ relations:
 ## 🔗 Relations
 
 - **type of**: [epistemic injustice](./epistemic-injustice.md)
+- **counteracts**: [strong objectivitiy](./strong-objectivitiy.md)
+- **type of**: [primary distributive epistemic injustice](./primary-distributive-epistemic-injustice.md)
+- **type of**: [secondary distributive epistemic injustice](./secondary-distributive-epistemic-injustice.md)
+- **coextensive with**: [discriminatory epistemic injustice](./discriminatory-epistemic-injustice.md)
 
 ## 📚 References
 

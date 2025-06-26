@@ -15,7 +15,7 @@ relations:
   target: epistemic exploitation
 ---
 
-# Extracted Speech
+# extracted speech
 
 ## 📖 Definitions
 

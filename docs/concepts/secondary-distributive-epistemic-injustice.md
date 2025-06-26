@@ -15,7 +15,7 @@ relations:
   target: distributive epistemic injustice
 ---
 
-# Secondary Distributive Epistemic Injustice
+# secondary distributive epistemic injustice
 
 ## 📖 Definitions
 

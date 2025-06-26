@@ -28,7 +28,7 @@ relations:
   target: testimonial injustice
 ---
 
-# Participatory epistemic injustice
+# participatory epistemic injustice
 
 ## 📖 Definitions
 

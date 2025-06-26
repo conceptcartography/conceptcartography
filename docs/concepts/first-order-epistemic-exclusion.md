@@ -28,7 +28,7 @@ relations:
   target: testimonial injustice
 ---
 
-# First order epistemic exclusion
+# first order epistemic exclusion
 
 ## 📖 Definitions
 

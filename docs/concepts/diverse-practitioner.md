@@ -16,9 +16,11 @@ examples:
 relations:
 - type: part of
   target: situational diversity
+- type: distinct from
+  target: commonplace practitioners
 ---
 
-# Diverse practitioner
+# diverse practitioner
 
 ## 📖 Definitions
 
@@ -31,6 +33,7 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [situational diversity](./situational-diversity.md)
+- **distinct from**: [commonplace practitioners](./commonplace-practitioners.md)
 
 ## 📚 References
 

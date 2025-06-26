@@ -24,9 +24,13 @@ examples:
 relations:
 - type: produces
   target: hermeneutical injustice
+- type: produces
+  target: micro-agression
+- type: produces
+  target: unwarranted exclusion
 ---
 
-# Hermeneutical marginalization
+# hermeneutical marginalization
 
 ## 📖 Definitions
 
@@ -39,6 +43,8 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [hermeneutical injustice](./hermeneutical-injustice.md)
+- **produces**: [micro-agression](./micro-agression.md)
+- **produces**: [unwarranted exclusion](./unwarranted-exclusion.md)
 
 ## 📚 References
 

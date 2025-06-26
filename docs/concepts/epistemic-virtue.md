@@ -13,9 +13,11 @@ examples: []
 relations:
 - type: similar to
   target: cognitive/epistemic value
+- type: part of
+  target: epistemic creativity
 ---
 
-# Epistemic virtue
+# epistemic virtue
 
 ## 📖 Definitions
 
@@ -24,6 +26,7 @@ relations:
 ## 🔗 Relations
 
 - **similar to**: [cognitive/epistemic value](./cognitive-epistemic-value.md)
+- **part of**: [epistemic creativity](./epistemic-creativity.md)
 
 ## 📚 References
 

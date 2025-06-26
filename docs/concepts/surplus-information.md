@@ -10,9 +10,13 @@ examples: []
 relations:
 - type: part of
   target: informational asymmetry
+- type: type of
+  target: first-level surplus information
+- type: type of
+  target: second-level surplus information
 ---
 
-# Surplus Information
+# surplus information
 
 ## 📖 Definitions
 
@@ -21,6 +25,8 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [informational asymmetry](./informational-asymmetry.md)
+- **type of**: [first-level surplus information](./first-level-surplus-information.md)
+- **type of**: [second-level surplus information](./second-level-surplus-information.md)
 
 ## 📚 References
 

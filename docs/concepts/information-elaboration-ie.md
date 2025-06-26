@@ -24,7 +24,7 @@ relations:
   target: epistemic diversity
 ---
 
-# Information elaboration (IE)
+# information elaboration (ie)
 
 ## 📖 Definitions
 

@@ -17,9 +17,11 @@ examples:
 relations:
 - type: produces
   target: epistemic diversity
+- type: part of
+  target: novelty
 ---
 
-# Scientific discovery
+# scientific discovery
 
 ## 📖 Definitions
 
@@ -32,6 +34,7 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [epistemic diversity](./epistemic-diversity.md)
+- **part of**: [novelty](./novelty.md)
 
 ## 📚 References
 

@@ -16,7 +16,7 @@ relations:
   target: epistemic diversity
 ---
 
-# Diversity advocates
+# diversity advocates
 
 ## 📖 Definitions
 

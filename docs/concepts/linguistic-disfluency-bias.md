@@ -17,7 +17,7 @@ relations:
   target: linguistic bias
 ---
 
-# Linguistic disfluency bias
+# linguistic disfluency bias
 
 ## 📖 Definitions
 

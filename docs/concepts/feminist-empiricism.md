@@ -11,9 +11,15 @@ examples: []
 relations:
 - type: depends on
   target: epistemic diversity
+- type: part of
+  target: epistemic diversity
+- type: part of
+  target: cancelling out explanation
+- type: part of
+  target: triangulation explanation
 ---
 
-# Feminist Empiricism
+# feminist empiricism
 
 ## 📖 Definitions
 
@@ -22,6 +28,9 @@ relations:
 ## 🔗 Relations
 
 - **depends on**: [epistemic diversity](./epistemic-diversity.md)
+- **part of**: [epistemic diversity](./epistemic-diversity.md)
+- **part of**: [cancelling out explanation](./cancelling-out-explanation.md)
+- **part of**: [triangulation explanation](./triangulation-explanation.md)
 
 ## 📚 References
 

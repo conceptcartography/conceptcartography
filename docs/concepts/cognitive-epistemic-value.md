@@ -19,9 +19,11 @@ examples: []
 relations:
 - type: part of
   target: epistemic diversity
+- type: similar to
+  target: epistemic virtue
 ---
 
-# Cognitive/epistemic value
+# cognitive/epistemic value
 
 ## 📖 Definitions
 
@@ -31,6 +33,7 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [epistemic diversity](./epistemic-diversity.md)
+- **similar to**: [epistemic virtue](./epistemic-virtue.md)
 
 ## 📚 References
 

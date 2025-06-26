@@ -16,9 +16,15 @@ relations:
   target: epistemic injustice
 - type: type of
   target: informational injustice
+- type: depends on
+  target: epistemic trademarking
+- type: distinct from
+  target: epistemic blinkering
+- type: counteracts
+  target: reinstatement remedies
 ---
 
-# Epistemic severing
+# epistemic severing
 
 ## 📖 Definitions
 
@@ -32,6 +38,9 @@ relations:
 
 - **type of**: [epistemic injustice](./epistemic-injustice.md)
 - **type of**: [informational injustice](./informational-injustice.md)
+- **depends on**: [epistemic trademarking](./epistemic-trademarking.md)
+- **distinct from**: [epistemic blinkering](./epistemic-blinkering.md)
+- **counteracts**: [reinstatement remedies](./reinstatement-remedies.md)
 
 ## 📚 References
 

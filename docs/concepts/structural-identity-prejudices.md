@@ -12,7 +12,7 @@ relations:
   target: hermeneutical injustice
 ---
 
-# Structural identity prejudices
+# structural identity prejudices
 
 ## 📖 Definitions
 

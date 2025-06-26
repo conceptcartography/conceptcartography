@@ -19,7 +19,7 @@ relations:
   target: testimonial injustice
 ---
 
-# Identity prejudice
+# identity prejudice
 
 ## 📖 Definitions
 

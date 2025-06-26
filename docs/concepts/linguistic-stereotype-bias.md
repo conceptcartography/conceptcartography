@@ -13,7 +13,7 @@ relations:
   target: linguistic bias
 ---
 
-# Linguistic stereotype bias
+# linguistic stereotype bias
 
 ## 📖 Definitions
 

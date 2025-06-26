@@ -16,7 +16,7 @@ relations:
   target: epistemic disadvantage
 ---
 
-# Warranted Exclusion
+# warranted exclusion
 
 ## 📖 Definitions
 

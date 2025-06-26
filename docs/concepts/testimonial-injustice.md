@@ -10,9 +10,33 @@ examples: []
 relations:
 - type: type of
   target: epistemic injustice
+- type: type of
+  target: systematic testimonial injustice
+- type: similar to
+  target: participatory epistemic injustice
+- type: similar to
+  target: first order epistemic exclusion
+- type: type of
+  target: credibility bias
+- type: produces
+  target: epistemically disadvantaged identities
+- type: type of
+  target: epistemic agential injustice
+- type: produces
+  target: transactional testimonial injustice
+- type: part of
+  target: structural testimonial injustice
+- type: produces
+  target: testimonial betrayal
+- type: produces
+  target: micro-agression
+- type: produces
+  target: identity prejudice
+- type: produces
+  target: non-dominant hermeneutical marginalization
 ---
 
-# Testimonial Injustice
+# testimonial injustice
 
 ## 📖 Definitions
 
@@ -21,6 +45,18 @@ relations:
 ## 🔗 Relations
 
 - **type of**: [epistemic injustice](./epistemic-injustice.md)
+- **type of**: [systematic testimonial injustice](./systematic-testimonial-injustice.md)
+- **similar to**: [participatory epistemic injustice](./participatory-epistemic-injustice.md)
+- **similar to**: [first order epistemic exclusion](./first-order-epistemic-exclusion.md)
+- **type of**: [credibility bias](./credibility-bias.md)
+- **produces**: [epistemically disadvantaged identities](./epistemically-disadvantaged-identities.md)
+- **type of**: [epistemic agential injustice](./epistemic-agential-injustice.md)
+- **produces**: [transactional testimonial injustice](./transactional-testimonial-injustice.md)
+- **part of**: [structural testimonial injustice](./structural-testimonial-injustice.md)
+- **produces**: [testimonial betrayal](./testimonial-betrayal.md)
+- **produces**: [micro-agression](./micro-agression.md)
+- **produces**: [identity prejudice](./identity-prejudice.md)
+- **produces**: [non-dominant hermeneutical marginalization](./non-dominant-hermeneutical-marginalization.md)
 
 ## 📚 References
 

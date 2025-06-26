@@ -21,7 +21,7 @@ relations:
   target: epistemic extractivism
 ---
 
-# Epistemic trademarking
+# epistemic trademarking
 
 ## 📖 Definitions
 

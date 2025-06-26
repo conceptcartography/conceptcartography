@@ -341,6 +341,11 @@
       "type": "equivalent to"
     },
     {
+      "source": "epistemologies of ignorance",
+      "target": "agnotology",
+      "type": "equivalent to"
+    },
+    {
       "source": "cancelling out explanation",
       "target": "epistemic diversity",
       "type": "depends on"
@@ -354,6 +359,16 @@
       "source": "cognitive/epistemic value",
       "target": "epistemic diversity",
       "type": "part of"
+    },
+    {
+      "source": "cognitive/epistemic value",
+      "target": "epistemic virtue",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic virtue",
+      "target": "cognitive/epistemic value",
+      "type": "similar to"
     },
     {
       "source": "commonplace practitioners",
@@ -391,14 +406,49 @@
       "type": "coextensive with"
     },
     {
+      "source": "disorientation",
+      "target": "diversity work",
+      "type": "produces"
+    },
+    {
       "source": "distributive epistemic injustice",
       "target": "epistemic injustice",
       "type": "type of"
     },
     {
+      "source": "distributive epistemic injustice",
+      "target": "strong objectivitiy",
+      "type": "counteracts"
+    },
+    {
+      "source": "strong objectivitiy",
+      "target": "distributive epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "distributive epistemic injustice",
+      "target": "primary distributive epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "distributive epistemic injustice",
+      "target": "secondary distributive epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "distributive epistemic injustice",
+      "target": "discriminatory epistemic injustice",
+      "type": "coextensive with"
+    },
+    {
       "source": "diverse practitioner",
       "target": "situational diversity",
       "type": "part of"
+    },
+    {
+      "source": "diverse practitioner",
+      "target": "commonplace practitioners",
+      "type": "distinct from"
     },
     {
       "source": "diversity advocates",
@@ -421,6 +471,11 @@
       "type": "counteracts"
     },
     {
+      "source": "diversity free riding",
+      "target": "diversity development work",
+      "type": "counteracts"
+    },
+    {
       "source": "diversity development work",
       "target": "epistemic diversity work",
       "type": "produces"
@@ -436,14 +491,39 @@
       "type": "depends on"
     },
     {
+      "source": "diversity free riding",
+      "target": "diversity development work",
+      "type": "counteracts"
+    },
+    {
+      "source": "diversity development work",
+      "target": "diversity free riding",
+      "type": "counteracts"
+    },
+    {
       "source": "diversity work",
       "target": "disorientation",
       "type": "produces"
     },
     {
+      "source": "diversity work",
+      "target": "epistemic diversity work",
+      "type": "part of"
+    },
+    {
+      "source": "diversity work",
+      "target": "institutional passing",
+      "type": "part of"
+    },
+    {
       "source": "effective epistemic diversity",
       "target": "epistemic diversity",
       "type": "type of"
+    },
+    {
+      "source": "effective epistemic diversity",
+      "target": "epistemic diversity work",
+      "type": "produces"
     },
     {
       "source": "epistemic advantage thesis",
@@ -471,6 +551,11 @@
       "type": "part of"
     },
     {
+      "source": "epistemic creativity",
+      "target": "creative agency",
+      "type": "depends on"
+    },
+    {
       "source": "epistemic death*",
       "target": "testimonial death",
       "type": "part of"
@@ -486,9 +571,19 @@
       "type": "similar to"
     },
     {
+      "source": "epistemic injustice",
+      "target": "epistemic disadvantage",
+      "type": "similar to"
+    },
+    {
       "source": "epistemic disadvantage",
       "target": "epistemic injustice",
       "type": "distinct from"
+    },
+    {
+      "source": "epistemic disadvantage",
+      "target": "warranted exclusion",
+      "type": "produces"
     },
     {
       "source": "epistemic diversity work",
@@ -501,6 +596,16 @@
       "type": "part of"
     },
     {
+      "source": "epistemic diversity work",
+      "target": "diversity free riding",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic diversity work",
+      "target": "diversity development work",
+      "type": "produces"
+    },
+    {
       "source": "epistemic diversity",
       "target": "feminist empiricism",
       "type": "part of"
@@ -509,6 +614,96 @@
       "source": "epistemic diversity",
       "target": "standpoint theory",
       "type": "part of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "standpoint theory",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "feminist empiricism",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "situated knowledges",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "strong objectivitiy",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "situational diversity",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "effective epistemic diversity",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "ineffective epistemic diversity",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "cognitive/epistemic value",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "diversity can benefit information elaboration (dbie)",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "information elaboration (ie)",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "cancelling out explanation",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "triangulation explanation",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "ideological diversity",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "transient diversity",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "diversity-beats-ability (dab)",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "diversity advocates",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "epistemic creativity",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "scientific discovery",
+      "type": "produces"
     },
     {
       "source": "epistemic exploitation",
@@ -526,9 +721,9 @@
       "type": "hall"
     },
     {
-      "source": "epistemic explotiation",
-      "target": "epistemic opression",
-      "type": "type of"
+      "source": "epistemic exploitation",
+      "target": "epistemic extractivism",
+      "type": "similar to"
     },
     {
       "source": "epistemic extractivism",
@@ -536,8 +731,43 @@
       "type": "similar to"
     },
     {
-      "source": "epistemic freedom",
-      "target": "epistemic injustice",
+      "source": "epistemic exploitation",
+      "target": "diversity free riding",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic exploitation",
+      "target": "extracted speech",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic explotiation",
+      "target": "epistemic opression",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic explotiation",
+      "target": "stereotype threat",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic explotiation",
+      "target": "the novelty tax",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic extractivism",
+      "target": "epistemic exploitation",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic exploitation",
+      "target": "epistemic extractivism",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic extractivism",
+      "target": "epistemic humility",
       "type": "counteracts"
     },
     {
@@ -546,8 +776,213 @@
       "type": "counteracts"
     },
     {
+      "source": "epistemic extractivism",
+      "target": "epistemic trademarking",
+      "type": "equivalent to"
+    },
+    {
+      "source": "epistemic trademarking",
+      "target": "epistemic extractivism",
+      "type": "equivalent to"
+    },
+    {
+      "source": "epistemic freedom",
+      "target": "epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic freedom",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic humility",
+      "target": "epistemic extractivism",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic extractivism",
+      "target": "epistemic humility",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "testimonial injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "informational injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "distributive epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "scientific/intellectual movement (sim)",
+      "type": "counteracts"
+    },
+    {
+      "source": "scientific/intellectual movement (sim)",
+      "target": "epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "participatory epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic trust injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic disadvantage",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic disadvantage",
+      "target": "epistemic injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic disadvantage",
+      "type": "distinct from"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "linguistic epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "interlacing",
+      "type": "counteracts"
+    },
+    {
+      "source": "interlacing",
+      "target": "epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic severing",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic trademarking",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic freedom",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic freedom",
+      "target": "epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "contributory injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic labor invalidation",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic exploitation",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "hermeneutical injustice",
+      "type": "type of"
+    },
+    {
       "source": "epistemic labor invalidation",
       "target": "epistemic injustice",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "epistemic exploitation",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "first order epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "second order epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "third order epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "epistemic power",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "ineffective epistemic diversity",
+      "type": "similar to"
+    },
+    {
+      "source": "ineffective epistemic diversity",
+      "target": "epistemic oppression",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "sexist values",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "epistemological resistance movement",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemological resistance movement",
+      "target": "epistemic oppression",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "contributory injustice",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "world traveling",
+      "type": "counteracts"
+    },
+    {
+      "source": "world traveling",
+      "target": "epistemic oppression",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "willful hermeneutical ignorance",
       "type": "produces"
     },
     {
@@ -566,6 +1001,26 @@
       "type": "type of"
     },
     {
+      "source": "epistemic severing",
+      "target": "epistemic trademarking",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic severing",
+      "target": "epistemic blinkering",
+      "type": "distinct from"
+    },
+    {
+      "source": "epistemic severing",
+      "target": "reinstatement remedies",
+      "type": "counteracts"
+    },
+    {
+      "source": "reinstatement remedies",
+      "target": "epistemic severing",
+      "type": "counteracts"
+    },
+    {
       "source": "epistemic trademarking",
       "target": "epistemic severing",
       "type": "depends on"
@@ -581,6 +1036,11 @@
       "type": "equivalent to"
     },
     {
+      "source": "epistemic extractivism",
+      "target": "epistemic trademarking",
+      "type": "equivalent to"
+    },
+    {
       "source": "epistemic trust injustice",
       "target": "epistemic injustice",
       "type": "type of"
@@ -589,6 +1049,16 @@
       "source": "epistemic virtue",
       "target": "cognitive/epistemic value",
       "type": "similar to"
+    },
+    {
+      "source": "cognitive/epistemic value",
+      "target": "epistemic virtue",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic virtue",
+      "target": "epistemic creativity",
+      "type": "part of"
     },
     {
       "source": "epistemically disadvantaged identities",
@@ -601,9 +1071,54 @@
       "type": "counteracts"
     },
     {
+      "source": "epistemic oppression",
+      "target": "epistemological resistance movement",
+      "type": "counteracts"
+    },
+    {
       "source": "epistemological resistance movement",
       "target": "scientific/intellectual movement (sim)",
       "type": "similar to"
+    },
+    {
+      "source": "scientific/intellectual movement (sim)",
+      "target": "epistemological resistance movement",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemological resistance movement",
+      "target": "liberatory epistemologies",
+      "type": "similar to"
+    },
+    {
+      "source": "liberatory epistemologies",
+      "target": "epistemological resistance movement",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemologies of ignorance",
+      "target": "willful ignorance",
+      "type": "part of"
+    },
+    {
+      "source": "epistemologies of ignorance",
+      "target": "liberatory epistemologies",
+      "type": "similar to"
+    },
+    {
+      "source": "liberatory epistemologies",
+      "target": "epistemologies of ignorance",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemologies of ignorance",
+      "target": "agnotology",
+      "type": "equivalent to"
+    },
+    {
+      "source": "agnotology",
+      "target": "epistemologies of ignorance",
+      "type": "equivalent to"
     },
     {
       "source": "extracted speech",
@@ -614,6 +1129,21 @@
       "source": "feminist empiricism",
       "target": "epistemic diversity",
       "type": "depends on"
+    },
+    {
+      "source": "feminist empiricism",
+      "target": "epistemic diversity",
+      "type": "part of"
+    },
+    {
+      "source": "feminist empiricism",
+      "target": "cancelling out explanation",
+      "type": "part of"
+    },
+    {
+      "source": "feminist empiricism",
+      "target": "triangulation explanation",
+      "type": "part of"
     },
     {
       "source": "first-level surplus information",
@@ -631,6 +1161,11 @@
       "type": "similar to"
     },
     {
+      "source": "testimonial injustice",
+      "target": "first order epistemic exclusion",
+      "type": "similar to"
+    },
+    {
       "source": "generic situated knowledge thesis",
       "target": "situated knowledge thesis",
       "type": "type of"
@@ -638,6 +1173,11 @@
     {
       "source": "hermeneutical death",
       "target": "epistemic death",
+      "type": "part of"
+    },
+    {
+      "source": "hermeneutical death",
+      "target": "epistemic death*",
       "type": "part of"
     },
     {
@@ -651,8 +1191,58 @@
       "type": "type of"
     },
     {
+      "source": "hermeneutical injustice",
+      "target": "second order epistemic exclusion",
+      "type": "similar to"
+    },
+    {
+      "source": "second order epistemic exclusion",
+      "target": "hermeneutical injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "ineffective epistemic diversity",
+      "type": "similar to"
+    },
+    {
+      "source": "ineffective epistemic diversity",
+      "target": "hermeneutical injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "willful hermeneutical ignorance",
+      "type": "type of"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "white ignorance",
+      "type": "produces"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "hermeneutical marginalization",
+      "type": "produces"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "structural identity prejudices",
+      "type": "produces"
+    },
+    {
       "source": "hermeneutical marginalization",
       "target": "hermeneutical injustice",
+      "type": "produces"
+    },
+    {
+      "source": "hermeneutical marginalization",
+      "target": "micro-agression",
+      "type": "produces"
+    },
+    {
+      "source": "hermeneutical marginalization",
+      "target": "unwarranted exclusion",
       "type": "produces"
     },
     {
@@ -676,8 +1266,18 @@
       "type": "similar to"
     },
     {
+      "source": "hermeneutical injustice",
+      "target": "ineffective epistemic diversity",
+      "type": "similar to"
+    },
+    {
       "source": "ineffective epistemic diversity",
       "target": "epistemic oppression",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "ineffective epistemic diversity",
       "type": "similar to"
     },
     {
@@ -691,8 +1291,23 @@
       "type": "part of"
     },
     {
+      "source": "informational asymmetry",
+      "target": "surplus information",
+      "type": "part of"
+    },
+    {
       "source": "informational injustice",
       "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "informational injustice",
+      "target": "informational asymmetry",
+      "type": "part of"
+    },
+    {
+      "source": "informational injustice",
+      "target": "epistemic severing",
       "type": "type of"
     },
     {
@@ -706,8 +1321,18 @@
       "type": "counteracts"
     },
     {
+      "source": "epistemic injustice",
+      "target": "interlacing",
+      "type": "counteracts"
+    },
+    {
       "source": "liberatory epistemologies",
       "target": "epistemological resistance movement",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemological resistance movement",
+      "target": "liberatory epistemologies",
       "type": "similar to"
     },
     {
@@ -716,9 +1341,24 @@
       "type": "similar to"
     },
     {
+      "source": "epistemologies of ignorance",
+      "target": "liberatory epistemologies",
+      "type": "similar to"
+    },
+    {
       "source": "linguistic bias",
       "target": "linguistic injustice",
       "type": "part of"
+    },
+    {
+      "source": "linguistic bias",
+      "target": "linguistic stereotype bias",
+      "type": "type of"
+    },
+    {
+      "source": "linguistic bias",
+      "target": "linguistic disfluency bias",
+      "type": "type of"
     },
     {
       "source": "linguistic disfluency bias",
@@ -731,9 +1371,19 @@
       "type": "type of"
     },
     {
+      "source": "linguistic epistemic injustice",
+      "target": "linguistic injustice",
+      "type": "produces"
+    },
+    {
       "source": "linguistic injustice",
       "target": "linguistic epistemic injustice",
       "type": "produces"
+    },
+    {
+      "source": "linguistic injustice",
+      "target": "linguistic bias",
+      "type": "part of"
     },
     {
       "source": "linguistic stereotype bias",
@@ -743,6 +1393,11 @@
     {
       "source": "loving ignorance",
       "target": "willful ignorance",
+      "type": "counteracts"
+    },
+    {
+      "source": "willful ignorance",
+      "target": "loving ignorance",
       "type": "counteracts"
     },
     {
@@ -766,6 +1421,11 @@
       "type": "part of"
     },
     {
+      "source": "novelty",
+      "target": "science fiction",
+      "type": "produces"
+    },
+    {
       "source": "participatory epistemic injustice",
       "target": "epistemic injustice",
       "type": "type of"
@@ -773,6 +1433,11 @@
     {
       "source": "participatory epistemic injustice",
       "target": "testimonial injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "participatory epistemic injustice",
       "type": "similar to"
     },
     {
@@ -786,6 +1451,11 @@
       "type": "counteracts"
     },
     {
+      "source": "epistemic severing",
+      "target": "reinstatement remedies",
+      "type": "counteracts"
+    },
+    {
       "source": "science fiction",
       "target": "novelty",
       "type": "produces"
@@ -796,9 +1466,29 @@
       "type": "produces"
     },
     {
+      "source": "scientific discovery",
+      "target": "novelty",
+      "type": "part of"
+    },
+    {
       "source": "scientific/intellectual movement (sim)",
       "target": "epistemic injustice",
       "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "scientific/intellectual movement (sim)",
+      "type": "counteracts"
+    },
+    {
+      "source": "scientific/intellectual movement (sim)",
+      "target": "epistemological resistance movement",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemological resistance movement",
+      "target": "scientific/intellectual movement (sim)",
+      "type": "similar to"
     },
     {
       "source": "second-level surplus information",
@@ -813,6 +1503,11 @@
     {
       "source": "second order epistemic exclusion",
       "target": "hermeneutical injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "second order epistemic exclusion",
       "type": "similar to"
     },
     {
@@ -831,6 +1526,21 @@
       "type": "part of"
     },
     {
+      "source": "situated knowledge thesis",
+      "target": "situated knowledges",
+      "type": "part of"
+    },
+    {
+      "source": "situated knowledge thesis",
+      "target": "generic situated knowledge thesis",
+      "type": "type of"
+    },
+    {
+      "source": "situated knowledge thesis",
+      "target": "systemic situated knowledge thesis",
+      "type": "type of"
+    },
+    {
       "source": "situated knowledges",
       "target": "situated knowledge thesis",
       "type": "part of"
@@ -846,9 +1556,34 @@
       "type": "produces"
     },
     {
+      "source": "situational diversity",
+      "target": "diverse practitioner",
+      "type": "part of"
+    },
+    {
       "source": "standpoint theory",
       "target": "epistemic diversity",
       "type": "depends on"
+    },
+    {
+      "source": "standpoint theory",
+      "target": "situated knowledge thesis",
+      "type": "part of"
+    },
+    {
+      "source": "standpoint theory",
+      "target": "epistemic advantage thesis",
+      "type": "part of"
+    },
+    {
+      "source": "standpoint theory",
+      "target": "strong objectivitiy",
+      "type": "part of"
+    },
+    {
+      "source": "standpoint theory",
+      "target": "epistemic diversity",
+      "type": "part of"
     },
     {
       "source": "stereotype threat",
@@ -871,6 +1606,11 @@
       "type": "counteracts"
     },
     {
+      "source": "distributive epistemic injustice",
+      "target": "strong objectivitiy",
+      "type": "counteracts"
+    },
+    {
       "source": "structural identity prejudices",
       "target": "hermeneutical injustice",
       "type": "produces"
@@ -884,6 +1624,16 @@
       "source": "surplus information",
       "target": "informational asymmetry",
       "type": "part of"
+    },
+    {
+      "source": "surplus information",
+      "target": "first-level surplus information",
+      "type": "type of"
+    },
+    {
+      "source": "surplus information",
+      "target": "second-level surplus information",
+      "type": "type of"
     },
     {
       "source": "systematic testimonial injustice",
@@ -906,9 +1656,84 @@
       "type": "part of"
     },
     {
+      "source": "testimonial death",
+      "target": "epistemic death*",
+      "type": "part of"
+    },
+    {
       "source": "testimonial injustice",
       "target": "epistemic injustice",
       "type": "type of"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "systematic testimonial injustice",
+      "type": "type of"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "participatory epistemic injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "participatory epistemic injustice",
+      "target": "testimonial injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "first order epistemic exclusion",
+      "type": "similar to"
+    },
+    {
+      "source": "first order epistemic exclusion",
+      "target": "testimonial injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "credibility bias",
+      "type": "type of"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "epistemically disadvantaged identities",
+      "type": "produces"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "epistemic agential injustice",
+      "type": "type of"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "transactional testimonial injustice",
+      "type": "produces"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "structural testimonial injustice",
+      "type": "part of"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "testimonial betrayal",
+      "type": "produces"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "micro-agression",
+      "type": "produces"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "identity prejudice",
+      "type": "produces"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "non-dominant hermeneutical marginalization",
+      "type": "produces"
     },
     {
       "source": "the novelty tax",
@@ -956,6 +1781,11 @@
       "type": "similar to"
     },
     {
+      "source": "strong objectivity",
+      "target": "well-ordered science",
+      "type": "similar to"
+    },
+    {
       "source": "white ignorance",
       "target": "hermeneutical injustice",
       "type": "produces"
@@ -971,13 +1801,33 @@
       "type": "produces"
     },
     {
+      "source": "willful hermeneutical ignorance",
+      "target": "contributory injustice",
+      "type": "produced by"
+    },
+    {
       "source": "willful ignorance",
       "target": "epistemologies of ignorance",
       "type": "part of"
     },
     {
+      "source": "willful ignorance",
+      "target": "loving ignorance",
+      "type": "counteracts"
+    },
+    {
+      "source": "loving ignorance",
+      "target": "willful ignorance",
+      "type": "counteracts"
+    },
+    {
       "source": "world traveling",
       "target": "epistemic oppression",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "world traveling",
       "type": "counteracts"
     }
   ]

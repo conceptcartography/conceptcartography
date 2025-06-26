@@ -15,7 +15,7 @@ relations:
   target: epistemic oppression
 ---
 
-# Epistemic power
+# epistemic power
 
 ## 📖 Definitions
 

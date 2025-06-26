@@ -14,10 +14,32 @@ definitions:
 examples:
 - description: suppression and lack of uptake of black feminist thought
   year: ''
-relations: []
+relations:
+- type: part of
+  target: epistemic exploitation
+- type: type of
+  target: first order epistemic exclusion
+- type: type of
+  target: second order epistemic exclusion
+- type: type of
+  target: third order epistemic exclusion
+- type: part of
+  target: epistemic power
+- type: similar to
+  target: ineffective epistemic diversity
+- type: produces
+  target: sexist values
+- type: counteracts
+  target: epistemological resistance movement
+- type: part of
+  target: contributory injustice
+- type: counteracts
+  target: world traveling
+- type: produces
+  target: willful hermeneutical ignorance
 ---
 
-# Epistemic oppression
+# epistemic oppression
 
 ## 📖 Definitions
 
@@ -26,6 +48,20 @@ relations: []
 ## 💡 Examples
 
 - suppression and lack of uptake of black feminist thought
+
+## 🔗 Relations
+
+- **part of**: [epistemic exploitation](./epistemic-exploitation.md)
+- **type of**: [first order epistemic exclusion](./first-order-epistemic-exclusion.md)
+- **type of**: [second order epistemic exclusion](./second-order-epistemic-exclusion.md)
+- **type of**: [third order epistemic exclusion](./third-order-epistemic-exclusion.md)
+- **part of**: [epistemic power](./epistemic-power.md)
+- **similar to**: [ineffective epistemic diversity](./ineffective-epistemic-diversity.md)
+- **produces**: [sexist values](./sexist-values.md)
+- **counteracts**: [epistemological resistance movement](./epistemological-resistance-movement.md)
+- **part of**: [contributory injustice](./contributory-injustice.md)
+- **counteracts**: [world traveling](./world-traveling.md)
+- **produces**: [willful hermeneutical ignorance](./willful-hermeneutical-ignorance.md)
 
 ## 📚 References
 

@@ -11,9 +11,15 @@ examples: []
 relations:
 - type: part of
   target: standpoint theory
+- type: part of
+  target: situated knowledges
+- type: type of
+  target: generic situated knowledge thesis
+- type: type of
+  target: systemic situated knowledge thesis
 ---
 
-# Situated Knowledge Thesis
+# situated knowledge thesis
 
 ## 📖 Definitions
 
@@ -22,6 +28,9 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [standpoint theory](./standpoint-theory.md)
+- **part of**: [situated knowledges](./situated-knowledges.md)
+- **type of**: [generic situated knowledge thesis](./generic-situated-knowledge-thesis.md)
+- **type of**: [systemic situated knowledge thesis](./systemic-situated-knowledge-thesis.md)
 
 ## 📚 References
 

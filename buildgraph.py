@@ -9,6 +9,13 @@ output_path = "docs/assets/graph.json"
 nodes = {}
 edges = []
 
+# Define symmetric relation types that should be bidirectional
+symmetric_relations = {
+    "equivalent to",
+    "similar to",
+    "counteracts"
+}
+
 def extract_frontmatter(content):
     match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
     if not match:
@@ -26,9 +33,9 @@ for filename in os.listdir(concept_dir):
                 continue
 
             concept = data["concept"].strip().lower()
-            nodes[concept] = True  # track unique concepts
+            nodes[concept] = True
 
-# Step 2: Parse all relations
+# Step 2: Parse relations
 for filename in os.listdir(concept_dir):
     if filename.endswith(".md"):
         with open(os.path.join(concept_dir, filename), "r", encoding="utf-8") as f:
@@ -39,11 +46,11 @@ for filename in os.listdir(concept_dir):
 
             source = data["concept"].strip().lower()
 
-            source = data["concept"].strip().lower()
             for rel in data.get("relations", []):
                 target = rel.get("target", "").strip().lower()
-                rel_type = rel.get("type", "").strip()
+                rel_type = rel.get("type", "").strip().lower()
                 if target and rel_type:
+                    # Add the original edge
                     edges.append({
                         "source": source,
                         "target": target,
@@ -51,8 +58,15 @@ for filename in os.listdir(concept_dir):
                     })
                     nodes[target] = True
 
+                    # Add symmetric reverse edge if applicable
+                    if rel_type in symmetric_relations and source != target:
+                        edges.append({
+                            "source": target,
+                            "target": source,
+                            "type": rel_type
+                        })
 
-# Final JSON structure
+# Final graph
 graph = {
     "nodes": [{"id": concept} for concept in sorted(nodes)],
     "links": edges

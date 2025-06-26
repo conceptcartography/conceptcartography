@@ -17,9 +17,11 @@ examples:
 relations:
 - type: type of
   target: epistemic injustice
+- type: produces
+  target: linguistic injustice
 ---
 
-# Linguistic epistemic injustice
+# linguistic epistemic injustice
 
 ## 📖 Definitions
 
@@ -32,6 +34,7 @@ relations:
 ## 🔗 Relations
 
 - **type of**: [epistemic injustice](./epistemic-injustice.md)
+- **produces**: [linguistic injustice](./linguistic-injustice.md)
 
 ## 📚 References
 

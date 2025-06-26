@@ -20,7 +20,7 @@ relations:
   target: testimonial injustice
 ---
 
-# Credibility Bias
+# credibility bias
 
 ## 📖 Definitions
 

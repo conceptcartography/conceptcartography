@@ -26,7 +26,7 @@ relations:
   target: distributive epistemic injustice
 ---
 
-# Strong Objectivitiy
+# strong objectivitiy
 
 ## 📖 Definitions
 

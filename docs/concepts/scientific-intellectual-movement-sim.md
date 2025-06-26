@@ -15,9 +15,11 @@ examples:
 relations:
 - type: counteracts
   target: epistemic injustice
+- type: similar to
+  target: epistemological resistance movement
 ---
 
-# Scientific/Intellectual Movement (SiM)
+# scientific/intellectual movement (sim)
 
 ## 📖 Definitions
 
@@ -30,6 +32,7 @@ relations:
 ## 🔗 Relations
 
 - **counteracts**: [epistemic injustice](./epistemic-injustice.md)
+- **similar to**: [epistemological resistance movement](./epistemological-resistance-movement.md)
 
 ## 📚 References
 

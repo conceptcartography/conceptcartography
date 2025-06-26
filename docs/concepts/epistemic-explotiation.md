@@ -11,9 +11,13 @@ examples: []
 relations:
 - type: type of
   target: epistemic opression
+- type: part of
+  target: stereotype threat
+- type: part of
+  target: the novelty tax
 ---
 
-# Epistemic Explotiation
+# epistemic explotiation
 
 ## 📖 Definitions
 
@@ -24,6 +28,8 @@ back B’s interests relative to A’s interests."  [(Fehr and Minji, 2022, p.8)
 ## 🔗 Relations
 
 - **type of**: [epistemic opression](./epistemic-opression.md)
+- **part of**: [stereotype threat](./stereotype-threat.md)
+- **part of**: [the novelty tax](./the-novelty-tax.md)
 
 ## 📚 References
 

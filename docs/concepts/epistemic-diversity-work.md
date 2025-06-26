@@ -18,9 +18,13 @@ relations:
   target: effective epistemic diversity
 - type: part of
   target: diversity work
+- type: depends on
+  target: diversity free riding
+- type: produces
+  target: diversity development work
 ---
 
-# Epistemic Diversity Work
+# epistemic diversity work
 
 ## 📖 Definitions
 
@@ -30,6 +34,8 @@ relations:
 
 - **produces**: [effective epistemic diversity](./effective-epistemic-diversity.md)
 - **part of**: [diversity work](./diversity-work.md)
+- **depends on**: [diversity free riding](./diversity-free-riding.md)
+- **produces**: [diversity development work](./diversity-development-work.md)
 
 ## 📚 References
 

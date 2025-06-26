@@ -22,7 +22,7 @@ relations:
   target: hermeneutical injustice
 ---
 
-# Second order epistemic exclusion
+# second order epistemic exclusion
 
 ## 📖 Definitions
 

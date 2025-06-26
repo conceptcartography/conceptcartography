@@ -14,6 +14,8 @@ relations:
   target: hermeneutical injustice
 - type: produces
   target: epistemic oppression
+- type: produced by
+  target: contributory injustice
 ---
 
 # willful hermeneutical ignorance
@@ -26,6 +28,7 @@ relations:
 
 - **type of**: [hermeneutical injustice](./hermeneutical-injustice.md)
 - **produces**: [epistemic oppression](./epistemic-oppression.md)
+- **produced by**: [contributory injustice](./contributory-injustice.md)
 
 ## 📚 References
 

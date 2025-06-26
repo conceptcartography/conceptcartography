@@ -18,7 +18,7 @@ relations:
   target: epistemic diversity work
 ---
 
-# Diversity Development Work
+# diversity development work
 
 ## 📖 Definitions
 

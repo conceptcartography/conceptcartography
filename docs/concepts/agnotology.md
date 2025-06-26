@@ -23,7 +23,7 @@ relations:
   target: epistemologies of ignorance
 ---
 
-# Agnotology
+# agnotology
 
 ## 📖 Definitions
 

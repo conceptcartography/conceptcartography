@@ -166,6 +166,9 @@ document.getElementById('search-box').addEventListener('keydown', function(e) {
   }
 });
 
+function toTitleCase(str) {
+  return str.replace(/\w\S*/g, w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase());
+}
 
 function initGraph() {
   fetch('../../assets/graph.json')
@@ -178,28 +181,31 @@ data.nodes.forEach(node => {
   opt.value = node.id;
   datalist.appendChild(opt);
 });
+      // All lowercase keys for safety
       const colorMap = {
-        "Type of": "blue",
-        "Part of": "green",
-        "Produces": "purple",
-        "Counteracts": "red",
-        "Similar to": "orange",
-        "Equivalent to": "gray",
-        "Distinct from": "black",
-        "Depends on": "cyan"
+        "type of": "blue",
+        "part of": "green",
+        "produces": "purple",
+        "counteracts": "red",
+        "similar to": "orange",
+        "equivalent to": "gray",
+        "distinct from": "black",
+        "depends on": "cyan"
       };
+
+      const normalize = str => (str || "").toLowerCase().trim();
 
       Graph = ForceGraph3D()(document.getElementById('graph-container'))
         .graphData(data)
         .nodeLabel(node => node.id)
         .nodeColor(() => '#3b3b3b')
-        .linkColor(link => colorMap[link.type] || 'green')
+        .linkColor(link => colorMap[normalize(link.type)] || 'green')
         .linkWidth(2.5)
         .linkOpacity(0.8)
         .backgroundColor('#fdfdfd')
         .linkDirectionalParticles(2)
         .linkDirectionalParticleWidth(2)
-        .linkDirectionalParticleColor(link => colorMap[link.type] || 'gray')
+        .linkDirectionalParticleColor(link => colorMap[normalize(link.type)] || 'gray')
         .onNodeClick(node => {
           const slug = node.id.toLowerCase().replace(/\s+/g, '-');
           window.location.href = `/concepts/${slug}`;

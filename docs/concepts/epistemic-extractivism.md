@@ -16,9 +16,13 @@ examples:
 relations:
 - type: similar to
   target: epistemic exploitation
+- type: counteracts
+  target: epistemic humility
+- type: equivalent to
+  target: epistemic trademarking
 ---
 
-# Epistemic Extractivism
+# epistemic extractivism
 
 ## 📖 Definitions
 
@@ -32,6 +36,8 @@ relations:
 ## 🔗 Relations
 
 - **similar to**: [epistemic exploitation](./epistemic-exploitation.md)
+- **counteracts**: [epistemic humility](./epistemic-humility.md)
+- **equivalent to**: [epistemic trademarking](./epistemic-trademarking.md)
 
 ## 📚 References
 

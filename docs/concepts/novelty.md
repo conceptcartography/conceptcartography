@@ -19,9 +19,11 @@ examples:
 relations:
 - type: part of
   target: scientific discovery
+- type: produces
+  target: science fiction
 ---
 
-# Novelty
+# novelty
 
 ## 📖 Definitions
 
@@ -35,6 +37,7 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [scientific discovery](./scientific-discovery.md)
+- **produces**: [science fiction](./science-fiction.md)
 
 ## 📚 References
 

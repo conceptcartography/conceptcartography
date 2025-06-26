@@ -24,7 +24,7 @@ relations:
   target: epistemic oppression
 ---
 
-# Ineffective epistemic diversity
+# ineffective epistemic diversity
 
 ## 📖 Definitions
 

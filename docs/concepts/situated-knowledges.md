@@ -18,7 +18,7 @@ relations:
   target: epistemic diversity
 ---
 
-# Situated knowledges
+# situated knowledges
 
 ## 📖 Definitions
 

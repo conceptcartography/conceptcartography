@@ -22,9 +22,11 @@ relations:
   target: epistemic oppression
 - type: similar to
   target: scientific/intellectual movement (sim)
+- type: similar to
+  target: liberatory epistemologies
 ---
 
-# Epistemological resistance movement
+# epistemological resistance movement
 
 ## 📖 Definitions
 
@@ -38,6 +40,7 @@ relations:
 
 - **counteracts**: [epistemic oppression](./epistemic-oppression.md)
 - **similar to**: [scientific/intellectual movement (sim)](./scientific-intellectual-movement-sim.md)
+- **similar to**: [liberatory epistemologies](./liberatory-epistemologies.md)
 
 ## 📚 References
 

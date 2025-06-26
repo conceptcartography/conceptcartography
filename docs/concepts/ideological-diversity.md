@@ -18,7 +18,7 @@ relations:
   target: epistemic diversity
 ---
 
-# Ideological diversity
+# ideological diversity
 
 ## 📖 Definitions
 

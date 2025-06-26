@@ -19,9 +19,11 @@ relations:
   target: epistemic injustice
 - type: distinct from
   target: epistemic injustice
+- type: produces
+  target: warranted exclusion
 ---
 
-# Epistemic disadvantage
+# epistemic disadvantage
 
 ## 📖 Definitions
 
@@ -35,6 +37,7 @@ relations:
 
 - **similar to**: [epistemic injustice](./epistemic-injustice.md)
 - **distinct from**: [epistemic injustice](./epistemic-injustice.md)
+- **produces**: [warranted exclusion](./warranted-exclusion.md)
 
 ## 📚 References
 

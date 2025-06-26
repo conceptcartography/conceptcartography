@@ -14,9 +14,11 @@ examples: []
 relations:
 - type: produces
   target: epistemic diversity
+- type: part of
+  target: diverse practitioner
 ---
 
-# Situational Diversity
+# situational diversity
 
 ## 📖 Definitions
 
@@ -25,6 +27,7 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [epistemic diversity](./epistemic-diversity.md)
+- **part of**: [diverse practitioner](./diverse-practitioner.md)
 
 ## 📚 References
 

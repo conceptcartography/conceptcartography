@@ -17,7 +17,7 @@ relations:
   target: situated knowledge thesis
 ---
 
-# Systemic situated knowledge thesis
+# systemic situated knowledge thesis
 
 ## 📖 Definitions
 

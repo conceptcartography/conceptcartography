@@ -11,9 +11,13 @@ examples: []
 relations:
 - type: part of
   target: linguistic injustice
+- type: type of
+  target: linguistic stereotype bias
+- type: type of
+  target: linguistic disfluency bias
 ---
 
-# Linguistic bias
+# linguistic bias
 
 ## 📖 Definitions
 
@@ -22,6 +26,8 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [linguistic injustice](./linguistic-injustice.md)
+- **type of**: [linguistic stereotype bias](./linguistic-stereotype-bias.md)
+- **type of**: [linguistic disfluency bias](./linguistic-disfluency-bias.md)
 
 ## 📚 References
 

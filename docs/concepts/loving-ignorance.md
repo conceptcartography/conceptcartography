@@ -21,7 +21,7 @@ relations:
   target: willful ignorance
 ---
 
-# Loving ignorance
+# loving ignorance
 
 ## 📖 Definitions
 

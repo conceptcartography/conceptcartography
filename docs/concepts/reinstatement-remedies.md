@@ -17,7 +17,7 @@ relations:
   target: epistemic severing
 ---
 
-# Reinstatement remedies
+# reinstatement remedies
 
 ## 📖 Definitions
 

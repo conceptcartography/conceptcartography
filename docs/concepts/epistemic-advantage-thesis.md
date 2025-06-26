@@ -12,7 +12,7 @@ relations:
   target: standpoint theory
 ---
 
-# Epistemic Advantage Thesis
+# epistemic advantage thesis
 
 ## 📖 Definitions
 

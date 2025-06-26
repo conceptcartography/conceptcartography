@@ -17,7 +17,7 @@ relations:
   target: epistemic explotiation
 ---
 
-# Stereotype threat
+# stereotype threat
 
 ## 📖 Definitions
 

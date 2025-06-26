@@ -14,7 +14,7 @@ relations:
   target: epistemic explotiation
 ---
 
-# The Novelty Tax
+# the novelty tax
 
 ## 📖 Definitions
 

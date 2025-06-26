@@ -14,9 +14,11 @@ relations:
   target: epistemic diversity
 - type: part of
   target: epistemic virtue
+- type: depends on
+  target: creative agency
 ---
 
-# Epistemic creativity
+# epistemic creativity
 
 ## 📖 Definitions
 
@@ -26,6 +28,7 @@ relations:
 
 - **produces**: [epistemic diversity](./epistemic-diversity.md)
 - **part of**: [epistemic virtue](./epistemic-virtue.md)
+- **depends on**: [creative agency](./creative-agency.md)
 
 ## 📚 References
 

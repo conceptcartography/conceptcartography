@@ -32,9 +32,45 @@ relations:
   target: feminist empiricism
 - type: part of
   target: standpoint theory
+- type: depends on
+  target: standpoint theory
+- type: depends on
+  target: feminist empiricism
+- type: produces
+  target: situated knowledges
+- type: depends on
+  target: strong objectivitiy
+- type: produces
+  target: situational diversity
+- type: type of
+  target: effective epistemic diversity
+- type: type of
+  target: ineffective epistemic diversity
+- type: part of
+  target: cognitive/epistemic value
+- type: part of
+  target: diversity can benefit information elaboration (dbie)
+- type: part of
+  target: information elaboration (ie)
+- type: depends on
+  target: cancelling out explanation
+- type: depends on
+  target: triangulation explanation
+- type: type of
+  target: ideological diversity
+- type: type of
+  target: transient diversity
+- type: depends on
+  target: diversity-beats-ability (dab)
+- type: part of
+  target: diversity advocates
+- type: produces
+  target: epistemic creativity
+- type: produces
+  target: scientific discovery
 ---
 
-# Epistemic Diversity
+# epistemic diversity
 
 ## 📖 Definitions
 
@@ -47,6 +83,24 @@ relations:
 
 - **part of**: [feminist empiricism](./feminist-empiricism.md)
 - **part of**: [standpoint theory](./standpoint-theory.md)
+- **depends on**: [standpoint theory](./standpoint-theory.md)
+- **depends on**: [feminist empiricism](./feminist-empiricism.md)
+- **produces**: [situated knowledges](./situated-knowledges.md)
+- **depends on**: [strong objectivitiy](./strong-objectivitiy.md)
+- **produces**: [situational diversity](./situational-diversity.md)
+- **type of**: [effective epistemic diversity](./effective-epistemic-diversity.md)
+- **type of**: [ineffective epistemic diversity](./ineffective-epistemic-diversity.md)
+- **part of**: [cognitive/epistemic value](./cognitive-epistemic-value.md)
+- **part of**: [diversity can benefit information elaboration (dbie)](./diversity-can-benefit-information-elaboration-dbie.md)
+- **part of**: [information elaboration (ie)](./information-elaboration-ie.md)
+- **depends on**: [cancelling out explanation](./cancelling-out-explanation.md)
+- **depends on**: [triangulation explanation](./triangulation-explanation.md)
+- **type of**: [ideological diversity](./ideological-diversity.md)
+- **type of**: [transient diversity](./transient-diversity.md)
+- **depends on**: [diversity-beats-ability (dab)](./diversity-beats-ability-dab.md)
+- **part of**: [diversity advocates](./diversity-advocates.md)
+- **produces**: [epistemic creativity](./epistemic-creativity.md)
+- **produces**: [scientific discovery](./scientific-discovery.md)
 
 ## 📚 References
 
