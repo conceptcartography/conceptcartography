@@ -1,5 +1,5 @@
 ---
-concept: Linguistic epistemic injustice
+concept: linguistic epistemic injustice
 references:
 - 'Catala, Amandine. 2022. “Academic Migration, Linguistic Justice, and Epistemic
   Injustice.” Journal of Political Philosophy 30 (3): 324–46. https://doi.org/10.1111/jopp.12259.'
@@ -19,11 +19,11 @@ relations:
   target: epistemic injustice
 ---
 
-# 🧠 Linguistic epistemic injustice
+# Linguistic epistemic injustice
 
 ## 📖 Definitions
 
-> A type of epistemic injustice that occurs due to linguistic power relations (language provides different opportunities and obstacles to to members of different linguistic groups) and linguistic bias (different languages provide different ways of apprehending and knowing the world)
+- A type of epistemic injustice that occurs due to linguistic power relations (language provides different opportunities and obstacles to to members of different linguistic groups) and linguistic bias (different languages provide different ways of apprehending and knowing the world)
 
 ## 💡 Examples
 
@@ -35,23 +35,4 @@ relations:
 
 ## 📚 References
 
-- [Catala, Amandine. 2022. “Academic Migration, Linguistic Justice, and Epistemic Injustice.” Journal of Political Philosophy 30 (3): 324–46. https://doi.org/10.1111/jopp.12259.](Catala, Amandine. 2022. “Academic Migration, Linguistic Justice, and Epistemic Injustice.” Journal of Political Philosophy 30 (3): 324–46. https://doi.org/10.1111/jopp.12259.)
-
-
----
-
-<script src="https://giscus.app/client.js"
-        data-repo="natesheehan/conceptcartography"
-        data-repo-id="R_kgDOPB5QiQ"
-        data-category="General"
-        data-category-id="DIC_kwDOPB5Qic4CsAxd"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="catppuccin_mocha"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+- Catala, Amandine. 2022. “Academic Migration, Linguistic Justice, and Epistemic Injustice.” Journal of Political Philosophy 30 (3): 324–46. https://doi.org/10.1111/jopp.12259.

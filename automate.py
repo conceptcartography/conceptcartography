@@ -16,19 +16,38 @@ def parse_examples(example_str):
     return [{"description": p, "year": extract_year(p)} for p in parts]
 
 def parse_relations(relation_str):
+    if not relation_str:
+        return []
+
     relation_items = []
-    pattern = r"\((.*?)\)\s*([^;]+)"
-    for match in re.finditer(pattern, relation_str):
-        relation_items.append({
-            "type": match.group(1).strip(),
-            "target": match.group(2).strip()
-        })
+    parts = [r.strip() for r in relation_str.split(';') if r.strip()]
+
+    for part in parts:
+        # Try to extract "(Type) Target" format
+        match = re.match(r"\((.*?)\)\s*(.+)", part)
+        if match:
+            relation_items.append({
+                "type": match.group(1).strip().lower(),
+                "target": match.group(2).strip().lower()
+            })
+        else:
+            # Try fallback: "Type Target" (no parentheses)
+            tokens = part.split(None, 1)
+            if len(tokens) == 2:
+                relation_items.append({
+                    "type": tokens[0].strip().lower(),
+                    "target": tokens[1].strip().lower()
+                })
+            else:
+                print(f"⚠️ Skipping unrecognized relation format: '{part}'")
+
     return relation_items
+
 
 def slugify(text):
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
-with open("concepts.csv", newline='', encoding='utf-8') as csvfile:
+with open("dict.csv", newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         concept = row["concept"].strip()
@@ -36,7 +55,7 @@ with open("concepts.csv", newline='', encoding='utf-8') as csvfile:
         path = f"docs/concepts/{slug}.md"
 
         data = {
-            "concept": concept,
+            "concept": concept.lower(),
             "references": [row["reference"].strip()],
             "definitions": parse_definitions(row["definitions"]),
             "examples": parse_examples(row["examples"]),
@@ -48,15 +67,16 @@ with open("concepts.csv", newline='', encoding='utf-8') as csvfile:
             f.write("---\n")
             yaml.dump(data, f, sort_keys=False, allow_unicode=True)
             f.write("---\n\n")
-            f.write(f"# 🧠 {concept}\n\n")
+            f.write(f"# {concept}\n\n")
 
-            # Definitions as quotes
+            # Definitions
             if data["definitions"]:
                 f.write("## 📖 Definitions\n\n")
                 for d in data["definitions"]:
-                    f.write(f"> {d}\n\n")
+                    f.write(f"- {d}\n")
+                f.write("\n")
 
-            # Examples with year bolded
+            # Examples
             if data["examples"]:
                 f.write("## 💡 Examples\n\n")
                 for e in data["examples"]:
@@ -64,7 +84,7 @@ with open("concepts.csv", newline='', encoding='utf-8') as csvfile:
                     f.write(f"- {year_str}{e['description']}\n")
                 f.write("\n")
 
-            # Relations with links
+            # Relations
             if data["relations"]:
                 f.write("## 🔗 Relations\n\n")
                 for r in data["relations"]:
@@ -72,30 +92,10 @@ with open("concepts.csv", newline='', encoding='utf-8') as csvfile:
                     f.write(f"- **{r['type']}**: [{r['target']}](./{slug}.md)\n")
                 f.write("\n")
 
-            # References: autodetect links if present
+            # References
             if data["references"]:
                 f.write("## 📚 References\n\n")
                 for ref in data["references"]:
-                    if "http" in ref:
-                        f.write(f"- [{ref}]({ref})\n")
-                    else:
-                        f.write(f"- {ref}\n")
+                    f.write(f"- {ref}\n")
 
-            # Add Giscus comment widget
-            f.write("\n\n---\n\n")
-            f.write(
-                '<script src="https://giscus.app/client.js"\n'
-                '        data-repo="natesheehan/conceptcartography"\n'
-                '        data-repo-id="R_kgDOPB5QiQ"\n'
-                '        data-category="General"\n'
-                '        data-category-id="DIC_kwDOPB5Qic4CsAxd"\n'
-                '        data-mapping="pathname"\n'
-                '        data-strict="0"\n'
-                '        data-reactions-enabled="1"\n'
-                '        data-emit-metadata="0"\n'
-                '        data-input-position="bottom"\n'
-                '        data-theme="catppuccin_mocha"\n'
-                '        data-lang="en"\n'
-                '        crossorigin="anonymous"\n'
-                '        async>\n</script>\n'
-            )
+                    

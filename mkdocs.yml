@@ -4,10 +4,9 @@ repo_url: https://github.com/natesheehan/conceptcartography
 edit_uri: edit/main/docs/
 theme:
   palette: 
-
     # Palette toggle for light mode
     - scheme: default
-      primary: lime
+      primary: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -29,8 +28,10 @@ plugins:
   - git-committers:
       repository: natesheehan/conceptcartography
       branch: main
+      enabled: !ENV [CI, false]
   - git-revision-date-localized:
       enable_creation_date: true
+      enabled: !ENV [CI, false]
 extra:
   social:
     - icon: fontawesome/brands/mastodon 

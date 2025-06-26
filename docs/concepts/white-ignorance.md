@@ -22,11 +22,11 @@ relations:
   target: hermeneutical injustice
 ---
 
-# 🧠 white ignorance
+# white ignorance
 
 ## 📖 Definitions
 
-> systemic and socially constructed form of ignorance that sustains white supremacy by distorting, denying, or ignoring racial realities, highlighting how dominant racial groups often remain unaware—intentionally or unintentionally—of the injustices and experiences of marginalized groups, thereby maintaining racial inequality.
+- systemic and socially constructed form of ignorance that sustains white supremacy by distorting, denying, or ignoring racial realities, highlighting how dominant racial groups often remain unaware—intentionally or unintentionally—of the injustices and experiences of marginalized groups, thereby maintaining racial inequality.
 
 ## 💡 Examples
 
@@ -39,22 +39,3 @@ relations:
 ## 📚 References
 
 - Mills 2007
-
-
----
-
-<script src="https://giscus.app/client.js"
-        data-repo="natesheehan/conceptcartography"
-        data-repo-id="R_kgDOPB5QiQ"
-        data-category="General"
-        data-category-id="DIC_kwDOPB5Qic4CsAxd"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="catppuccin_mocha"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>

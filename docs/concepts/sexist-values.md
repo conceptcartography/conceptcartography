@@ -1,5 +1,5 @@
 ---
-concept: Sexist values
+concept: sexist values
 references:
 - 'ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge:
   Epistemic Oppression with the Morning-after Pill’s Drug Label.” Hypatia 37 (2):
@@ -18,11 +18,11 @@ relations:
   target: epistemic oppression
 ---
 
-# 🧠 Sexist values
+# Sexist values
 
 ## 📖 Definitions
 
-> "ideologies that support unfair social hierarchies by legitimizing male domination of cisgender women and other “weaker” genders [...] I argue that sexist values and gender norms are illegitimate in reproductive medicine because they undermine epistemic autonomy and enable epistemic oppression." ([ChoGlueck, 2023, p. 316])
+- "ideologies that support unfair social hierarchies by legitimizing male domination of cisgender women and other “weaker” genders [...] I argue that sexist values and gender norms are illegitimate in reproductive medicine because they undermine epistemic autonomy and enable epistemic oppression." ([ChoGlueck, 2023, p. 316])
 
 ## 💡 Examples
 
@@ -34,23 +34,4 @@ relations:
 
 ## 📚 References
 
-- [ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge: Epistemic Oppression with the Morning-after Pill’s Drug Label.” Hypatia 37 (2): 315–42. https://doi.org/10.1017/hyp.2022.11.](ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge: Epistemic Oppression with the Morning-after Pill’s Drug Label.” Hypatia 37 (2): 315–42. https://doi.org/10.1017/hyp.2022.11.)
-
-
----
-
-<script src="https://giscus.app/client.js"
-        data-repo="natesheehan/conceptcartography"
-        data-repo-id="R_kgDOPB5QiQ"
-        data-category="General"
-        data-category-id="DIC_kwDOPB5Qic4CsAxd"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="catppuccin_mocha"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+- ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge: Epistemic Oppression with the Morning-after Pill’s Drug Label.” Hypatia 37 (2): 315–42. https://doi.org/10.1017/hyp.2022.11.

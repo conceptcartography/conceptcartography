@@ -1,56 +1,25 @@
 ---
-concept: Unwarranted Exclusion
+concept: unwarranted exclusion
 references:
-- 'Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” Philosophia 50 (4): 1861–78.
-  https://doi.org/10.1007/s11406-021-00465-w.'
+- ''
 definitions:
-- '"An unwarranted epistemic exclusion occurs when a knower (or group of knowers)
-  is (are) unjustly kept out of knowledge exchanges relevant to understanding their
-  social experience. Unjust epistemic exclusions mark instances of epistemic injustice"
-  (Goldstein 2022: 1862)'
-examples:
-- description: '"Hermeneutical marginalization is an unwarranted epistemic exclusion.
-    It occurs, in part, from beliefs on structural identity prejudice" (Goldstein
-    2022: 1864)'
-  year: '2022'
+- a gap that occurs from beliefs built on structural identity prejudice
+examples: []
 relations:
 - type: produces
-  target: Hermeneutical marginalization
+  target: hermeneutical marginalization
 ---
 
-# 🧠 Unwarranted Exclusion
+# Unwarranted Exclusion
 
 ## 📖 Definitions
 
-> "An unwarranted epistemic exclusion occurs when a knower (or group of knowers) is (are) unjustly kept out of knowledge exchanges relevant to understanding their social experience. Unjust epistemic exclusions mark instances of epistemic injustice" (Goldstein 2022: 1862)
-
-## 💡 Examples
-
-- **2022** — "Hermeneutical marginalization is an unwarranted epistemic exclusion. It occurs, in part, from beliefs on structural identity prejudice" (Goldstein 2022: 1864)
+- a gap that occurs from beliefs built on structural identity prejudice
 
 ## 🔗 Relations
 
-- **produces**: [Hermeneutical marginalization](./hermeneutical-marginalization.md)
+- **produces**: [hermeneutical marginalization](./hermeneutical-marginalization.md)
 
 ## 📚 References
 
-- [Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” Philosophia 50 (4): 1861–78. https://doi.org/10.1007/s11406-021-00465-w.](Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” Philosophia 50 (4): 1861–78. https://doi.org/10.1007/s11406-021-00465-w.)
-
-
----
-
-<script src="https://giscus.app/client.js"
-        data-repo="natesheehan/conceptcartography"
-        data-repo-id="R_kgDOPB5QiQ"
-        data-category="General"
-        data-category-id="DIC_kwDOPB5Qic4CsAxd"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="catppuccin_mocha"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+- 
