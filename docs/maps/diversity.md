@@ -133,7 +133,6 @@ datalist option {
   <input type="text" id="search-box" list="concepts-list" placeholder="Search concept..." />
 <datalist id="concepts-list"></datalist>
   <button onclick="resetView()">Reset View</button>
-  <button onclick="toggleRotate()">Rotate</button>
   <button id="fullscreen-toggle" onclick="toggleFullScreen()">Full screen</button>
 </div>
 
@@ -174,14 +173,30 @@ function initGraph() {
   fetch('../../assets/graph.json')
     .then(res => res.json())
     .then(data => {
-      allNodes = data.nodes;
+      // Count connections per node (degree)
+      const degreeMap = {};
+      data.nodes.forEach(n => degreeMap[n.id.toLowerCase()] = 0);
+      data.links.forEach(link => {
+        const source = (link.source || '').toLowerCase();
+        const target = (link.target || '').toLowerCase();
+        if (degreeMap[source] !== undefined) degreeMap[source]++;
+        if (degreeMap[target] !== undefined) degreeMap[target]++;
+      });
+
+      // Add nodeVal for sizing
+      data.nodes.forEach(n => {
+        const deg = degreeMap[n.id.toLowerCase()] || 1;
+        n.val = Math.min(20, 1 + deg); // size capped to 10 for clarity
+      });
+
+      // Add datalist for search
       const datalist = document.getElementById('concepts-list');
-data.nodes.forEach(node => {
-  const opt = document.createElement("option");
-  opt.value = node.id;
-  datalist.appendChild(opt);
-});
-      // All lowercase keys for safety
+      data.nodes.forEach(node => {
+        const opt = document.createElement("option");
+        opt.value = node.id;
+        datalist.appendChild(opt);
+      });
+
       const colorMap = {
         "type of": "blue",
         "part of": "green",
@@ -189,18 +204,18 @@ data.nodes.forEach(node => {
         "counteracts": "red",
         "similar to": "orange",
         "equivalent to": "gray",
-        "distinct from": "black",
+        "distinct from": "lime",
         "depends on": "cyan"
       };
-
       const normalize = str => (str || "").toLowerCase().trim();
 
       Graph = ForceGraph3D()(document.getElementById('graph-container'))
         .graphData(data)
         .nodeLabel(node => node.id)
-        .nodeColor(() => '#3b3b3b')
+        .nodeColor(() => 'black')
+        .nodeVal(node => node.val) // <--- Set size based on val
         .linkColor(link => colorMap[normalize(link.type)] || 'green')
-        .linkWidth(2.5)
+        .linkWidth(1.5)
         .linkOpacity(0.8)
         .backgroundColor('#fdfdfd')
         .linkDirectionalParticles(2)
@@ -210,9 +225,10 @@ data.nodes.forEach(node => {
           const slug = node.id.toLowerCase().replace(/\s+/g, '-');
           window.location.href = `/concepts/${slug}`;
         })
-        .onBackgroundClick(() => Graph.zoomToFit(400));
+        .onBackgroundClick(() => Graph.zoomToFit(200));
     });
 }
+
 
 function resetView() {
   Graph && Graph.zoomToFit(400);
