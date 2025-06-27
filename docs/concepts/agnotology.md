@@ -13,7 +13,7 @@ definitions:
   Nature, after all, is infinitely rich and variable. What we know or do not know
   at any one time or place is shaped by particular histories, local and global priorities,
   funding patterns, institutional and disciplinary hierarchies, personal and professional
-  myopia, and much else as well." (Schiebinger, 2004, p.3)'
+  myopia, and much else as well" (Schiebinger, 2004, p.3).
 examples:
 - description: Nontransfer of knowledge about abortifacients in 18th century colonial
     botany
