@@ -9,7 +9,7 @@ definitions:
 examples:
 - description: '"Every individual has her own bias. You are more likely to overestimate
     distance. I’m more likely to underestimate it. But if we average our guesses together,
-    our biases will cancel out." [(McBrayer, 2024, p.615)]'
+    our biases will cancel out." (McBrayer, 2024, p.615)'
   year: '2024'
 relations:
 - type: depends on
@@ -22,11 +22,11 @@ relations:
 
 ## 📖 Definitions
 
-> "bias and error are more likely to be cancelled out in a group setting" [(McBrayer, 2024, p.615)]
+> "bias and error are more likely to be cancelled out in a group setting" (McBrayer, 2024, p.615)
 
 ## 💡 Examples
 
-- **2024** — "Every individual has her own bias. You are more likely to overestimate distance. I’m more likely to underestimate it. But if we average our guesses together, our biases will cancel out." [(McBrayer, 2024, p.615)]
+- **2024** — "Every individual has her own bias. You are more likely to overestimate distance. I’m more likely to underestimate it. But if we average our guesses together, our biases will cancel out." (McBrayer, 2024, p.615)
 
 ## 🔗 Relations
 
