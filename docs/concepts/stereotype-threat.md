@@ -14,7 +14,7 @@ examples:
   year: '2022'
 relations:
 - type: part of
-  target: epistemic explotiation
+  target: epistemic exploitation
 ---
 
 # stereotype threat
@@ -31,7 +31,7 @@ is made salient to them"  [(Fehr and Minji, 2022, p.12)]
 
 ## 🔗 Relations
 
-- **part of**: [epistemic explotiation](./epistemic-explotiation.md)
+- **part of**: [epistemic exploitation](./epistemic-exploitation.md)
 
 ## 📚 References
 

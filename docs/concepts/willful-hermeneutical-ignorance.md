@@ -5,9 +5,9 @@ references:
   a Theory of Willful Hermeneutical Ignorance”, Hypatia: A Journal of Feminist Philosophy
   27 (4): 715–735'
 definitions:
-- 'despite the availability of alternative conceptualizations put forth by marginalized,
+- Despite the availability of alternative conceptualizations put forth by marginalized,
   resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand
-  and misinterpret the world” (Pahlhaus 2012: 716).'
+  and misinterpret the world” ([Pohlhaus, 2012, p. 716]).
 examples: []
 relations:
 - type: type of
@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” (Pahlhaus 2012: 716).
+> Despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” ([Pohlhaus, 2012, p. 716]).
 
 ## 🔗 Relations
 

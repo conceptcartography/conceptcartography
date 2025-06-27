@@ -20,6 +20,8 @@ relations:
   target: epistemic oppression
 - type: similar to
   target: hermeneutical injustice
+- type: type of
+  target: epistemic exclusion
 ---
 
 # second order epistemic exclusion
@@ -34,6 +36,7 @@ relations:
 
 - **type of**: [epistemic oppression](./epistemic-oppression.md)
 - **similar to**: [hermeneutical injustice](./hermeneutical-injustice.md)
+- **type of**: [epistemic exclusion](./epistemic-exclusion.md)
 
 ## 📚 References
 

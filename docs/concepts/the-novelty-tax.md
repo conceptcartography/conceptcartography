@@ -11,7 +11,7 @@ definitions:
 examples: []
 relations:
 - type: part of
-  target: epistemic explotiation
+  target: epistemic exploitation
 ---
 
 # the novelty tax
@@ -22,7 +22,7 @@ relations:
 
 ## 🔗 Relations
 
-- **part of**: [epistemic explotiation](./epistemic-explotiation.md)
+- **part of**: [epistemic exploitation](./epistemic-exploitation.md)
 
 ## 📚 References
 

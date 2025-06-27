@@ -73,9 +73,6 @@
       "id": "epistemic death"
     },
     {
-      "id": "epistemic death*"
-    },
-    {
       "id": "epistemic disadvantage"
     },
     {
@@ -89,9 +86,6 @@
     },
     {
       "id": "epistemic exploitation"
-    },
-    {
-      "id": "epistemic explotiation"
     },
     {
       "id": "epistemic extractivism"
@@ -214,7 +208,7 @@
       "id": "loving ignorance"
     },
     {
-      "id": "micro-agression"
+      "id": "microagression"
     },
     {
       "id": "non-dominant hermeneutical marginalization"
@@ -481,14 +475,9 @@
       "type": "part of"
     },
     {
-      "source": "epistemic death*",
-      "target": "testimonial death",
-      "type": "part of"
-    },
-    {
-      "source": "epistemic death*",
-      "target": "hermeneutical death",
-      "type": "part of"
+      "source": "epistemic death",
+      "target": "epistemic oppression",
+      "type": "type of"
     },
     {
       "source": "epistemic disadvantage",
@@ -532,6 +521,11 @@
     },
     {
       "source": "epistemic exploitation",
+      "target": "epistemic opression",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic exploitation",
       "target": "epistemic power (foucauldian, see allen 2017",
       "type": "produced by"
     },
@@ -539,11 +533,6 @@
       "source": "epistemic exploitation",
       "target": "2017)",
       "type": "hall"
-    },
-    {
-      "source": "epistemic explotiation",
-      "target": "epistemic opression",
-      "type": "type of"
     },
     {
       "source": "epistemic extractivism",
@@ -684,6 +673,11 @@
       "source": "testimonial injustice",
       "target": "first order epistemic exclusion",
       "type": "similar to"
+    },
+    {
+      "source": "first order epistemic exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
     },
     {
       "source": "generic situated knowledge thesis",
@@ -831,12 +825,12 @@
       "type": "counteracts"
     },
     {
-      "source": "micro-agression",
+      "source": "microagression",
       "target": "testimonial injustice",
       "type": "produces"
     },
     {
-      "source": "micro-agression",
+      "source": "microagression",
       "target": "hermeneutical marginalization",
       "type": "produces"
     },
@@ -921,6 +915,11 @@
       "type": "similar to"
     },
     {
+      "source": "second order epistemic exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
+    },
+    {
       "source": "secondary distributive epistemic injustice",
       "target": "distributive epistemic injustice",
       "type": "type of"
@@ -957,7 +956,7 @@
     },
     {
       "source": "stereotype threat",
-      "target": "epistemic explotiation",
+      "target": "epistemic exploitation",
       "type": "part of"
     },
     {
@@ -1022,12 +1021,17 @@
     },
     {
       "source": "the novelty tax",
-      "target": "epistemic explotiation",
+      "target": "epistemic exploitation",
       "type": "part of"
     },
     {
       "source": "third order epistemic exclusion",
       "target": "epistemic oppression",
+      "type": "type of"
+    },
+    {
+      "source": "third order epistemic exclusion",
+      "target": "epistemic exclusion",
       "type": "type of"
     },
     {
@@ -1056,9 +1060,19 @@
       "type": "produces"
     },
     {
+      "source": "unwarranted exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
+    },
+    {
       "source": "warranted exclusion",
       "target": "epistemic disadvantage",
       "type": "produces"
+    },
+    {
+      "source": "warranted exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
     },
     {
       "source": "well-ordered science",
@@ -1069,6 +1083,11 @@
       "source": "strong objectivity",
       "target": "well-ordered science",
       "type": "similar to"
+    },
+    {
+      "source": "well-ordered science",
+      "target": "epistemic diversity",
+      "type": "depends on"
     },
     {
       "source": "white ignorance",

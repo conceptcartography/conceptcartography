@@ -7,7 +7,7 @@ definitions:
 - '"An unwarranted epistemic exclusion occurs when a knower (or group of knowers)
   is (are) unjustly kept out of knowledge exchanges relevant to understanding their
   social experience. Unjust epistemic exclusions mark instances of epistemic injustice"
-  (Goldstein 2022: 1862)'
+  ([Goldstein, 2022, p. 1862])'
 examples:
 - description: '"Hermeneutical marginalization is an unwarranted epistemic exclusion.
     It occurs, in part, from beliefs on structural identity prejudice" (Goldstein
@@ -16,13 +16,15 @@ examples:
 relations:
 - type: produces
   target: hermeneutical marginalization
+- type: type of
+  target: epistemic exclusion
 ---
 
 # unwarranted exclusion
 
 ## 📖 Definitions
 
-> "An unwarranted epistemic exclusion occurs when a knower (or group of knowers) is (are) unjustly kept out of knowledge exchanges relevant to understanding their social experience. Unjust epistemic exclusions mark instances of epistemic injustice" (Goldstein 2022: 1862)
+> "An unwarranted epistemic exclusion occurs when a knower (or group of knowers) is (are) unjustly kept out of knowledge exchanges relevant to understanding their social experience. Unjust epistemic exclusions mark instances of epistemic injustice" ([Goldstein, 2022, p. 1862])
 
 ## 💡 Examples
 
@@ -31,6 +33,7 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [hermeneutical marginalization](./hermeneutical-marginalization.md)
+- **type of**: [epistemic exclusion](./epistemic-exclusion.md)
 
 ## 📚 References
 

@@ -10,6 +10,8 @@ examples: []
 relations:
 - type: similar to
   target: strong objectivity
+- type: depends on
+  target: epistemic diversity
 ---
 
 # well-ordered science
@@ -21,6 +23,7 @@ relations:
 ## 🔗 Relations
 
 - **similar to**: [strong objectivity](./strong-objectivity.md)
+- **depends on**: [epistemic diversity](./epistemic-diversity.md)
 
 ## 📚 References
 

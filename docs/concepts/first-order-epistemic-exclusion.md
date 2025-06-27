@@ -26,6 +26,8 @@ relations:
   target: epistemic oppression
 - type: similar to
   target: testimonial injustice
+- type: type of
+  target: epistemic exclusion
 ---
 
 # first order epistemic exclusion
@@ -44,6 +46,7 @@ relations:
 
 - **type of**: [epistemic oppression](./epistemic-oppression.md)
 - **similar to**: [testimonial injustice](./testimonial-injustice.md)
+- **type of**: [epistemic exclusion](./epistemic-exclusion.md)
 
 ## 📚 References
 

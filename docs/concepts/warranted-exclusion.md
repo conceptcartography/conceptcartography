@@ -6,7 +6,7 @@ references:
 definitions:
 - '"A warranted epistemic exclusion occurs when a knower (or group of knowers) is
   (are) justifiably kept out of knowledge exchanges relevant to understanding their
-  social experience" (Goldstein 2022: 1862)'
+  social experience" ([Goldstein, 2022, p. 1862])'
 examples:
 - description: '"when individuals freely choose to forgo access to certain types of
     knowledge (e.g. choosing not to go to university, when university education is
@@ -16,13 +16,15 @@ examples:
 relations:
 - type: produces
   target: epistemic disadvantage
+- type: type of
+  target: epistemic exclusion
 ---
 
 # warranted exclusion
 
 ## 📖 Definitions
 
-> "A warranted epistemic exclusion occurs when a knower (or group of knowers) is (are) justifiably kept out of knowledge exchanges relevant to understanding their social experience" (Goldstein 2022: 1862)
+> "A warranted epistemic exclusion occurs when a knower (or group of knowers) is (are) justifiably kept out of knowledge exchanges relevant to understanding their social experience" ([Goldstein, 2022, p. 1862])
 
 ## 💡 Examples
 
@@ -31,6 +33,7 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [epistemic disadvantage](./epistemic-disadvantage.md)
+- **type of**: [epistemic exclusion](./epistemic-exclusion.md)
 
 ## 📚 References
 

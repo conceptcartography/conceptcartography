@@ -24,6 +24,8 @@ examples: []
 relations:
 - type: type of
   target: epistemic oppression
+- type: type of
+  target: epistemic exclusion
 ---
 
 # third order epistemic exclusion
@@ -37,6 +39,7 @@ relations:
 ## 🔗 Relations
 
 - **type of**: [epistemic oppression](./epistemic-oppression.md)
+- **type of**: [epistemic exclusion](./epistemic-exclusion.md)
 
 ## 📚 References
 
