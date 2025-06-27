@@ -7,12 +7,11 @@ definitions:
 - '"A group is ideologically diverse with respect to a controversial question X when
   there are a significant number of members who hold incompatible answers to X (including
   agnosticism about X). So, ideological diversity is relative to some issue. A group
-  can be diverse in some respects and non-diverse in others." [(McBrayer, 2024, p.616)]'
+  can be diverse in some respects and non-diverse in others." (McBrayer, 2024, p.616)'
 examples:
 - description: "\"For example, a group of faculty might be diverse on the\r\nissue\
     \ of whether charity is supererogatory but non-diverse on whether strict guncontrol\
-    \ policies are warranted.\" [(McBrayer, 2024, p.616)]"
-  year: '2024'
+    \ policies are warranted.\" (McBrayer, 2024, p.616)"
 relations:
 - type: type of
   target: epistemic diversity
@@ -22,12 +21,12 @@ relations:
 
 ## 📖 Definitions
 
-> "A group is ideologically diverse with respect to a controversial question X when there are a significant number of members who hold incompatible answers to X (including agnosticism about X). So, ideological diversity is relative to some issue. A group can be diverse in some respects and non-diverse in others." [(McBrayer, 2024, p.616)]
+> "A group is ideologically diverse with respect to a controversial question X when there are a significant number of members who hold incompatible answers to X (including agnosticism about X). So, ideological diversity is relative to some issue. A group can be diverse in some respects and non-diverse in others." (McBrayer, 2024, p.616)
 
 ## 💡 Examples
 
-- **2024** — "For example, a group of faculty might be diverse on the
-issue of whether charity is supererogatory but non-diverse on whether strict guncontrol policies are warranted." [(McBrayer, 2024, p.616)]
+- "For example, a group of faculty might be diverse on the
+issue of whether charity is supererogatory but non-diverse on whether strict guncontrol policies are warranted." (McBrayer, 2024, p.616)
 
 ## 🔗 Relations
 

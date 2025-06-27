@@ -6,11 +6,10 @@ references:
 definitions:
 - '"Epistemic severing is the act of cutting off specific historically and culturally
   situated communities to historically remove or blur their contbutions to historical
-  lineages in the scientific knowledge production." ([Massimi, 2022, p. 350])'
+  lineages in the scientific knowledge production." (Massimi, 2022, p. 350)'
 examples:
 - description: Not mentioning kelp labourers' role in producing glass instrumentation
     for electromagnetic experimentation
-  year: ''
 relations:
 - type: type of
   target: epistemic injustice
@@ -22,7 +21,7 @@ relations:
 
 ## 📖 Definitions
 
-> "Epistemic severing is the act of cutting off specific historically and culturally situated communities to historically remove or blur their contbutions to historical lineages in the scientific knowledge production." ([Massimi, 2022, p. 350])
+> "Epistemic severing is the act of cutting off specific historically and culturally situated communities to historically remove or blur their contbutions to historical lineages in the scientific knowledge production." (Massimi, 2022, p. 350)
 
 ## 💡 Examples
 

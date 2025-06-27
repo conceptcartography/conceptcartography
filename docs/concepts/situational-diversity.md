@@ -7,9 +7,8 @@ references:
 definitions:
 - '"A community is situationally diverse when its membership consists of individuals
   with different social and material locations (gender, race, class, sexuality, etc.)."
-  ([Fehr, 2011, p. 146]) "increasing situational diversity can and has led to increases
-  in epistemic diversity, but it is not necessary that it do so" ([Fehr, 2011, p.
-  147])'
+  (Fehr, 2011, p. 146) "increasing situational diversity can and has led to increases
+  in epistemic diversity, but it is not necessary that it do so" (Fehr, 2011, p. 147)'
 examples: []
 relations:
 - type: produces
@@ -20,7 +19,7 @@ relations:
 
 ## 📖 Definitions
 
-> "A community is situationally diverse when its membership consists of individuals with different social and material locations (gender, race, class, sexuality, etc.)." ([Fehr, 2011, p. 146]) "increasing situational diversity can and has led to increases in epistemic diversity, but it is not necessary that it do so" ([Fehr, 2011, p. 147])
+> "A community is situationally diverse when its membership consists of individuals with different social and material locations (gender, race, class, sexuality, etc.)." (Fehr, 2011, p. 146) "increasing situational diversity can and has led to increases in epistemic diversity, but it is not necessary that it do so" (Fehr, 2011, p. 147)
 
 ## 🔗 Relations
 

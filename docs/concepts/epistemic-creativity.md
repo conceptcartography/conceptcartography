@@ -7,7 +7,7 @@ definitions:
 - '"the sciences offer distinctive forms of epistemic creativity, too: our creative
   transformation of the world requires us to self-consciously take up our potential
   as the creature who ‘creates and posits objects’, imposing conceptual and theoretical
-  order onto the world." ([Kidd, 2020, p.12]), quoting Marx'
+  order onto the world." (Kidd, 2020, p.12), quoting Marx'
 examples: []
 relations:
 - type: produces
@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> "the sciences offer distinctive forms of epistemic creativity, too: our creative transformation of the world requires us to self-consciously take up our potential as the creature who ‘creates and posits objects’, imposing conceptual and theoretical order onto the world." ([Kidd, 2020, p.12]), quoting Marx
+> "the sciences offer distinctive forms of epistemic creativity, too: our creative transformation of the world requires us to self-consciously take up our potential as the creature who ‘creates and posits objects’, imposing conceptual and theoretical order onto the world." (Kidd, 2020, p.12), quoting Marx
 
 ## 🔗 Relations
 

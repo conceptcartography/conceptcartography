@@ -10,7 +10,6 @@ definitions:
 examples:
 - description: "\"is a discourse community marked by its subordinate status to,\r\n\
     and some degree of exclusion by, a wider, dominant public\" (Fraser, 1990)"
-  year: '1990'
 relations:
 - type: part of
   target: epistemic diversity
@@ -24,7 +23,7 @@ relations:
 
 ## 💡 Examples
 
-- **1990** — "is a discourse community marked by its subordinate status to,
+- "is a discourse community marked by its subordinate status to,
 and some degree of exclusion by, a wider, dominant public" (Fraser, 1990)
 
 ## 🔗 Relations

@@ -7,8 +7,8 @@ definitions:
 - “‘Secondary distributive epistemic justice’ is concerned with the production of
   scientific knowledge public officials need for carrying out their tasks required
   by justice, such as providing health care, designing and implementing effective
-  social and environmental policies, and maintaining a fair legal system.” ([Irzik
-  and Kurtulmus, 2024, p. 5])
+  social and environmental policies, and maintaining a fair legal system.” (Irzik
+  and Kurtulmus, 2024, p. 5)
 examples: []
 relations:
 - type: type of
@@ -19,7 +19,7 @@ relations:
 
 ## 📖 Definitions
 
-> “‘Secondary distributive epistemic justice’ is concerned with the production of scientific knowledge public officials need for carrying out their tasks required by justice, such as providing health care, designing and implementing effective social and environmental policies, and maintaining a fair legal system.” ([Irzik and Kurtulmus, 2024, p. 5])
+> “‘Secondary distributive epistemic justice’ is concerned with the production of scientific knowledge public officials need for carrying out their tasks required by justice, such as providing health care, designing and implementing effective social and environmental policies, and maintaining a fair legal system.” (Irzik and Kurtulmus, 2024, p. 5)
 
 ## 🔗 Relations
 

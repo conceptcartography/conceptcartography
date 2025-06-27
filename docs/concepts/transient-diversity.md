@@ -6,14 +6,13 @@ references:
 definitions:
 - '"This diversity should be around long enough so that individuals do not discard
   theories too quickly, but also not stay around so long as to hinder the convergence
-  to one action." [(Zollman, 2010, p.32)]'
+  to one action." (Zollman, 2010, p.32)'
 examples:
 - description: '"One way of achieving this diversity is to limit the amount (and content)
     of information provided to individuals. Another way is to make individuals’ priors
     extreme. However, these are not independent virtues. Both together make the diversity
-    too stable, and result in a worse situation than either individually." [(Zollman,
-    2010, p.33)]'
-  year: '2010'
+    too stable, and result in a worse situation than either individually." (Zollman,
+    2010, p.33)'
 relations:
 - type: type of
   target: epistemic diversity
@@ -23,11 +22,11 @@ relations:
 
 ## 📖 Definitions
 
-> "This diversity should be around long enough so that individuals do not discard theories too quickly, but also not stay around so long as to hinder the convergence to one action." [(Zollman, 2010, p.32)]
+> "This diversity should be around long enough so that individuals do not discard theories too quickly, but also not stay around so long as to hinder the convergence to one action." (Zollman, 2010, p.32)
 
 ## 💡 Examples
 
-- **2010** — "One way of achieving this diversity is to limit the amount (and content) of information provided to individuals. Another way is to make individuals’ priors extreme. However, these are not independent virtues. Both together make the diversity too stable, and result in a worse situation than either individually." [(Zollman, 2010, p.33)]
+- "One way of achieving this diversity is to limit the amount (and content) of information provided to individuals. Another way is to make individuals’ priors extreme. However, these are not independent virtues. Both together make the diversity too stable, and result in a worse situation than either individually." (Zollman, 2010, p.33)
 
 ## 🔗 Relations
 

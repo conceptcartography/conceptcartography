@@ -5,14 +5,13 @@ references:
   Approaches to Diversity’. Synthese 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.'
 definitions:
 - '"a member of an epistemic community who is currently underrepresented in terms
-  of their social and material location or in terms of their projects and perspectives"  [(Fehr
-  and Minji, 2022, p.4)]'
+  of their social and material location or in terms of their projects and perspectives"  (Fehr
+  and Minji, 2022, p.4)'
 examples:
 - description: '"diverse practitioners tends to include people with lower socio-economic
     status (SES), disabled people, women, people of color, people with fewer markers
-    of a prestigious education, and members of other minority or marginalized groups."  [(Fehr
-    and Minji, 2022, p.4]'
-  year: '2022'
+    of a prestigious education, and members of other minority or marginalized groups."  (Fehr
+    and Minji, 2022, p.4'
 relations:
 - type: part of
   target: situational diversity
@@ -22,11 +21,11 @@ relations:
 
 ## 📖 Definitions
 
-> "a member of an epistemic community who is currently underrepresented in terms of their social and material location or in terms of their projects and perspectives"  [(Fehr and Minji, 2022, p.4)]
+> "a member of an epistemic community who is currently underrepresented in terms of their social and material location or in terms of their projects and perspectives"  (Fehr and Minji, 2022, p.4)
 
 ## 💡 Examples
 
-- **2022** — "diverse practitioners tends to include people with lower socio-economic status (SES), disabled people, women, people of color, people with fewer markers of a prestigious education, and members of other minority or marginalized groups."  [(Fehr and Minji, 2022, p.4]
+- "diverse practitioners tends to include people with lower socio-economic status (SES), disabled people, women, people of color, people with fewer markers of a prestigious education, and members of other minority or marginalized groups."  (Fehr and Minji, 2022, p.4
 
 ## 🔗 Relations
 

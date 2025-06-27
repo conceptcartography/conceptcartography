@@ -6,13 +6,12 @@ references:
 definitions:
 - '"demographic diversity can improve performance by enhancing information elaboration
   (IE), the process through which information and perspectives distributed among the
-  group are elicited and assessed" [(Steel et al., 2021, p.1288)]'
+  group are elicited and assessed" (Steel et al., 2021, p.1288)'
 examples:
 - description: '"Two DBIE hypotheses. a Demographic diversity causes group members
     to expect cognitive diversity,which changes behaviors in ways that enhance IE.
     b Demographic diversity decreases the tendency for epistemic conformity with other
-    group members, which also improves IE" [(Steel et al., 2021, 1295)]'
-  year: '2021'
+    group members, which also improves IE" (Steel et al., 2021, 1295)'
 relations:
 - type: part of
   target: epistemic diversity
@@ -22,11 +21,11 @@ relations:
 
 ## 📖 Definitions
 
-> "demographic diversity can improve performance by enhancing information elaboration (IE), the process through which information and perspectives distributed among the group are elicited and assessed" [(Steel et al., 2021, p.1288)]
+> "demographic diversity can improve performance by enhancing information elaboration (IE), the process through which information and perspectives distributed among the group are elicited and assessed" (Steel et al., 2021, p.1288)
 
 ## 💡 Examples
 
-- **2021** — "Two DBIE hypotheses. a Demographic diversity causes group members to expect cognitive diversity,which changes behaviors in ways that enhance IE. b Demographic diversity decreases the tendency for epistemic conformity with other group members, which also improves IE" [(Steel et al., 2021, 1295)]
+- "Two DBIE hypotheses. a Demographic diversity causes group members to expect cognitive diversity,which changes behaviors in ways that enhance IE. b Demographic diversity decreases the tendency for epistemic conformity with other group members, which also improves IE" (Steel et al., 2021, 1295)
 
 ## 🔗 Relations
 

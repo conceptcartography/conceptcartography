@@ -6,13 +6,12 @@ references:
   of race. Routledge.
 definitions:
 - '"testimonial death, occurring when subjects are not given even minimal amounts
-  of credibility and are prevented from participating in testimonial dynamics" ([Medina,
-  2018, p. 255]).'
+  of credibility and are prevented from participating in testimonial dynamics" (Medina,
+  2018, p. 255).'
 examples:
 - description: '"...Anzaldú a forcefully described Anglo White privilege as killing
     her voice and her capacity to be heard and understood in her own terms, as using
-    “linguistic terrorism” to annihilate her self..." ([Medina, 2018, p. 254]).'
-  year: '2018'
+    “linguistic terrorism” to annihilate her self..." (Medina, 2018, p. 254).'
 relations:
 - type: part of
   target: epistemic death
@@ -22,11 +21,11 @@ relations:
 
 ## 📖 Definitions
 
-> "testimonial death, occurring when subjects are not given even minimal amounts of credibility and are prevented from participating in testimonial dynamics" ([Medina, 2018, p. 255]).
+> "testimonial death, occurring when subjects are not given even minimal amounts of credibility and are prevented from participating in testimonial dynamics" (Medina, 2018, p. 255).
 
 ## 💡 Examples
 
-- **2018** — "...Anzaldú a forcefully described Anglo White privilege as killing her voice and her capacity to be heard and understood in her own terms, as using “linguistic terrorism” to annihilate her self..." ([Medina, 2018, p. 254]).
+- "...Anzaldú a forcefully described Anglo White privilege as killing her voice and her capacity to be heard and understood in her own terms, as using “linguistic terrorism” to annihilate her self..." (Medina, 2018, p. 254).
 
 ## 🔗 Relations
 

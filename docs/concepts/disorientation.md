@@ -6,7 +6,7 @@ references:
 definitions:
 - '"Disorientation involves failed orientations: bodies inhabit spaces that do not
   extend their shape, or use objects that do not extend their reach. At this moment
-  of failure, a here becomes strange." ([Ahmed, 2017, p. 133])'
+  of failure, a here becomes strange." (Ahmed, 2017, p. 133)'
 examples: []
 relations: []
 ---
@@ -15,7 +15,7 @@ relations: []
 
 ## 📖 Definitions
 
-> "Disorientation involves failed orientations: bodies inhabit spaces that do not extend their shape, or use objects that do not extend their reach. At this moment of failure, a here becomes strange." ([Ahmed, 2017, p. 133])
+> "Disorientation involves failed orientations: bodies inhabit spaces that do not extend their shape, or use objects that do not extend their reach. At this moment of failure, a here becomes strange." (Ahmed, 2017, p. 133)
 
 ## 📚 References
 

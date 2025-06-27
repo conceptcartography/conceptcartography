@@ -7,12 +7,11 @@ references:
   \ ‘The Nature of Epistemic Injustice’. Philosophical Books 51 (4): 195–211."
 definitions:
 - '"thick relations of intimacy between acquaintances, and the maltreatment involves"
-  ([Wanderer, 2017, p. 35]); ([cf. Maitra, 2010, pgs. 198–200]).'
+  (Wanderer, 2017, p. 35); (cf. Maitra, 2010, pgs. 198–200).'
 examples:
 - description: '"a betrayal of the intimate relationships established by a thick stance
-    of trust between Speaker and Hearer in certain testimonial encounters" ([Wanderer,
-    2017, p.37])'
-  year: '2017'
+    of trust between Speaker and Hearer in certain testimonial encounters" (Wanderer,
+    2017, p.37)'
 relations:
 - type: produces
   target: testimonial injustice
@@ -22,11 +21,11 @@ relations:
 
 ## 📖 Definitions
 
-> "thick relations of intimacy between acquaintances, and the maltreatment involves" ([Wanderer, 2017, p. 35]); ([cf. Maitra, 2010, pgs. 198–200]).
+> "thick relations of intimacy between acquaintances, and the maltreatment involves" (Wanderer, 2017, p. 35); (cf. Maitra, 2010, pgs. 198–200).
 
 ## 💡 Examples
 
-- **2017** — "a betrayal of the intimate relationships established by a thick stance of trust between Speaker and Hearer in certain testimonial encounters" ([Wanderer, 2017, p.37])
+- "a betrayal of the intimate relationships established by a thick stance of trust between Speaker and Hearer in certain testimonial encounters" (Wanderer, 2017, p.37)
 
 ## 🔗 Relations
 

@@ -10,10 +10,9 @@ definitions:
   of established facts and opening lines of communication to other possibilities—the
   aim is to diversify lines of evidence for managing underdetermination in the history
   of the science and to construct ‘new’ narrative strands (Currie and Sterelny 2017)."
-  ([Lee, 2019, p.709])'
+  (Lee, 2019, p.709)'
 examples:
 - description: Quantum biology e.g. tunneling of electrons and protons in enzyme catalysis
-  year: ''
 relations:
 - type: produces
   target: epistemic diversity
@@ -23,7 +22,7 @@ relations:
 
 ## 📖 Definitions
 
-> "Scientific discovery involves a process of systems-building that requires coordination between theory, experiment, and expert observation for balancing between the maintenance of established facts and opening lines of communication to other possibilities—the aim is to diversify lines of evidence for managing underdetermination in the history of the science and to construct ‘new’ narrative strands (Currie and Sterelny 2017)." ([Lee, 2019, p.709])
+> "Scientific discovery involves a process of systems-building that requires coordination between theory, experiment, and expert observation for balancing between the maintenance of established facts and opening lines of communication to other possibilities—the aim is to diversify lines of evidence for managing underdetermination in the history of the science and to construct ‘new’ narrative strands (Currie and Sterelny 2017)." (Lee, 2019, p.709)
 
 ## 💡 Examples
 

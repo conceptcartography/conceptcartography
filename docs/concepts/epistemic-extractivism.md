@@ -7,12 +7,10 @@ definitions:
 - '"The key feature of an extractivist epistemology, I argue, is the way in which
   it treats this epistemic resource as separable from its origin, without subsequent
   loss, rendering it into a commodity with exchange value over which exclusive rights
-  can be contractually defined, protected, and enforced." ([Alcoff, 2022, p. 5])'
+  can be contractually defined, protected, and enforced." (Alcoff, 2022, p. 5)'
 examples:
 - description: Patenting plant material
-  year: ''
 - description: Museum collections of artifacts and human remains
-  year: ''
 relations:
 - type: similar to
   target: epistemic exploitation
@@ -22,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> "The key feature of an extractivist epistemology, I argue, is the way in which it treats this epistemic resource as separable from its origin, without subsequent loss, rendering it into a commodity with exchange value over which exclusive rights can be contractually defined, protected, and enforced." ([Alcoff, 2022, p. 5])
+> "The key feature of an extractivist epistemology, I argue, is the way in which it treats this epistemic resource as separable from its origin, without subsequent loss, rendering it into a commodity with exchange value over which exclusive rights can be contractually defined, protected, and enforced." (Alcoff, 2022, p. 5)
 
 ## 💡 Examples
 

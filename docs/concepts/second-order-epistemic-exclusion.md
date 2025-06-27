@@ -8,12 +8,12 @@ references:
 definitions:
 - '"A second-order epistemic exclusion results from insufficient shared epistemic
   resources. To say that shared epistemic resources are insufficient is to point to
-  limitations within those resources themselves." ([Dotson, 2014, p. 127])'
+  limitations within those resources themselves." (Dotson, 2014, p. 127)'
 - '"a second-order exclusion occurs when there are gaps in an epistemic system resulting
   from prior exclusions in the system’s development where these gaps consistently
   obscure what it is in the interests of particular knowers to know and have known.
   In such cases, a system will need to be more fully developed so as to facilitate
-  epistemic agency more equitably." ([Pohlhaus, 2020, p. 235])'
+  epistemic agency more equitably." (Pohlhaus, 2020, p. 235)'
 examples: []
 relations:
 - type: type of
@@ -28,9 +28,9 @@ relations:
 
 ## 📖 Definitions
 
-> "A second-order epistemic exclusion results from insufficient shared epistemic resources. To say that shared epistemic resources are insufficient is to point to limitations within those resources themselves." ([Dotson, 2014, p. 127])
+> "A second-order epistemic exclusion results from insufficient shared epistemic resources. To say that shared epistemic resources are insufficient is to point to limitations within those resources themselves." (Dotson, 2014, p. 127)
 
-> "a second-order exclusion occurs when there are gaps in an epistemic system resulting from prior exclusions in the system’s development where these gaps consistently obscure what it is in the interests of particular knowers to know and have known. In such cases, a system will need to be more fully developed so as to facilitate epistemic agency more equitably." ([Pohlhaus, 2020, p. 235])
+> "a second-order exclusion occurs when there are gaps in an epistemic system resulting from prior exclusions in the system’s development where these gaps consistently obscure what it is in the interests of particular knowers to know and have known. In such cases, a system will need to be more fully developed so as to facilitate epistemic agency more equitably." (Pohlhaus, 2020, p. 235)
 
 ## 🔗 Relations
 

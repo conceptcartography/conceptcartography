@@ -6,7 +6,7 @@ references:
 definitions:
 - '"the injustice of having some significant area of one’s social experience obscured
   from collective understanding owing to persistent and wide-ranging hermeneutical
-  marginalization." ([Fricker, 2007, p. 154])'
+  marginalization." (Fricker, 2007, p. 154)'
 examples: []
 relations:
 - type: type of
@@ -17,7 +17,7 @@ relations:
 
 ## 📖 Definitions
 
-> "the injustice of having some significant area of one’s social experience obscured from collective understanding owing to persistent and wide-ranging hermeneutical marginalization." ([Fricker, 2007, p. 154])
+> "the injustice of having some significant area of one’s social experience obscured from collective understanding owing to persistent and wide-ranging hermeneutical marginalization." (Fricker, 2007, p. 154)
 
 ## 🔗 Relations
 

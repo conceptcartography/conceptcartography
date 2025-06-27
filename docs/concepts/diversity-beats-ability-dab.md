@@ -10,7 +10,6 @@ examples:
 - description: '"in assembling problem-solving teams, functional group diversity should
     sometimes be prioritized over selecting the most able individual members"(Reijula
     and Kuorikoski, 2021, p.895)'
-  year: '2021'
 relations:
 - type: depends on
   target: epistemic diversity
@@ -24,7 +23,7 @@ relations:
 
 ## 💡 Examples
 
-- **2021** — "in assembling problem-solving teams, functional group diversity should sometimes be prioritized over selecting the most able individual members"(Reijula and Kuorikoski, 2021, p.895)
+- "in assembling problem-solving teams, functional group diversity should sometimes be prioritized over selecting the most able individual members"(Reijula and Kuorikoski, 2021, p.895)
 
 ## 🔗 Relations
 

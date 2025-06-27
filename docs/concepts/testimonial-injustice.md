@@ -6,7 +6,7 @@ references:
   doi.org/10.1093/acprof:oso/9780198237907.003.0002'
 definitions:
 - '"testimonial injustice, wherein a speaker receives an unfair deficit of credibility
-  from a hearer owing to prejudice on the hearer''s part". ([Fricker, 2007, p. 1])'
+  from a hearer owing to prejudice on the hearer''s part". (Fricker, 2007, p. 1)'
 examples: []
 relations:
 - type: type of
@@ -17,7 +17,7 @@ relations:
 
 ## 📖 Definitions
 
-> "testimonial injustice, wherein a speaker receives an unfair deficit of credibility from a hearer owing to prejudice on the hearer's part". ([Fricker, 2007, p. 1])
+> "testimonial injustice, wherein a speaker receives an unfair deficit of credibility from a hearer owing to prejudice on the hearer's part". (Fricker, 2007, p. 1)
 
 ## 🔗 Relations
 

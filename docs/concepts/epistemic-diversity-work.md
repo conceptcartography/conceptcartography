@@ -7,11 +7,11 @@ references:
 definitions:
 - '"Making use of existing diversity involves using people with theoretical perspectives
   or social locations different from one’s own as a means of doing better science
-  by using them to increase the diversity of views in one’s communities. [...] The
-  person being used as a source of diversity is doing what I call epistemic diversity
-  work. Such work can be manifested in a number of ways, including talking to members
-  of a community about their research and commenting on or reviewing grant applications
-  or papers." ([Fehr, 2011, p. 141])'
+  by using them to increase the diversity of views in one’s communities. ... The person
+  being used as a source of diversity is doing what I call epistemic diversity work.
+  Such work can be manifested in a number of ways, including talking to members of
+  a community about their research and commenting on or reviewing grant applications
+  or papers." (Fehr, 2011, p. 141)'
 examples: []
 relations:
 - type: produces
@@ -24,7 +24,7 @@ relations:
 
 ## 📖 Definitions
 
-> "Making use of existing diversity involves using people with theoretical perspectives or social locations different from one’s own as a means of doing better science by using them to increase the diversity of views in one’s communities. [...] The person being used as a source of diversity is doing what I call epistemic diversity work. Such work can be manifested in a number of ways, including talking to members of a community about their research and commenting on or reviewing grant applications or papers." ([Fehr, 2011, p. 141])
+> "Making use of existing diversity involves using people with theoretical perspectives or social locations different from one’s own as a means of doing better science by using them to increase the diversity of views in one’s communities. ... The person being used as a source of diversity is doing what I call epistemic diversity work. Such work can be manifested in a number of ways, including talking to members of a community about their research and commenting on or reviewing grant applications or papers." (Fehr, 2011, p. 141)
 
 ## 🔗 Relations
 

@@ -9,7 +9,7 @@ definitions:
   by taking steps to train, hire, or retain those with underrepresented theoretical
   perspectives, social locations, or to reward them for their epistemic diversity
   work, or to nurture cultures that are conducive to the development of dissenting
-  views are performing diversity development work." ([Fehr, 2011, p. 145])'
+  views are performing diversity development work." (Fehr, 2011, p. 145)'
 examples: []
 relations:
 - type: counteracts
@@ -22,7 +22,7 @@ relations:
 
 ## 📖 Definitions
 
-> "Communities and members of communities who cultivate those with dissenting perspectives by taking steps to train, hire, or retain those with underrepresented theoretical perspectives, social locations, or to reward them for their epistemic diversity work, or to nurture cultures that are conducive to the development of dissenting views are performing diversity development work." ([Fehr, 2011, p. 145])
+> "Communities and members of communities who cultivate those with dissenting perspectives by taking steps to train, hire, or retain those with underrepresented theoretical perspectives, social locations, or to reward them for their epistemic diversity work, or to nurture cultures that are conducive to the development of dissenting views are performing diversity development work." (Fehr, 2011, p. 145)
 
 ## 🔗 Relations
 

@@ -6,7 +6,7 @@ references:
 definitions:
 - “An informational asymmetry is a condition between two (information processing)
   agents such that there is at least one topic ‘S’ about which one of the agents holds
-  more informative propositions than the other.” ([Bagwala, 2024, p. 6])
+  more informative propositions than the other.” (Bagwala, 2024, p. 6)
 examples: []
 relations:
 - type: part of
@@ -17,7 +17,7 @@ relations:
 
 ## 📖 Definitions
 
-> “An informational asymmetry is a condition between two (information processing) agents such that there is at least one topic ‘S’ about which one of the agents holds more informative propositions than the other.” ([Bagwala, 2024, p. 6])
+> “An informational asymmetry is a condition between two (information processing) agents such that there is at least one topic ‘S’ about which one of the agents holds more informative propositions than the other.” (Bagwala, 2024, p. 6)
 
 ## 🔗 Relations
 

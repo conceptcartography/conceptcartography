@@ -6,12 +6,11 @@ references:
   27-40 https: doi.org/10.4324/9781315212043'
 definitions:
 - '"a breach of the order of justice established between the parties to a testimonial
-  transaction [yielding] a systemic pattern of maltreatment of people across an array
-  of different transactions and contexts" ([Wanderer, 2017, p. 33]).'
+  transaction yielding a systemic pattern of maltreatment of people across an array
+  of different transactions and contexts" (Wanderer, 2017, p. 33).'
 examples:
 - description: The widespread maltreatment that results from the sexist prejudices
     exhibited by Greenleaf
-  year: ''
 relations:
 - type: produces
   target: testimonial injustice
@@ -21,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> "a breach of the order of justice established between the parties to a testimonial transaction [yielding] a systemic pattern of maltreatment of people across an array of different transactions and contexts" ([Wanderer, 2017, p. 33]).
+> "a breach of the order of justice established between the parties to a testimonial transaction yielding a systemic pattern of maltreatment of people across an array of different transactions and contexts" (Wanderer, 2017, p. 33).
 
 ## 💡 Examples
 

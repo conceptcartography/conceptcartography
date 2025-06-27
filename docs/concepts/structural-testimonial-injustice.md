@@ -10,12 +10,10 @@ definitions:
 - concedes the possibility of a structural variant but provides principled reasons
   for focusing on the transactional variant alone, independent of structural considerations
   (that is injujstice when it happens is internal to the self-understanding of the
-  participants) ([Wanderer, 2017, p.34])
+  participants) (Wanderer, 2017, p.34)
 examples:
 - description: Wanderer dismiss as a genuine category
-  year: ''
-- description: and it is defended as a legit category by ([Anderson 2012]).
-  year: '2012'
+- description: and it is defended as a legit category by (Anderson 2012).
 relations:
 - type: part of
   target: testimonial injustice
@@ -25,12 +23,12 @@ relations:
 
 ## 📖 Definitions
 
-> concedes the possibility of a structural variant but provides principled reasons for focusing on the transactional variant alone, independent of structural considerations (that is injujstice when it happens is internal to the self-understanding of the participants) ([Wanderer, 2017, p.34])
+> concedes the possibility of a structural variant but provides principled reasons for focusing on the transactional variant alone, independent of structural considerations (that is injujstice when it happens is internal to the self-understanding of the participants) (Wanderer, 2017, p.34)
 
 ## 💡 Examples
 
 - Wanderer dismiss as a genuine category
-- **2012** — and it is defended as a legit category by ([Anderson 2012]).
+- and it is defended as a legit category by (Anderson 2012).
 
 ## 🔗 Relations
 

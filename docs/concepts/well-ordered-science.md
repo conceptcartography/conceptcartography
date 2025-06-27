@@ -5,7 +5,7 @@ references:
   of Science. Oxford ; New York: Oxford University Press.'
 definitions:
 - '"properly functioning inquiry — well-ordered science — should satisfy the preferences
-  of the citizens in the society in which it is practiced" ([Kitcher, 2001, p. 117])'
+  of the citizens in the society in which it is practiced" (Kitcher, 2001, p. 117)'
 examples: []
 relations:
 - type: similar to
@@ -18,7 +18,7 @@ relations:
 
 ## 📖 Definitions
 
-> "properly functioning inquiry — well-ordered science — should satisfy the preferences of the citizens in the society in which it is practiced" ([Kitcher, 2001, p. 117])
+> "properly functioning inquiry — well-ordered science — should satisfy the preferences of the citizens in the society in which it is practiced" (Kitcher, 2001, p. 117)
 
 ## 🔗 Relations
 

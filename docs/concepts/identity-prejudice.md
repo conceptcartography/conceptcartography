@@ -7,13 +7,9 @@ definitions:
 - prejudices (i.e., negative stereotypes) against people qua social type
 examples:
 - description: ‘Women are emotional’
-  year: ''
 - description: ‘Muslims are extremists’
-  year: ''
 - description: ‘HIV is a homosexual disease’
-  year: ''
 - description: ‘Black people are violent’
-  year: ''
 relations:
 - type: produces
   target: testimonial injustice

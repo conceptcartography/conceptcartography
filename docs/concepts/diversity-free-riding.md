@@ -7,7 +7,7 @@ references:
 definitions:
 - '"A diversity free rider is either an individual or community who makes use of existing
   diversity without increasing the diversity of any formal community or without increasing
-  the total representation of diverse voices." ([Fehr, 2011, p. 141])'
+  the total representation of diverse voices." (Fehr, 2011, p. 141)'
 examples: []
 relations:
 - type: type of
@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> "A diversity free rider is either an individual or community who makes use of existing diversity without increasing the diversity of any formal community or without increasing the total representation of diverse voices." ([Fehr, 2011, p. 141])
+> "A diversity free rider is either an individual or community who makes use of existing diversity without increasing the diversity of any formal community or without increasing the total representation of diverse voices." (Fehr, 2011, p. 141)
 
 ## 🔗 Relations
 

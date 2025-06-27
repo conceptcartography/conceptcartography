@@ -6,12 +6,11 @@ references:
 definitions:
 - '"cases in which detecting an LX accent, lexical choice, etc. leads an audience
   to biased conclusions because unfamiliar speech is harder to process fluently, producing
-  negative affect that then influences cognition" ([Peters, 2024, p. 1517])'
+  negative affect that then influences cognition" (Peters, 2024, p. 1517)'
 examples:
 - description: '"e.g., listeners might judge a well understandable accented speaker
     as less competent because the accent interrupts their processing ease, not because
     of social prejudice specifically against LX users"'
-  year: ''
 relations:
 - type: type of
   target: linguistic bias
@@ -21,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> "cases in which detecting an LX accent, lexical choice, etc. leads an audience to biased conclusions because unfamiliar speech is harder to process fluently, producing negative affect that then influences cognition" ([Peters, 2024, p. 1517])
+> "cases in which detecting an LX accent, lexical choice, etc. leads an audience to biased conclusions because unfamiliar speech is harder to process fluently, producing negative affect that then influences cognition" (Peters, 2024, p. 1517)
 
 ## 💡 Examples
 

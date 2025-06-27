@@ -7,7 +7,7 @@ references:
 definitions:
 - Despite the availability of alternative conceptualizations put forth by marginalized,
   resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand
-  and misinterpret the world” ([Pohlhaus, 2012, p. 716]).
+  and misinterpret the world” (Pohlhaus, 2012, p. 716).
 examples: []
 relations:
 - type: type of
@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> Despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” ([Pohlhaus, 2012, p. 716]).
+> Despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” (Pohlhaus, 2012, p. 716).
 
 ## 🔗 Relations
 

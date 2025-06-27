@@ -5,8 +5,8 @@ references:
   Press. https: doi.org/10.1017/9781108956055.'
 definitions:
 - '"Feminist empiricism aims to identify gender bias in the content of science and
-  to improve upon empiricist methodologies to overcome such bias." ([Bueter, 2024,
-  p. 25])'
+  to improve upon empiricist methodologies to overcome such bias." (Bueter, 2024,
+  p. 25)'
 examples: []
 relations:
 - type: depends on
@@ -17,7 +17,7 @@ relations:
 
 ## 📖 Definitions
 
-> "Feminist empiricism aims to identify gender bias in the content of science and to improve upon empiricist methodologies to overcome such bias." ([Bueter, 2024, p. 25])
+> "Feminist empiricism aims to identify gender bias in the content of science and to improve upon empiricist methodologies to overcome such bias." (Bueter, 2024, p. 25)
 
 ## 🔗 Relations
 

@@ -8,7 +8,7 @@ definitions:
   via different social positions, relevant resources and/or epistemological systems
   with respect to knowledge production. It is often bound up with social, political
   and economic power. However, it is distinct insofar as epistemic power can come
-  apart from these other forms of power." ([Dotson, 2014, p. 125])'
+  apart from these other forms of power." (Dotson, 2014, p. 125)'
 examples: []
 relations:
 - type: part of
@@ -19,7 +19,7 @@ relations:
 
 ## 📖 Definitions
 
-> "Epistemic power refers to relations of privilege and underprivileged afforded via different social positions, relevant resources and/or epistemological systems with respect to knowledge production. It is often bound up with social, political and economic power. However, it is distinct insofar as epistemic power can come apart from these other forms of power." ([Dotson, 2014, p. 125])
+> "Epistemic power refers to relations of privilege and underprivileged afforded via different social positions, relevant resources and/or epistemological systems with respect to knowledge production. It is often bound up with social, political and economic power. However, it is distinct insofar as epistemic power can come apart from these other forms of power." (Dotson, 2014, p. 125)
 
 ## 🔗 Relations
 

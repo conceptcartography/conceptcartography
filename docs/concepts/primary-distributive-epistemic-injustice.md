@@ -8,7 +8,7 @@ definitions:
   provide knowledge people have an objective interest in or does so unfairly, giving
   undue priority to some over others, then the ensuing deprivation of the opportunity
   to acquire knowledge itself constitutes an injustice that we call ‘primary distributive
-  epistemic injustice’.” ([Irzik and Kurtulmus, 2024, p. 5])
+  epistemic injustice’.” (Irzik and Kurtulmus, 2024, p. 5)
 examples: []
 relations:
 - type: type of
@@ -19,7 +19,7 @@ relations:
 
 ## 📖 Definitions
 
-> “If a society has the necessary resources but its scientific institutions do not provide knowledge people have an objective interest in or does so unfairly, giving undue priority to some over others, then the ensuing deprivation of the opportunity to acquire knowledge itself constitutes an injustice that we call ‘primary distributive epistemic injustice’.” ([Irzik and Kurtulmus, 2024, p. 5])
+> “If a society has the necessary resources but its scientific institutions do not provide knowledge people have an objective interest in or does so unfairly, giving undue priority to some over others, then the ensuing deprivation of the opportunity to acquire knowledge itself constitutes an injustice that we call ‘primary distributive epistemic injustice’.” (Irzik and Kurtulmus, 2024, p. 5)
 
 ## 🔗 Relations
 

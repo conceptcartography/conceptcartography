@@ -6,7 +6,7 @@ references:
 definitions:
 - '"non-deliberative, asymmetrical structural relations that either excludes one from
   social participation or obscures one’s social experience from collective understanding"
-  ([Goldstein, 2022, p. 1868]).'
+  (Goldstein, 2022, p. 1868).'
 examples: []
 relations:
 - type: produces
@@ -17,7 +17,7 @@ relations:
 
 ## 📖 Definitions
 
-> "non-deliberative, asymmetrical structural relations that either excludes one from social participation or obscures one’s social experience from collective understanding" ([Goldstein, 2022, p. 1868]).
+> "non-deliberative, asymmetrical structural relations that either excludes one from social participation or obscures one’s social experience from collective understanding" (Goldstein, 2022, p. 1868).
 
 ## 🔗 Relations
 

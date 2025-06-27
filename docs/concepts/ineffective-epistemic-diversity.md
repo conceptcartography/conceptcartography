@@ -13,7 +13,7 @@ definitions:
   that (1) there are likely factors acting that block women’s dissent from getting
   uptake, (2) cultural patterns inhibit the kinds of social interactions required
   for women to offer dissent and (3) there are forces that inhibit women from developing
-  dissenting views." ([Fehr, 2011, p. 148])'
+  dissenting views." (Fehr, 2011, p. 148)'
 examples: []
 relations:
 - type: type of
@@ -28,7 +28,7 @@ relations:
 
 ## 📖 Definitions
 
-> "Ineffective epistemic diversity obtains when a community includes members who hold different background beliefs but does not use this diversity to generate and evaluate theories, hypotheses and data. Communities can be blocked from making use of the epistemic diversity that could be offered by their members. As will be discussed below, current research on women STEM faculty and on university cultures indicates that (1) there are likely factors acting that block women’s dissent from getting uptake, (2) cultural patterns inhibit the kinds of social interactions required for women to offer dissent and (3) there are forces that inhibit women from developing dissenting views." ([Fehr, 2011, p. 148])
+> "Ineffective epistemic diversity obtains when a community includes members who hold different background beliefs but does not use this diversity to generate and evaluate theories, hypotheses and data. Communities can be blocked from making use of the epistemic diversity that could be offered by their members. As will be discussed below, current research on women STEM faculty and on university cultures indicates that (1) there are likely factors acting that block women’s dissent from getting uptake, (2) cultural patterns inhibit the kinds of social interactions required for women to offer dissent and (3) there are forces that inhibit women from developing dissenting views." (Fehr, 2011, p. 148)
 
 ## 🔗 Relations
 

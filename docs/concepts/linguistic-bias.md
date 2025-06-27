@@ -6,7 +6,7 @@ references:
 definitions:
 - '"people’s psychological tendency to view someone or their contribution(s) more
   negatively (as less competent, intelligent, intelligible, credible, etc.) because
-  of their actual or expected “nonstandard”1 language use" ([Peters, 2024, p. 1514])'
+  of their actual or expected “nonstandard”1 language use" (Peters, 2024, p. 1514)'
 examples: []
 relations:
 - type: part of
@@ -17,7 +17,7 @@ relations:
 
 ## 📖 Definitions
 
-> "people’s psychological tendency to view someone or their contribution(s) more negatively (as less competent, intelligent, intelligible, credible, etc.) because of their actual or expected “nonstandard”1 language use" ([Peters, 2024, p. 1514])
+> "people’s psychological tendency to view someone or their contribution(s) more negatively (as less competent, intelligent, intelligible, credible, etc.) because of their actual or expected “nonstandard”1 language use" (Peters, 2024, p. 1514)
 
 ## 🔗 Relations
 

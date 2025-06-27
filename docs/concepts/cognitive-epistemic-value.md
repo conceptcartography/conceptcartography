@@ -28,7 +28,7 @@ relations:
 
 > Longino: Cognitive/epistemic values/virtues are they are properties that theories can have or can have to a greater or lesser degree, and t are desiderata. Typically because considered conductive to truth, but n.b. also import significant socio-political values. Not context-independent and universally applicable.
 
-> Carrier: Epistemic values relate to obtaining knowledge or understanding (not truth per se), express requirements of significance/pursuit/non-triviality and confirmation/relevance of evidence "We are the ones who make a choice of the kind of knowledge we prefer" ([Carrier, 2013, p. 2555])
+> Carrier: Epistemic values relate to obtaining knowledge or understanding (not truth per se), express requirements of significance/pursuit/non-triviality and confirmation/relevance of evidence "We are the ones who make a choice of the kind of knowledge we prefer" (Carrier, 2013, p. 2555)
 
 ## 🔗 Relations
 

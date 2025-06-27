@@ -21,6 +21,9 @@ def format_definition_text(definition, reference_lookup, used_refs):
 def slugify(text):
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
+def remove_square_brackets(text):
+    return text.replace('[', '').replace(']', '')
+
 def extract_year(text):
     match = re.search(r"[\(\[]?(19|20)\d{2}[\)\]]?", text)
     return match.group(0).strip("()[]") if match else ""
@@ -124,13 +127,21 @@ for concept, data in concepts.items():
 
     with open(path, "w", encoding="utf-8") as f:
         f.write("---\n")
+        cleaned_definitions = [remove_square_brackets(d) for d in data["definitions"]]
+
+        cleaned_examples = [
+            {"description": remove_square_brackets(e["description"])}
+            for e in data["examples"]
+        ]
+
         yaml.dump({
             "concept": data["concept"],
             "references": ref_list,
-            "definitions": data["definitions"],
-            "examples": data["examples"],
+            "definitions": cleaned_definitions,
+            "examples": cleaned_examples,
             "relations": data["relations"]
         }, f, sort_keys=False, allow_unicode=True)
+
         f.write("---\n\n")
 
         f.write(f"# {data['concept']}\n\n")
@@ -138,15 +149,15 @@ for concept, data in concepts.items():
         # Definitions as blockquotes
         if data["definitions"]:
             f.write("## 📖 Definitions\n\n")
-            for d in data["definitions"]:
+            for d in cleaned_definitions:
                 f.write(f"> {d}\n\n")
+
 
         # Examples
         if data["examples"]:
             f.write("## 💡 Examples\n\n")
-            for e in data["examples"]:
-                year_str = f"**{e['year']}** — " if e["year"] else ""
-                f.write(f"- {year_str}{e['description']}\n")
+            for e in cleaned_examples:
+                f.write(f"- {e['description']}\n")
             f.write("\n")
 
         # Relations

@@ -14,19 +14,19 @@ references:
 definitions:
 - '"A community is epistemically diverse when it includes members who hold a range
   of different background assumptions, and theoretical and methodological perspectives."
-  ([Fehr, 2011, p. 146])'
+  (Fehr, 2011, p. 146)'
 - '"We call ‘epistemic diversity’ the ability or possibility of producing diverse
   and rich epistemic apparati to make sense of the world around us. Such epistemic
   apparati may be sophisticated philosophical conceptualisations or theories, or their
   corresponding folk theories that each one of us has, in virtue of their experience
   as epistemic agent and language user in given cultural contexts." (Gobbo and Russo,
   2020, p. 185)'
-- '"differences among situated knowers [...] These include differences in cognitive
+- '"differences among situated knowers ... These include differences in cognitive
   capacity, experience, and expertise; in access to information and the heuristics
   that make it intelligible; and in motivating interests and orienting standpoint."
   (Wylie, 2006, p. 1)'
 - '"the condition or fact of being different or varied, which affects the development
-  and/or understanding of knowledge." ([Leonelli, 2022])'
+  and/or understanding of knowledge." (Leonelli, 2022)'
 examples: []
 relations:
 - type: part of
@@ -39,13 +39,13 @@ relations:
 
 ## 📖 Definitions
 
-> "A community is epistemically diverse when it includes members who hold a range of different background assumptions, and theoretical and methodological perspectives." ([Fehr, 2011, p. 146])
+> "A community is epistemically diverse when it includes members who hold a range of different background assumptions, and theoretical and methodological perspectives." (Fehr, 2011, p. 146)
 
 > "We call ‘epistemic diversity’ the ability or possibility of producing diverse and rich epistemic apparati to make sense of the world around us. Such epistemic apparati may be sophisticated philosophical conceptualisations or theories, or their corresponding folk theories that each one of us has, in virtue of their experience as epistemic agent and language user in given cultural contexts." (Gobbo and Russo, 2020, p. 185)
 
-> "differences among situated knowers [...] These include differences in cognitive capacity, experience, and expertise; in access to information and the heuristics that make it intelligible; and in motivating interests and orienting standpoint." (Wylie, 2006, p. 1)
+> "differences among situated knowers ... These include differences in cognitive capacity, experience, and expertise; in access to information and the heuristics that make it intelligible; and in motivating interests and orienting standpoint." (Wylie, 2006, p. 1)
 
-> "the condition or fact of being different or varied, which affects the development and/or understanding of knowledge." ([Leonelli, 2022])
+> "the condition or fact of being different or varied, which affects the development and/or understanding of knowledge." (Leonelli, 2022)
 
 ## 🔗 Relations
 

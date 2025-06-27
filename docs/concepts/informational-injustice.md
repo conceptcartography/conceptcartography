@@ -7,7 +7,7 @@ definitions:
 - “Informational injustice occurs when a more-informed agent disadvantages a less-informed
   using the surplus information the former has. Informational injustice occurs if
   and only if an agent is wronged owing to his or her lower position in an informational
-  asymmetry.” ([Bagwala, 2024, p. 8])
+  asymmetry.” (Bagwala, 2024, p. 8)
 examples: []
 relations:
 - type: type of
@@ -18,7 +18,7 @@ relations:
 
 ## 📖 Definitions
 
-> “Informational injustice occurs when a more-informed agent disadvantages a less-informed using the surplus information the former has. Informational injustice occurs if and only if an agent is wronged owing to his or her lower position in an informational asymmetry.” ([Bagwala, 2024, p. 8])
+> “Informational injustice occurs when a more-informed agent disadvantages a less-informed using the surplus information the former has. Informational injustice occurs if and only if an agent is wronged owing to his or her lower position in an informational asymmetry.” (Bagwala, 2024, p. 8)
 
 ## 🔗 Relations
 

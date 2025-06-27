@@ -5,12 +5,11 @@ references:
 definitions:
 - Non-dominant marginalization occurs when social groups are able to render their
   experiences intelligible, but their conceptual resources are not respected by the
-  dominant group ([Mason, 2011, p. 298]).
+  dominant group (Mason, 2011, p. 298).
 examples:
 - description: '"On Mason’s interpretation, Wood had adequate resources. She could
     make sense of her social experience, but those resources were not respected by
     the dominant group" (Goldstein 2022: 1865).'
-  year: '2022'
 relations:
 - type: produces
   target: testimonial injustice
@@ -20,11 +19,11 @@ relations:
 
 ## 📖 Definitions
 
-> Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group ([Mason, 2011, p. 298]).
+> Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group (Mason, 2011, p. 298).
 
 ## 💡 Examples
 
-- **2022** — "On Mason’s interpretation, Wood had adequate resources. She could make sense of her social experience, but those resources were not respected by the dominant group" (Goldstein 2022: 1865).
+- "On Mason’s interpretation, Wood had adequate resources. She could make sense of her social experience, but those resources were not respected by the dominant group" (Goldstein 2022: 1865).
 
 ## 🔗 Relations
 

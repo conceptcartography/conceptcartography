@@ -6,8 +6,8 @@ references:
 definitions:
 - '"x The epistemic approach to diversity is essentially an invitation to diverse
   practitioners to join a community and provide dissent, to point out implicit values
-  and methodological inconsistencies and hence improve rigor" [(Fehr and Minji, 2022,
-  p.12)]'
+  and methodological inconsistencies and hence improve rigor" (Fehr and Minji, 2022,
+  p.12)'
 examples: []
 relations:
 - type: part of
@@ -18,7 +18,7 @@ relations:
 
 ## 📖 Definitions
 
-> "x The epistemic approach to diversity is essentially an invitation to diverse practitioners to join a community and provide dissent, to point out implicit values and methodological inconsistencies and hence improve rigor" [(Fehr and Minji, 2022, p.12)]
+> "x The epistemic approach to diversity is essentially an invitation to diverse practitioners to join a community and provide dissent, to point out implicit values and methodological inconsistencies and hence improve rigor" (Fehr and Minji, 2022, p.12)
 
 ## 🔗 Relations
 

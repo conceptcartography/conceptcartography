@@ -10,17 +10,16 @@ definitions:
   epistemic agency due to inefficiency within shared epistemic resources. That is,
   a first-order epistemic exclusion is an exclusion that results from the incompetent
   functioning of some aspect of shared epistemic resources with respect to some goal
-  or value." ([Dotson, 2014, p. 123]) "first-order changes and single-loop processes
+  or value." (Dotson, 2014, p. 123) "first-order changes and single-loop processes
   constitute the minimal changes necessary to address an epistemic exclusion that
   results from inefficiencies within shared epistemic resources because the resources
-  themselves are not in question, just the application of the resources" ([Dotson,
-  2014, p. 125])'
+  themselves are not in question, just the application of the resources" (Dotson,
+  2014, p. 125)'
 - '"pre-emptively regarding a person as unreliable or incapable of participating in
   particular epistemic systems and so impede epistemic agency by barring them from
-  full participation in those systems." ([Pohlhaus, 2014, p. 235])'
+  full participation in those systems." (Pohlhaus, 2014, p. 235)'
 examples:
 - description: Unwarranted credibility deficits
-  year: ''
 relations:
 - type: type of
   target: epistemic oppression
@@ -34,9 +33,9 @@ relations:
 
 ## 📖 Definitions
 
-> "A first-order epistemic exclusion follows from a persistent compromise of one’s epistemic agency due to inefficiency within shared epistemic resources. That is, a first-order epistemic exclusion is an exclusion that results from the incompetent functioning of some aspect of shared epistemic resources with respect to some goal or value." ([Dotson, 2014, p. 123]) "first-order changes and single-loop processes constitute the minimal changes necessary to address an epistemic exclusion that results from inefficiencies within shared epistemic resources because the resources themselves are not in question, just the application of the resources" ([Dotson, 2014, p. 125])
+> "A first-order epistemic exclusion follows from a persistent compromise of one’s epistemic agency due to inefficiency within shared epistemic resources. That is, a first-order epistemic exclusion is an exclusion that results from the incompetent functioning of some aspect of shared epistemic resources with respect to some goal or value." (Dotson, 2014, p. 123) "first-order changes and single-loop processes constitute the minimal changes necessary to address an epistemic exclusion that results from inefficiencies within shared epistemic resources because the resources themselves are not in question, just the application of the resources" (Dotson, 2014, p. 125)
 
-> "pre-emptively regarding a person as unreliable or incapable of participating in particular epistemic systems and so impede epistemic agency by barring them from full participation in those systems." ([Pohlhaus, 2014, p. 235])
+> "pre-emptively regarding a person as unreliable or incapable of participating in particular epistemic systems and so impede epistemic agency by barring them from full participation in those systems." (Pohlhaus, 2014, p. 235)
 
 ## 💡 Examples
 

@@ -8,7 +8,6 @@ references:
 definitions: []
 examples:
 - description: women's health movement
-  year: ''
 relations: []
 ---
 

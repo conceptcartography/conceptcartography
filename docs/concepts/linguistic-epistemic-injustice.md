@@ -11,9 +11,8 @@ definitions:
 examples:
 - description: Academic migrants. "despite their philosophical competence and sincerity,
     they are exposed to undue credibility or intelligibility deficits in AAAP because
-    of biases that interfere with credibility or intelligibility allocations." ([Catala,
-    2022, p. 331])
-  year: '2022'
+    of biases that interfere with credibility or intelligibility allocations." (Catala,
+    2022, p. 331)
 relations:
 - type: type of
   target: epistemic injustice
@@ -27,7 +26,7 @@ relations:
 
 ## 💡 Examples
 
-- **2022** — Academic migrants. "despite their philosophical competence and sincerity, they are exposed to undue credibility or intelligibility deficits in AAAP because of biases that interfere with credibility or intelligibility allocations." ([Catala, 2022, p. 331])
+- Academic migrants. "despite their philosophical competence and sincerity, they are exposed to undue credibility or intelligibility deficits in AAAP because of biases that interfere with credibility or intelligibility allocations." (Catala, 2022, p. 331)
 
 ## 🔗 Relations
 
