@@ -1,8 +1,8 @@
 ---
 concept: diversity can benefit information elaboration (dbie)
 references:
-- Steel, D., Fazelpour, S., Crewe, B. et al. Information elaboration and epistemic
-  effects of diversity. Synthese 198, 1287–1307 (2021). https://doi.org/10.1007/s11229-019-02108-w
+- 'Steel, D., Fazelpour, S., Crewe, B. et al. Information elaboration and epistemic
+  effects of diversity. Synthese 198, 1287–1307 (2021). https: doi.org/10.1007/s11229-019-02108-w'
 definitions:
 - '"demographic diversity can improve performance by enhancing information elaboration
   (IE), the process through which information and perspectives distributed among the
@@ -22,7 +22,7 @@ relations:
 
 ## 📖 Definitions
 
-- "demographic diversity can improve performance by enhancing information elaboration (IE), the process through which information and perspectives distributed among the group are elicited and assessed" [(Steel et al., 2021, p.1288)]
+> "demographic diversity can improve performance by enhancing information elaboration (IE), the process through which information and perspectives distributed among the group are elicited and assessed" [(Steel et al., 2021, p.1288)]
 
 ## 💡 Examples
 
@@ -34,4 +34,4 @@ relations:
 
 ## 📚 References
 
-- Steel, D., Fazelpour, S., Crewe, B. et al. Information elaboration and epistemic effects of diversity. Synthese 198, 1287–1307 (2021). https://doi.org/10.1007/s11229-019-02108-w
+- Steel, D., Fazelpour, S., Crewe, B. et al. Information elaboration and epistemic effects of diversity. Synthese 198, 1287–1307 (2021). https: doi.org/10.1007/s11229-019-02108-w

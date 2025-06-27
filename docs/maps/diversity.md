@@ -1,6 +1,5 @@
 # Diversity Network Map
 
-This map was created based primarily on readings from an interdisciplinary, international, online reading group, beginning in mid-2024. We thank everyone who came along and shared their insights and ideas and contributed to a series of enlightening and provocative discussions.
 <style>
 #graph-wrapper {
   max-width: 1000px;
@@ -142,6 +141,7 @@ datalist option {
 
 
 
+This map was created based primarily on readings from an interdisciplinary, international, online reading group, beginning in mid-2024. We thank everyone who came along and shared their insights and ideas and contributed to a series of enlightening and provocative discussions.
 
 <!-- Load the 3d-force-graph library and wait for it -->
 <script>
@@ -164,6 +164,11 @@ document.getElementById('search-box').addEventListener('keydown', function(e) {
     focusOnConcept(this.value);
   }
 });
+
+document.getElementById('search-box').addEventListener('change', function () {
+  focusOnConcept(this.value);
+});
+
 
 function toTitleCase(str) {
   return str.replace(/\w\S*/g, w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase());
@@ -218,7 +223,7 @@ function initGraph() {
         .linkWidth(1.5)
         .linkOpacity(0.8)
         .backgroundColor('#fdfdfd')
-        .linkDirectionalParticles(2)
+        .linkDirectionalParticles(5)
         .linkDirectionalParticleWidth(2)
         .linkDirectionalParticleColor(link => colorMap[normalize(link.type)] || 'gray')
         .onNodeClick(node => {
@@ -226,6 +231,14 @@ function initGraph() {
           window.location.href = `/concepts/${slug}`;
         })
         .onBackgroundClick(() => Graph.zoomToFit(200));
+        // Wait for layout and container to stabilize, then zoom and center the graph
+setTimeout(() => {
+  const container = document.getElementById('graph-container');
+  Graph.width(container.offsetWidth);
+  Graph.height(container.offsetHeight);
+  Graph.zoomToFit(400);
+}, 0); // Immediate timeout waits for next repaint
+
     });
 }
 
@@ -266,8 +279,20 @@ function focusOnConcept(query) {
 }
 
 function highlightNode(node) {
-  Graph.centerAt(node.x, node.y, 1000);
-  Graph.zoom(5, 1000);
+  if (!node) return;
+
+  const distance = 100;
+  const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z || 1);
+
+  Graph.cameraPosition(
+    {
+      x: node.x * distRatio,
+      y: node.y * distRatio,
+      z: (node.z || 1) * distRatio
+    },
+    node,
+    1000
+  );
 
   const originalColor = '#3b3b3b';
   const highlightColor = '#facc15'; // bright yellow
@@ -279,6 +304,7 @@ function highlightNode(node) {
     Graph.nodeColor(() => originalColor);
   }, 2000);
 }
+
 
 
 

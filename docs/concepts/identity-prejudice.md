@@ -2,7 +2,7 @@
 concept: identity prejudice
 references:
 - 'Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford,
-  2007; online edn, Oxford Academic, 1 Sept. 2007), https://doi.org/10.1093/acprof:oso/9780198237907.003.0002'
+  2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002'
 definitions:
 - prejudices (i.e., negative stereotypes) against people qua social type
 examples:
@@ -23,7 +23,7 @@ relations:
 
 ## 📖 Definitions
 
-- prejudices (i.e., negative stereotypes) against people qua social type
+> prejudices (i.e., negative stereotypes) against people qua social type
 
 ## 💡 Examples
 
@@ -38,4 +38,4 @@ relations:
 
 ## 📚 References
 
-- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https://doi.org/10.1093/acprof:oso/9780198237907.003.0002
+- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002

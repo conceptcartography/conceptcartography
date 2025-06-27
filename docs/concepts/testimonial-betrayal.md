@@ -3,7 +3,7 @@ concept: testimonial betrayal
 references:
 - "Wanderer, Jeremy 2017. \"VARIETIES OF TESTIMONIAL INJUSTICE\" in Kidd, I. J., Medina,\
   \ J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice.\
-  \ Routledge: 27-40 https://doi.org/10.4324/9781315212043\r\n--see also Maitra (2010)pages\
+  \ Routledge: 27-40 https: doi.org/10.4324/9781315212043\r\n--see also Maitra (2010)pages\
   \ 198–200."
 definitions:
 - '"thick relations of intimacy between acquaintances, and the maltreatment involves
@@ -22,7 +22,7 @@ relations:
 
 ## 📖 Definitions
 
-- "thick relations of intimacy between acquaintances, and the maltreatment involves a rupture of, or disloyalty within, those thick relationships" (ibid p. 35)
+> "thick relations of intimacy between acquaintances, and the maltreatment involves a rupture of, or disloyalty within, those thick relationships" (ibid p. 35)
 
 ## 💡 Examples
 
@@ -34,5 +34,5 @@ relations:
 
 ## 📚 References
 
-- Wanderer, Jeremy 2017. "VARIETIES OF TESTIMONIAL INJUSTICE" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 27-40 https://doi.org/10.4324/9781315212043
+- Wanderer, Jeremy 2017. "VARIETIES OF TESTIMONIAL INJUSTICE" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 27-40 https: doi.org/10.4324/9781315212043
 --see also Maitra (2010)pages 198–200.

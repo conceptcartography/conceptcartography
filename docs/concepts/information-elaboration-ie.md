@@ -28,7 +28,7 @@ relations:
 
 ## 📖 Definitions
 
-- "the exchange of information and perspectives, individual-level processing of the information and perspectives, feeding back the results of this individual-level processing into the group, and discussion and integration of their implications" ” (van Homan et al. 2007, p. 1189).
+> "the exchange of information and perspectives, individual-level processing of the information and perspectives, feeding back the results of this individual-level processing into the group, and discussion and integration of their implications" ” (van Homan et al. 2007, p. 1189).
 
 ## 💡 Examples
 
@@ -41,4 +41,4 @@ communication of dispersed cognitive resources, (2) integration in which individ
 
 ## 📚 References
 
-- Homan AC, van Knippenberg D, Van Kleef GA, De Dreu CK. Bridging faultlines by valuing diversity: diversity beliefs, information elaboration, and performance in diverse work groups. J Appl Psychol. 2007 Sep;92(5):1189-99. doi: 10.1037/0021-9010.92.5.1189. PMID: 17845079.
+- Homan AC, van Knippenberg D, Van Kleef GA, De Dreu CK. Bridging faultlines by valuing diversity: diversity beliefs, information elaboration, and performance in diverse work groups. J Appl Psychol. 2007 Sep;92(5):1189-99. [doi:10.1037/0021-9010.92.5.1189.](https://doi.org/10.1037/0021-9010.92.5.1189.) PMID: 17845079.

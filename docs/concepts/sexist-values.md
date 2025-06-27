@@ -3,7 +3,7 @@ concept: sexist values
 references:
 - 'ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge:
   Epistemic Oppression with the Morning-after Pill’s Drug Label.” Hypatia 37 (2):
-  315–42. https://doi.org/10.1017/hyp.2022.11.'
+  315–42. https: doi.org/10.1017/hyp.2022.11.'
 definitions:
 - '"ideologies that support unfair social hierarchies by legitimizing male domination
   of cisgender women and other “weaker” genders [...] I argue that sexist values and
@@ -22,7 +22,7 @@ relations:
 
 ## 📖 Definitions
 
-- "ideologies that support unfair social hierarchies by legitimizing male domination of cisgender women and other “weaker” genders [...] I argue that sexist values and gender norms are illegitimate in reproductive medicine because they undermine epistemic autonomy and enable epistemic oppression." ([ChoGlueck, 2023, p. 316])
+> "ideologies that support unfair social hierarchies by legitimizing male domination of cisgender women and other “weaker” genders [...] I argue that sexist values and gender norms are illegitimate in reproductive medicine because they undermine epistemic autonomy and enable epistemic oppression." ([ChoGlueck, 2023, p. 316])
 
 ## 💡 Examples
 
@@ -34,4 +34,4 @@ relations:
 
 ## 📚 References
 
-- ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge: Epistemic Oppression with the Morning-after Pill’s Drug Label.” Hypatia 37 (2): 315–42. https://doi.org/10.1017/hyp.2022.11.
+- ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge: Epistemic Oppression with the Morning-after Pill’s Drug Label.” Hypatia 37 (2): 315–42. https: doi.org/10.1017/hyp.2022.11.

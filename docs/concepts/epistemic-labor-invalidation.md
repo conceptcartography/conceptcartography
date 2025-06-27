@@ -3,7 +3,7 @@ concept: epistemic labor invalidation
 references:
 - 'Pohlhaus, Gaile Jr. 2017. "Varieties of epistemic injustice" in Kidd, I. J., Medina,
   J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge:
-  13-26 https://doi.org/10.4324/9781315212043'
+  13-26 https: doi.org/10.4324/9781315212043'
 definitions:
 - '"disregard and devalue certain sorts of epistemic activity, invalidating the epistemic
   labor necessary for completing epistemic tasks" (Pohlhaus 2017: p. 21)'
@@ -31,7 +31,7 @@ relations:
 
 ## 📖 Definitions
 
-- "disregard and devalue certain sorts of epistemic activity, invalidating the epistemic labor necessary for completing epistemic tasks" (Pohlhaus 2017: p. 21)
+> "disregard and devalue certain sorts of epistemic activity, invalidating the epistemic labor necessary for completing epistemic tasks" (Pohlhaus 2017: p. 21)
 
 ## 💡 Examples
 
@@ -45,4 +45,4 @@ relations:
 
 ## 📚 References
 
-- Pohlhaus, Gaile Jr. 2017. "Varieties of epistemic injustice" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 13-26 https://doi.org/10.4324/9781315212043
+- Pohlhaus, Gaile Jr. 2017. "Varieties of epistemic injustice" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 13-26 https: doi.org/10.4324/9781315212043

@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-- " Epistemic freedom is about democratizing ‘knowledge’ from its
+> " Epistemic freedom is about democratizing ‘knowledge’ from its
 current rendition in the singular into its plural known as ‘knowledges’. It is also
 ranged against overrepresentation of Eurocentric thought in knowledge, social
 theory and education. Epistemic freedom is foundational in the broader decolon -

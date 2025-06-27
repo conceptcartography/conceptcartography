@@ -1,8 +1,8 @@
 ---
 concept: transient diversity
 references:
-- Zollman, K.J.S. The Epistemic Benefit of Transient Diversity. Erkenn 72, 17–35 (2010).
-  https://doi.org/10.1007/s10670-009-9194-6
+- 'Zollman, K.J.S. The Epistemic Benefit of Transient Diversity. Erkenn 72, 17–35
+  (2010). https: doi.org/10.1007/s10670-009-9194-6'
 definitions:
 - '"This diversity should be around long enough so that individuals do not discard
   theories too quickly, but also not stay around so long as to hinder the convergence
@@ -23,7 +23,7 @@ relations:
 
 ## 📖 Definitions
 
-- "This diversity should be around long enough so that individuals do not discard theories too quickly, but also not stay around so long as to hinder the convergence to one action." [(Zollman, 2010, p.32)]
+> "This diversity should be around long enough so that individuals do not discard theories too quickly, but also not stay around so long as to hinder the convergence to one action." [(Zollman, 2010, p.32)]
 
 ## 💡 Examples
 
@@ -35,4 +35,4 @@ relations:
 
 ## 📚 References
 
-- Zollman, K.J.S. The Epistemic Benefit of Transient Diversity. Erkenn 72, 17–35 (2010). https://doi.org/10.1007/s10670-009-9194-6
+- Zollman, K.J.S. The Epistemic Benefit of Transient Diversity. Erkenn 72, 17–35 (2010). https: doi.org/10.1007/s10670-009-9194-6

@@ -3,7 +3,7 @@ concept: diversity advocates
 references:
 - 'Dunbar-Hester, C. (2020). Crafting and Critique: ARTIFACTUAL AND SYMBOLIC OUTPUTS
   OF DIVERSITY ADVOCACY. In Hacking Diversity: The Politics of Inclusion in Open Technology
-  Cultures (pp. 96–127). Princeton University Press. https://doi.org/10.2307/j.ctvhrd181.8'
+  Cultures (pp. 96–127). Princeton University Press. https: doi.org/10.2307/j.ctvhrd181.8'
 definitions:
 - '"diversity advocates in open-technology projects critique mainstream opentechnology
   communities through acts of production"'
@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-- "diversity advocates in open-technology projects critique mainstream opentechnology communities through acts of production"
+> "diversity advocates in open-technology projects critique mainstream opentechnology communities through acts of production"
 
 ## 💡 Examples
 
@@ -33,4 +33,4 @@ and some degree of exclusion by, a wider, dominant public" (Fraser, 1990)
 
 ## 📚 References
 
-- Dunbar-Hester, C. (2020). Crafting and Critique: ARTIFACTUAL AND SYMBOLIC OUTPUTS OF DIVERSITY ADVOCACY. In Hacking Diversity: The Politics of Inclusion in Open Technology Cultures (pp. 96–127). Princeton University Press. https://doi.org/10.2307/j.ctvhrd181.8
+- Dunbar-Hester, C. (2020). Crafting and Critique: ARTIFACTUAL AND SYMBOLIC OUTPUTS OF DIVERSITY ADVOCACY. In Hacking Diversity: The Politics of Inclusion in Open Technology Cultures (pp. 96–127). Princeton University Press. https: doi.org/10.2307/j.ctvhrd181.8

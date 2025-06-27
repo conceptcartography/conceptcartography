@@ -2,7 +2,7 @@
 concept: linguistic disfluency bias
 references:
 - 'Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.”
-  Philosophical Psychology 37 (6): 1513–38. https://doi.org/10.1080/09515089.2023.2261976.'
+  Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.'
 definitions:
 - '"cases in which detecting an LX accent, lexical choice, etc. leads an audience
   to biased conclusions because unfamiliar speech is harder to process fluently, producing
@@ -21,7 +21,7 @@ relations:
 
 ## 📖 Definitions
 
-- "cases in which detecting an LX accent, lexical choice, etc. leads an audience to biased conclusions because unfamiliar speech is harder to process fluently, producing negative affect that then influences cognition" ([Peters, 2024, p. 1517])
+> "cases in which detecting an LX accent, lexical choice, etc. leads an audience to biased conclusions because unfamiliar speech is harder to process fluently, producing negative affect that then influences cognition" ([Peters, 2024, p. 1517])
 
 ## 💡 Examples
 
@@ -33,4 +33,4 @@ relations:
 
 ## 📚 References
 
-- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https://doi.org/10.1080/09515089.2023.2261976.
+- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.

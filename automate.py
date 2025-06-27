@@ -7,6 +7,20 @@ from collections import defaultdict
 def parse_definitions(def_str):
     return [s.strip() for s in def_str.split('//') if s.strip()]
 
+def format_definition_text(definition, reference_lookup, used_refs):
+    # Turn citation-like things into markdown links if found in ref lookup
+    def replace_citation(match):
+        citation = match.group(1).strip()
+        slug = slugify(citation)
+        if slug in reference_lookup:
+            used_refs.add(slug)
+            return f"[{citation}](#ref-{slug})"
+        return citation  # leave it unlinked if not found
+    return re.sub(r"[\(\[]([^()\[\]]+)[\)\]]", replace_citation, definition)
+
+def slugify(text):
+    return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
+
 def extract_year(text):
     match = re.search(r"[\(\[]?(19|20)\d{2}[\)\]]?", text)
     return match.group(0).strip("()[]") if match else ""
@@ -14,6 +28,33 @@ def extract_year(text):
 def parse_examples(example_str):
     parts = [s.strip() for s in example_str.split(';') if s.strip()]
     return [{"description": p, "year": extract_year(p)} for p in parts]
+
+def clean_reference_blocks(raw_refs):
+    cleaned_refs = []
+    buffer = ""
+
+    for ref in raw_refs:
+        ref = ref.strip()
+        if not ref:
+            continue
+
+        # If it's just a URL fragment like 'https:' or 'doi:', skip
+        if re.fullmatch(r'https?:', ref.lower()) or re.fullmatch(r'doi:', ref.lower()):
+            continue
+
+        # If it's a URL/DOI starting with no context, add to previous line
+        if (ref.startswith("http") or ref.startswith("doi:") or ref.startswith("doi.org")) and buffer:
+            buffer += " " + ref
+        else:
+            if buffer:
+                cleaned_refs.append(buffer)
+            buffer = ref
+
+    if buffer:
+        cleaned_refs.append(buffer)
+
+    return cleaned_refs
+
 
 def parse_relations(relation_str):
     if not relation_str:
@@ -38,14 +79,13 @@ def parse_relations(relation_str):
                 print(f"⚠️ Skipping unrecognized relation format: '{part}'")
     return relation_items
 
-def slugify(text):
-    return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
+
 
 # First pass: collect all concept data and relations
 concepts = {}
 reverse_relations = defaultdict(list)
 
-with open("dict.csv", newline='', encoding='utf-8') as csvfile:
+with open("cv.csv", newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         concept = row["concept"].strip().lower()
@@ -68,24 +108,25 @@ with open("dict.csv", newline='', encoding='utf-8') as csvfile:
 
 # Merge reverse relations
 for concept, data in concepts.items():
-    incoming = reverse_relations.get(concept, [])
-    all_relations = data["relations"] + incoming
-    # Remove duplicates
-    seen = set()
-    data["relations"] = [
-        r for r in all_relations
-        if (r["type"], r["target"]) not in seen and not seen.add((r["type"], r["target"]))
-    ]
-
-# Write Markdown files
-for concept, data in concepts.items():
     path = f"docs/concepts/{data['slug']}.md"
     os.makedirs(os.path.dirname(path), exist_ok=True)
+
+    # Parse and sort unique references
+    # Parse and sort unique references
+    ref_list = []
+    for ref_str in data["references"]:
+        ref_list += [r.strip() for r in ref_str.split("//") if r.strip()]
+
+    # Clean up multi-line references
+    ref_list = clean_reference_blocks(ref_list)
+    ref_list = sorted(set(ref_list), key=str.lower)
+
+
     with open(path, "w", encoding="utf-8") as f:
         f.write("---\n")
         yaml.dump({
             "concept": data["concept"],
-            "references": data["references"],
+            "references": ref_list,
             "definitions": data["definitions"],
             "examples": data["examples"],
             "relations": data["relations"]
@@ -94,12 +135,13 @@ for concept, data in concepts.items():
 
         f.write(f"# {data['concept']}\n\n")
 
+        # Definitions as blockquotes
         if data["definitions"]:
             f.write("## 📖 Definitions\n\n")
             for d in data["definitions"]:
-                f.write(f"- {d}\n")
-            f.write("\n")
+                f.write(f"> {d}\n\n")
 
+        # Examples
         if data["examples"]:
             f.write("## 💡 Examples\n\n")
             for e in data["examples"]:
@@ -107,6 +149,7 @@ for concept, data in concepts.items():
                 f.write(f"- {year_str}{e['description']}\n")
             f.write("\n")
 
+        # Relations
         if data["relations"]:
             f.write("## 🔗 Relations\n\n")
             for r in data["relations"]:
@@ -114,7 +157,23 @@ for concept, data in concepts.items():
                 f.write(f"- **{r['type']}**: [{r['target']}](./{target_slug}.md)\n")
             f.write("\n")
 
-        if data["references"]:
+        # References
+        if ref_list:
             f.write("## 📚 References\n\n")
-            for ref in data["references"]:
-                f.write(f"- {ref}\n")
+            for ref in ref_list:
+                    # Convert any URL in the reference to a clickable Markdown link
+                def linkify_reference(ref):
+    # Linkify DOI only if not already inside a markdown link
+                    ref = re.sub(r'\bdoi: *([^\s\)\]]+)', r'[doi:\1](https://doi.org/\1)', ref)
+
+                    # Fix raw URLs (not already in markdown)
+                    def url_replacer(match):
+                        url = match.group(0)
+                        return f'<{url}>'
+
+                    ref = re.sub(r'(?<![\[\(])https?://[^\s\)\]]+', url_replacer, ref)
+                    return ref
+
+
+
+                f.write(f"- {linkify_reference(ref)}\n")        

@@ -2,7 +2,7 @@
 concept: hermeneutical marginalization
 references:
 - 'Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford,
-  2007; online edn, Oxford Academic, 1 Sept. 2007), https://doi.org/10.1093/acprof:oso/9780198237907.003.0002'
+  2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002'
 definitions:
 - '"Let us say that when there is unequal hermeneutical participation with respect
   to some significant area(s) of social experience, members of the disadvantaged group
@@ -24,17 +24,13 @@ examples:
 relations:
 - type: produces
   target: hermeneutical injustice
-- type: produces
-  target: micro-agression
-- type: produces
-  target: unwarranted exclusion
 ---
 
 # hermeneutical marginalization
 
 ## 📖 Definitions
 
-- "Let us say that when there is unequal hermeneutical participation with respect to some significant area(s) of social experience, members of the disadvantaged group are hermeneutically marginalized." ([Fricker, 2007, p. 153]).
+> "Let us say that when there is unequal hermeneutical participation with respect to some significant area(s) of social experience, members of the disadvantaged group are hermeneutically marginalized." ([Fricker, 2007, p. 153]).
 
 ## 💡 Examples
 
@@ -43,9 +39,7 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [hermeneutical injustice](./hermeneutical-injustice.md)
-- **produces**: [micro-agression](./micro-agression.md)
-- **produces**: [unwarranted exclusion](./unwarranted-exclusion.md)
 
 ## 📚 References
 
-- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https://doi.org/10.1093/acprof:oso/9780198237907.003.0002
+- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002

@@ -22,7 +22,7 @@ relations:
 
 ## 📖 Definitions
 
-- "directly and unfairly thwart epistemic labor" (Pohlhaus p. 21)
+> "directly and unfairly thwart epistemic labor" (Pohlhaus p. 21)
 
 ## 💡 Examples
 

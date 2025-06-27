@@ -1,7 +1,7 @@
 ---
 concept: non-dominant hermeneutical marginalization
 references:
-- Mason, R. (2011). Two Kinds of Unknowing. Hypatia, 26(2), 294–307. https://doi.org/10.1111/j.1527-2001.2011.01175.x
+- 'Mason, R. (2011). Two Kinds of Unknowing. Hypatia, 26(2), 294–307. https: doi.org/10.1111/j.1527-2001.2011.01175.x'
 definitions:
 - 'Non-dominant marginalization occurs when social groups are able to render their
   experiences intelligible, but their conceptual resources are not respected by the
@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-- Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group (Mason 2011: 298).
+> Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group (Mason 2011: 298).
 
 ## 💡 Examples
 
@@ -32,4 +32,4 @@ relations:
 
 ## 📚 References
 
-- Mason, R. (2011). Two Kinds of Unknowing. Hypatia, 26(2), 294–307. https://doi.org/10.1111/j.1527-2001.2011.01175.x
+- Mason, R. (2011). Two Kinds of Unknowing. Hypatia, 26(2), 294–307. https: doi.org/10.1111/j.1527-2001.2011.01175.x

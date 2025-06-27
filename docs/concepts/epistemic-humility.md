@@ -15,7 +15,7 @@ relations:
 
 ## 📖 Definitions
 
-- (cited in Alcoff 2022)
+> (cited in Alcoff 2022)
 
 ## 🔗 Relations
 

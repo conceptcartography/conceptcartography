@@ -2,7 +2,7 @@
 concept: credibility bias
 references:
 - 'Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic
-  Approaches to Diversity’. Synthese 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.'
+  Approaches to Diversity’. Synthese 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.'
 definitions:
 - "\"There is a large body of literature demonstrating a range\r\nof biases against\
   \ women in STEM\" [(Fehr and Minji, 2022, p.11)]"
@@ -24,7 +24,7 @@ relations:
 
 ## 📖 Definitions
 
-- "There is a large body of literature demonstrating a range
+> "There is a large body of literature demonstrating a range
 of biases against women in STEM" [(Fehr and Minji, 2022, p.11)]
 
 ## 💡 Examples
@@ -43,4 +43,4 @@ competent and assertive, and being likeable"
 
 ## 📚 References
 
-- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.
+- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.

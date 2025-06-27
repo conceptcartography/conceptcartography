@@ -2,7 +2,7 @@
 concept: linguistic injustice
 references:
 - 'Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.”
-  Philosophical Psychology 37 (6): 1513–38. https://doi.org/10.1080/09515089.2023.2261976.'
+  Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.'
 definitions:
 - '"unjust inequalities or unfair treatment of people or contributions based on features
   of their language." ([Peters, 2024, p. 1513])'
@@ -12,15 +12,13 @@ examples:
 relations:
 - type: produces
   target: linguistic epistemic injustice
-- type: part of
-  target: linguistic bias
 ---
 
 # linguistic injustice
 
 ## 📖 Definitions
 
-- "unjust inequalities or unfair treatment of people or contributions based on features of their language." ([Peters, 2024, p. 1513])
+> "unjust inequalities or unfair treatment of people or contributions based on features of their language." ([Peters, 2024, p. 1513])
 
 ## 💡 Examples
 
@@ -29,8 +27,7 @@ relations:
 ## 🔗 Relations
 
 - **produces**: [linguistic epistemic injustice](./linguistic-epistemic-injustice.md)
-- **part of**: [linguistic bias](./linguistic-bias.md)
 
 ## 📚 References
 
-- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https://doi.org/10.1080/09515089.2023.2261976.
+- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.

@@ -32,8 +32,9 @@ relations:
 
 ## 📖 Definitions
 
-- "What happens in such cases is that someone who wishes “to be recognized as a member of a community of people collaborating in the attempt to improve understanding or advance knowledge” fails to be so recognized (Hookway 2010: 155). Their capacity to contribute to cooperative inquiry as an epistemic agent is stymied. When this happens as a result of systematic forces of oppression, a participatory epistemic injustice results." ([Grasswick, 2017, p. 314])
-- "When members of underrepresented groups are taken less seriously and given less uptake in their intellectual interactions with their peers because of such biases, they suffer participatory epistemic injustices." ([Grasswick, 2017, 317])
+> "What happens in such cases is that someone who wishes “to be recognized as a member of a community of people collaborating in the attempt to improve understanding or advance knowledge” fails to be so recognized (Hookway 2010: 155). Their capacity to contribute to cooperative inquiry as an epistemic agent is stymied. When this happens as a result of systematic forces of oppression, a participatory epistemic injustice results." ([Grasswick, 2017, p. 314])
+
+> "When members of underrepresented groups are taken less seriously and given less uptake in their intellectual interactions with their peers because of such biases, they suffer participatory epistemic injustices." ([Grasswick, 2017, 317])
 
 ## 💡 Examples
 

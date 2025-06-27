@@ -16,7 +16,7 @@ relations:
 
 ## 📖 Definitions
 
-- Narrators' choices about what to foreground when recounting history of science, benign form of epistemic severing
+> Narrators' choices about what to foreground when recounting history of science, benign form of epistemic severing
 
 ## 🔗 Relations
 

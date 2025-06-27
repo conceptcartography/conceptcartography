@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-- "without ever losing their historical and cultural identity, they [the perspectives] nevertheless collectively feed into cosmopolitan knowledge." ([Massimi, 2022, p. 340]) "Any such encounters where one scientific perspective imposes itself upon others for the purpose of intellectual dominance, political oppression, and socioeconomic exclusion results in endemic varieties of epistemic injustice." ([Massimi, 2022, p. 340])
+> "without ever losing their historical and cultural identity, they [the perspectives] nevertheless collectively feed into cosmopolitan knowledge." ([Massimi, 2022, p. 340]) "Any such encounters where one scientific perspective imposes itself upon others for the purpose of intellectual dominance, political oppression, and socioeconomic exclusion results in endemic varieties of epistemic injustice." ([Massimi, 2022, p. 340])
 
 ## 🔗 Relations
 

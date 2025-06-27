@@ -26,7 +26,7 @@ relations:
 
 ## 📖 Definitions
 
-- systemic and socially constructed form of ignorance that sustains white supremacy by distorting, denying, or ignoring racial realities, highlighting how dominant racial groups often remain unaware—intentionally or unintentionally—of the injustices and experiences of marginalized groups, thereby maintaining racial inequality.
+> systemic and socially constructed form of ignorance that sustains white supremacy by distorting, denying, or ignoring racial realities, highlighting how dominant racial groups often remain unaware—intentionally or unintentionally—of the injustices and experiences of marginalized groups, thereby maintaining racial inequality.
 
 ## 💡 Examples
 

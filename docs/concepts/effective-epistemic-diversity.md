@@ -16,20 +16,17 @@ examples: []
 relations:
 - type: type of
   target: epistemic diversity
-- type: produces
-  target: epistemic diversity work
 ---
 
 # effective epistemic diversity
 
 ## 📖 Definitions
 
-- "Effective epistemic diversity describes a community that contains members who hold different background beliefs and makes use of that diversity to generate and evaluate theories, hypotheses and data from the widest possible range of perspectives. In this kind of community, members feel free to develop and offer dissenting views, their dissent is given uptake and they are granted equality of intellectual authority with those who hold more common or more central perspectives." ([Fehr, 2011, p. 147-8])
+> "Effective epistemic diversity describes a community that contains members who hold different background beliefs and makes use of that diversity to generate and evaluate theories, hypotheses and data from the widest possible range of perspectives. In this kind of community, members feel free to develop and offer dissenting views, their dissent is given uptake and they are granted equality of intellectual authority with those who hold more common or more central perspectives." ([Fehr, 2011, p. 147-8])
 
 ## 🔗 Relations
 
 - **type of**: [epistemic diversity](./epistemic-diversity.md)
-- **produces**: [epistemic diversity work](./epistemic-diversity-work.md)
 
 ## 📚 References
 

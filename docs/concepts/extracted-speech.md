@@ -19,7 +19,7 @@ relations:
 
 ## 📖 Definitions
 
-- "epistemic and social coercion may be used to produce testimony that is subordinating" (Pohlhaus 2017: 22)
+> "epistemic and social coercion may be used to produce testimony that is subordinating" (Pohlhaus 2017: 22)
 
 ## 💡 Examples
 

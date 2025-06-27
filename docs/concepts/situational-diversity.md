@@ -14,20 +14,17 @@ examples: []
 relations:
 - type: produces
   target: epistemic diversity
-- type: part of
-  target: diverse practitioner
 ---
 
 # situational diversity
 
 ## 📖 Definitions
 
-- "A community is situationally diverse when its membership consists of individuals with different social and material locations (gender, race, class, sexuality, etc.)." ([Fehr, 2011, p. 146]) "increasing situational diversity can and has led to increases in epistemic diversity, but it is not necessary that it do so" ([Fehr, 2011, p. 147])
+> "A community is situationally diverse when its membership consists of individuals with different social and material locations (gender, race, class, sexuality, etc.)." ([Fehr, 2011, p. 146]) "increasing situational diversity can and has led to increases in epistemic diversity, but it is not necessary that it do so" ([Fehr, 2011, p. 147])
 
 ## 🔗 Relations
 
 - **produces**: [epistemic diversity](./epistemic-diversity.md)
-- **part of**: [diverse practitioner](./diverse-practitioner.md)
 
 ## 📚 References
 

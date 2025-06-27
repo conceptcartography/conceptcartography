@@ -3,7 +3,7 @@ concept: hermeneutical death
 references:
 - 'Medina, José. 2017. "VARIETIES OF HERMENEUTICAL INJUSTICE" in Kidd, I. J., Medina,
   J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge:
-  41-52 https://doi.org/10.4324/9781315212043'
+  41-52 https: doi.org/10.4324/9781315212043'
 definitions:
 - "one's voice is killed.\r\n\"phenomena that radically constrain one’s hermeneutical\
   \ capacities and agency such as the following: the loss (or radical curtailment)\
@@ -21,15 +21,13 @@ examples:
 relations:
 - type: part of
   target: epistemic death
-- type: part of
-  target: epistemic death*
 ---
 
 # hermeneutical death
 
 ## 📖 Definitions
 
-- one's voice is killed.
+> one's voice is killed.
 "phenomena that radically constrain one’s hermeneutical capacities and agency such as the following: the loss (or radical curtailment) of one’s voice, of one’s interpretative capacities, or of one’s status as a participant in meaning-making and meaning-sharing practices" (ibid, 41)
 
 ## 💡 Examples
@@ -39,8 +37,7 @@ relations:
 ## 🔗 Relations
 
 - **part of**: [epistemic death](./epistemic-death.md)
-- **part of**: [epistemic death*](./epistemic-death.md)
 
 ## 📚 References
 
-- Medina, José. 2017. "VARIETIES OF HERMENEUTICAL INJUSTICE" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 41-52 https://doi.org/10.4324/9781315212043
+- Medina, José. 2017. "VARIETIES OF HERMENEUTICAL INJUSTICE" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 41-52 https: doi.org/10.4324/9781315212043

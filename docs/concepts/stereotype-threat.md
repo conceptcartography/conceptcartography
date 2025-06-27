@@ -2,7 +2,7 @@
 concept: stereotype threat
 references:
 - 'Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic
-  Approaches to Diversity’. Synthese 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.'
+  Approaches to Diversity’. Synthese 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.'
 definitions:
 - "\"when one’s performance has the risk\r\nof reinforcing negative stereotypes about\
   \ one’s group and that group membership\r\nis made salient to them\"  [(Fehr and\
@@ -21,7 +21,7 @@ relations:
 
 ## 📖 Definitions
 
-- "when one’s performance has the risk
+> "when one’s performance has the risk
 of reinforcing negative stereotypes about one’s group and that group membership
 is made salient to them"  [(Fehr and Minji, 2022, p.12)]
 
@@ -35,4 +35,4 @@ is made salient to them"  [(Fehr and Minji, 2022, p.12)]
 
 ## 📚 References
 
-- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.
+- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.

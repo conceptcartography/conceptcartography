@@ -20,7 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-- "groups of diverse problem solvers can outperform groups of high-ability problem solvers." (Reijula and Kuorikoski, 2021, p.895)
+> "groups of diverse problem solvers can outperform groups of high-ability problem solvers." (Reijula and Kuorikoski, 2021, p.895)
 
 ## 💡 Examples
 
@@ -32,4 +32,4 @@ relations:
 
 ## 📚 References
 
-- Reijula S, Kuorikoski J. The Diversity-Ability Trade-Off in Scientific Problem Solving. Philosophy of Science. 2021;88(5):894-905. doi:10.1086/714938
+- Reijula S, Kuorikoski J. The Diversity-Ability Trade-Off in Scientific Problem Solving. Philosophy of Science. 2021;88(5):894-905. [doi:10.1086/714938](https://doi.org/10.1086/714938)

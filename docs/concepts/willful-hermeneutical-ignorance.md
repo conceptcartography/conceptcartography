@@ -14,21 +14,18 @@ relations:
   target: hermeneutical injustice
 - type: produces
   target: epistemic oppression
-- type: produced by
-  target: contributory injustice
 ---
 
 # willful hermeneutical ignorance
 
 ## 📖 Definitions
 
-- despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” (Pahlhaus 2012: 716).
+> despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” (Pahlhaus 2012: 716).
 
 ## 🔗 Relations
 
 - **type of**: [hermeneutical injustice](./hermeneutical-injustice.md)
 - **produces**: [epistemic oppression](./epistemic-oppression.md)
-- **produced by**: [contributory injustice](./contributory-injustice.md)
 
 ## 📚 References
 

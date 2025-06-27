@@ -16,7 +16,7 @@ relations:
 
 ## 📖 Definitions
 
-- cross barriers by taking up resistant worlds of sense, resisting dominant relationality, and understanding.
+> cross barriers by taking up resistant worlds of sense, resisting dominant relationality, and understanding.
 
 ## 🔗 Relations
 
