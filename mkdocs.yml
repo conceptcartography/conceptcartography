@@ -35,7 +35,6 @@ plugins:
 extra:
   version:
     provider: mike
-    user.name: natesheehan
   social:
     - icon: fontawesome/brands/mastodon 
       link: https://fosstodon.org/@squidfunk

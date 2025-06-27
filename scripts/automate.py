@@ -85,7 +85,7 @@ def parse_relations(relation_str):
 concepts = {}
 reverse_relations = defaultdict(list)
 
-with open("concepts-final.csv", newline='', encoding='utf-8') as csvfile:
+with open("map-data/concepts-final.csv", newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         concept = row["concept"].strip().lower()
