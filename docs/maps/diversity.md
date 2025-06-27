@@ -1,5 +1,10 @@
-# Diversity Network Map
+# Epistemic Diversity
 
+## Authors
+Rose Trappes, Nathanael Sheehan, Rena Acalay
+
+## Description
+This map was created based primarily on readings from an interdisciplinary, international, online reading group, beginning in mid-2024. We thank everyone who came along and shared their insights and ideas and contributed to a series of enlightening and provocative discussions.
 <style>
 #graph-wrapper {
   max-width: 1000px;
@@ -114,7 +119,7 @@ datalist option {
 </style>
 
 
-
+## Map 
 <div id="graph-legend">
   <strong>Relation types (edge colors):</strong><br>
   <span style="color: blue;">Type of</span>, 
@@ -141,7 +146,6 @@ datalist option {
 
 
 
-This map was created based primarily on readings from an interdisciplinary, international, online reading group, beginning in mid-2024. We thank everyone who came along and shared their insights and ideas and contributed to a series of enlightening and provocative discussions.
 
 <!-- Load the 3d-force-graph library and wait for it -->
 <script>

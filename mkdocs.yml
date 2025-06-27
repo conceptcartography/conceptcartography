@@ -3,10 +3,15 @@ site_url: https://natesheehan.github.io/conceptcartography/
 repo_url: https://github.com/natesheehan/conceptcartography
 edit_uri: edit/main/docs/
 theme:
+  name: material
+  logo: assets/lg.png
+  font:
+    text: Jost  # Regular font
+    code: Roboto Mono # Monospaced font for code
   palette: 
     # Palette toggle for light mode
     - scheme: default
-      primary: blue
+      primary: brown
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
