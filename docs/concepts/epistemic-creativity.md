@@ -30,3 +30,22 @@ relations:
 ## 📚 References
 
 - Kidd, Ian James. 2020. “Creativity in Science and the ‘Anthropological Turn’ in Virtue Theory.” European Journal for Philosophy of Science 11 (1): 15. https: doi.org/10.1007/s13194-020-00334-5.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        

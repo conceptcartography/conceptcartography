@@ -174,7 +174,7 @@ for concept, data in concepts.items():
             for ref in ref_list:
                     # Convert any URL in the reference to a clickable Markdown link
                 def linkify_reference(ref):
-    # Linkify DOI only if not already inside a markdown link
+                    # Linkify DOI only if not already inside a markdown link
                     ref = re.sub(r'\bdoi: *([^\s\)\]]+)', r'[doi:\1](https://doi.org/\1)', ref)
 
                     # Fix raw URLs (not already in markdown)
@@ -187,4 +187,23 @@ for concept, data in concepts.items():
 
 
 
-                f.write(f"- {linkify_reference(ref)}\n")        
+                f.write(f"- {linkify_reference(ref)}\n")      
+                        # Giscus comments
+                f.write('\n---\n\n')
+                f.write("""<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        """)
+  

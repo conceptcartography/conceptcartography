@@ -55,6 +55,79 @@ relations:
 ## 📚 References
 
 - Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick, 133–54. New York: Springer.
-- Gobbo, Federico, and Federica Russo. 2020. “Epistemic Diversity and the Question of Lingua Franca in Science and Philosophy.” Foundations of Science 25 (1): 185–207. https: doi.org/10.1007/s10699-019-09631-6.
-- Leonelli S. Open Science and Epistemic Diversity: Friends or Foes? Philosophy of Science. 2022;89(5):991-1001. [doi:10.1017/psa.2022.45](https://doi.org/10.1017/psa.2022.45)
-- Wylie, Alison. 2006. “Introduction: When Difference Makes a Difference.” Episteme 3 (1–2): 1–7. https: doi.org/10.3366/epi.2006.3.1-2.1.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        - Gobbo, Federico, and Federica Russo. 2020. “Epistemic Diversity and the Question of Lingua Franca in Science and Philosophy.” Foundations of Science 25 (1): 185–207. https: doi.org/10.1007/s10699-019-09631-6.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        - Leonelli S. Open Science and Epistemic Diversity: Friends or Foes? Philosophy of Science. 2022;89(5):991-1001. [doi:10.1017/psa.2022.45](https://doi.org/10.1017/psa.2022.45)
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        - Wylie, Alison. 2006. “Introduction: When Difference Makes a Difference.” Episteme 3 (1–2): 1–7. https: doi.org/10.3366/epi.2006.3.1-2.1.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        

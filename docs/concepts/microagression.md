@@ -39,3 +39,22 @@ relations:
 ## 📚 References
 
 - Sue, Derald Wing, Chrstina M. Capodilupo, and Aisha M.B. Holder. 2008. Racial microaggressions in the life experience of black Americans. Professional Psychology: Research and Practice 39 (3): 329–36.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        

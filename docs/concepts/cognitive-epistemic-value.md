@@ -37,4 +37,41 @@ relations:
 ## 📚 References
 
 - Carrier, Martin. 2013. “Values and Objectivity in Science: Value-Ladenness, Pluralism and the Epistemic Attitude.” Science & Education 22 (10): 2547–68. https: doi.org/10.1007/s11191-012-9481-5.
-- Longino, Helen E. 1996. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In Feminism, Science, and the Philosophy of Science, edited by Lynn Hankinson Nelson and Jack Nelson, 39–58. Dordrecht: Springer Netherlands. https: doi.org/10.1007/978-94-009-1742-2_3.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        - Longino, Helen E. 1996. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In Feminism, Science, and the Philosophy of Science, edited by Lynn Hankinson Nelson and Jack Nelson, 39–58. Dordrecht: Springer Netherlands. https: doi.org/10.1007/978-94-009-1742-2_3.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        

@@ -40,3 +40,22 @@ communication of dispersed cognitive resources, (2) integration in which individ
 ## 📚 References
 
 - Homan AC, van Knippenberg D, Van Kleef GA, De Dreu CK. Bridging faultlines by valuing diversity: diversity beliefs, information elaboration, and performance in diverse work groups. J Appl Psychol. 2007 Sep;92(5):1189-99. [doi:10.1037/0021-9010.92.5.1189.](https://doi.org/10.1037/0021-9010.92.5.1189.) PMID: 17845079.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        

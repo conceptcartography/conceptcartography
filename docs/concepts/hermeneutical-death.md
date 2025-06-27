@@ -42,3 +42,22 @@ relations:
 ## 📚 References
 
 - Medina, José. 2017. "Varieties of Hermeneutical Injustice" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 41-52 https: doi.org/10.4324/9781315212043
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        

@@ -43,3 +43,22 @@ NB: Fricker objects against using white ignorance as an agentially produced form
 ## 📚 References
 
 - Mills, C. W. (2007). White ignorance. In Race and Epistemologies of Ignorance. State University of New York Press: pp. 13-38.
+
+---
+
+<script src="https://giscus.app/client.js"
+                data-repo="natesheehan/conceptcartography"
+                data-repo-id="R_kgDOPB5QiQ"
+                data-category="General"
+                data-category-id="DIC_kwDOPB5Qic4CsAxd"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="catppuccin_mocha"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+        
