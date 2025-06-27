@@ -15,7 +15,7 @@ definitions:
 - 'Carrier: Epistemic values relate to obtaining knowledge or understanding (not truth
   per se), express requirements of significance/pursuit/non-triviality and confirmation/relevance
   of evidence "We are the ones who make a choice of the kind of knowledge we prefer"
-  ([Carrier, 2013, p. 2555])'
+  (Carrier, 2013, p. 2555)'
 examples: []
 relations:
 - type: part of
