@@ -1,13 +1,12 @@
 ---
 concept: agnotology
 references:
-- 'Schiebinger, Londa. 2004. Plants and Empire: Colonial Bioprospecting in the Atlantic
-  World. First Harvard University Press paperback edition. Cambridge, Massachusetts
-  London, England: Harvard University Press.'
+- 'Schiebinger, Londa. _Plants and Empire: Colonial Bioprospecting in the Atlantic
+  World_. Harvard University Press, 2004.'
 definitions:
 - '"a methodological tool that Robert N. Proctor has called “agnotology”—the study
   of culturally-induced ignorances—that serves as a counterweight to more traditional
-  concerns for epistemology.4 Agnotology refocuses questions about “how we know” to
+  concerns for epistemology. Agnotology refocuses questions about “how we know” to
   include questions about what we do not know, and why not. Ignorance is often not
   merely the absence of knowledge but an outcome of cultural and political struggle.
   Nature, after all, is infinitely rich and variable. What we know or do not know
