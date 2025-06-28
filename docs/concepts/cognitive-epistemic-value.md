@@ -1,8 +1,8 @@
 ---
 concept: cognitive/epistemic value
 references:
-- 'Carrier, Martin. 2013. “Values and Objectivity in Science: Value-Ladenness, Pluralism
-  and the Epistemic Attitude.” Science & Education 22 (10): 2547–68. https: doi.org/10.1007/s11191-012-9481-5.'
+- 'Carrier, Martin. “Values and Objectivity in Science: Value-Ladenness, Pluralism
+  and the Epistemic Attitude.” _Science & Education_ 22, no. 10 (2013): 2547–68. https: doi.org/10.1007/s11191-012-9481-5.'
 - 'Longino, Helen E. 1996. “Cognitive and Non-Cognitive Values in Science: Rethinking
   the Dichotomy.” In Feminism, Science, and the Philosophy of Science, edited by Lynn
   Hankinson Nelson and Jack Nelson, 39–58. Dordrecht: Springer Netherlands. https:
