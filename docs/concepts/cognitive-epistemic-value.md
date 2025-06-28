@@ -2,8 +2,8 @@
 concept: cognitive/epistemic value
 references:
 - 'Carrier, Martin. “Values and Objectivity in Science: Value-Ladenness, Pluralism and the Epistemic Attitude.” _Science & Education_ 22, no. 10 (2013): 2547–68. https: doi.org/10.1007/s11191-012-9481-5.'
-- 'Longino, Helen E. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In Feminism, Science, and the Philosophy of Science, edited by Lynn
-  Hankinson Nelson and Jack Nelson. Springer Netherlands, 1996. https:doi.org/10.1007/978-94-009-1742-2_3.'
+- 'Longino, Helen E. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In _Feminism, Science, and the Philosophy of Science_, edited by Lynn
+  Hankinson Nelson and Jack Nelson. Springer, 1996. https:doi.org/10.1007/978-94-009-1742-2_3.'
 definitions:
 - 'Longino: Cognitive/epistemic values/virtues are they are properties that theories
   can have or can have to a greater or lesser degree, and t are desiderata. Typically
@@ -34,8 +34,8 @@ relations:
 ## 📚 References
 
 - Carrier, Martin. “Values and Objectivity in Science: Value-Ladenness, Pluralism and the Epistemic Attitude.” _Science & Education_ 22, no. 10 (2013): 2547–68. https: doi.org/10.1007/s11191-012-9481-5.
-- Longino, Helen E. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In Feminism, Science, and the Philosophy of Science, edited by Lynn
-  Hankinson Nelson and Jack Nelson. Springer Netherlands, 1996. https:doi.org/10.1007/978-94-009-1742-2_3.
+- Longino, Helen E. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In _Feminism, Science, and the Philosophy of Science_, edited by Lynn
+  Hankinson Nelson and Jack Nelson. Springer, 1996. https:doi.org/10.1007/978-94-009-1742-2_3.
 
 ---
 
