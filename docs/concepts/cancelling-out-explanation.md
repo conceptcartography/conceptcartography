@@ -1,7 +1,7 @@
 ---
 concept: cancelling out explanation
 references:
-- 'McBrayer, J.P., "The Epistemic Benefits of Ideological Diversity," _Acta Anal_ 39 (2024): 611–626, https: doi.org/10.1007/s12136-023-00582-z.'
+- 'McBrayer, J.P., "The Epistemic Benefits of Ideological Diversity," _Acta Anal_ 39 (2024): 611–626. https: doi.org/10.1007/s12136-023-00582-z.'
 definitions:
 - '"bias and error are more likely to be cancelled out in a group setting" (McBrayer
   2024, 615).'
@@ -33,7 +33,7 @@ relations:
 
 ## 📚 References
 
-- McBrayer, J.P., "The Epistemic Benefits of Ideological Diversity," _Acta Anal_ 39 (2024): 611–626, https: doi.org/10.1007/s12136-023-00582-z.
+- McBrayer, J.P., "The Epistemic Benefits of Ideological Diversity," _Acta Anal_ 39 (2024): 611–626. https: doi.org/10.1007/s12136-023-00582-z.
 
 ---
 
