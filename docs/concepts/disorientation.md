@@ -1,12 +1,12 @@
 ---
 concept: disorientation
 references:
-- 'Ahmed, Sara. 2017. Living a Feminist Life. New York: Duke University Press. https:
+- 'Ahmed, Sara. _Living a Feminist Life._ Duke University Press, 2017. https:
   doi.org/10.1215/9780822373377.'
 definitions:
 - '"Disorientation involves failed orientations: bodies inhabit spaces that do not
   extend their shape, or use objects that do not extend their reach. At this moment
-  of failure, a here becomes strange." (Ahmed, 2017, p. 133)'
+  of failure, a here becomes strange." (Ahmed 2017, 133)'
 examples: []
 relations: []
 ---
@@ -15,12 +15,11 @@ relations: []
 
 ## 📖 Definitions
 
-> "Disorientation involves failed orientations: bodies inhabit spaces that do not extend their shape, or use objects that do not extend their reach. At this moment of failure, a here becomes strange." (Ahmed, 2017, p. 133)
+> "Disorientation involves failed orientations: bodies inhabit spaces that do not extend their shape, or use objects that do not extend their reach. At this moment of failure, a here becomes strange." (Ahmed 2017, 133)
 
 ## 📚 References
 
-- Ahmed, Sara. 2017. Living a Feminist Life. New York: Duke University Press. https: doi.org/10.1215/9780822373377.
-
+- Ahmed, Sara. _Living a Feminist Life._ Duke University Press, 2017. https:doi.org/10.1215/9780822373377.
 ---
 
 <script src="https://giscus.app/client.js"
