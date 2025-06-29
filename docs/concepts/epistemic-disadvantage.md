@@ -15,6 +15,8 @@ examples:
 relations:
 - type: distinct from
   target: epistemic injustice
+- type: coextensive with
+  target: epistemic injustice
 ---
 
 # epistemic disadvantage
