@@ -2,8 +2,7 @@
 concept: creative agency
 references:
 - 'Anscomb, Claire. “Visibility, Creativity, and Collective Working Practices
-  in Art and Science.” European Journal for Philosophy of Science 11, no. 5 (2020). https:
-  doi.org/10.1007/s13194-020-00310-z.'
+  in Art and Science.” European Journal for Philosophy of Science 11, no. 5 (2020). https:doi.org/10.1007/s13194-020-00310-z.'
 definitions:
 - '"an agent has exercised creative agency when they have autonomously determined
   the work’s salient features and how these will be realized." (Anscomb 2020, 10)
@@ -38,6 +37,7 @@ relations:
 ## 📚 References
 
 - Anscomb, Claire. “Visibility, Creativity, and Collective Working Practices in Art and Science.” European Journal for Philosophy of Science 11, no. 5 (2020). https:doi.org/10.1007/s13194-020-00310-z.
+- Gaut, B. N. "The Value of Creativity." In  Creativity and philosophy, edited by B. N. Gau, & M. Kieran. Routledge, 2018.
 
 ---
 
