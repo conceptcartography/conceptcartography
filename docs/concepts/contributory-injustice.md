@@ -42,7 +42,7 @@ relations:
 
 ## 💡 Examples
 
-- "For example, rather than shift one’s conception of workers and the workplace to more adequately attend to workers who are also child-bearers, one might seek to understand the concerns of this group of workers by further developing already existing systems such as understanding maternity leave as a sort of disability leave. But these remedies mistake the problem. Instead, a whole new approach is required, one in which axiomatic features of the previous collective epistemic resources may need to be abandone" (Pohlhaus 2012, 20)
+- "For example, rather than shift one’s conception of workers and the workplace to more adequately attend to workers who are also child-bearers, one might seek to understand the concerns of this group of workers by further developing already existing systems such as understanding maternity leave as a sort of disability leave. But these remedies mistake the problem. Instead, a whole new approach is required, one in which axiomatic features of the previous collective epistemic resources may need to be abandoned" (Pohlhaus 2012, 20).
 
 ## 🔗 Relations
 
@@ -53,7 +53,7 @@ relations:
 ## 📚 References
 
 - Dotson, Kristie. "A Cautionary Tale: On Limiting Epistemic Oppression." Frontiers: A Journal of Women Studies 33, no. 1 (2012): 24-47. https://dx.doi.org/10.1353/fro.2012.a472779.
-- Pohlhaus, Gaile. “Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance.” Hypatia 27, no. 4 (2012): 715–35. https://doi.org/10.1111/j.1527-2001.2011.01222.x.
+- Pohlhaus, Gaile Jr. "Varieties of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https: doi.org/10.4324/9781315212043.
 
 ---
 
