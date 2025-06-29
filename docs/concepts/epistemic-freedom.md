@@ -1,7 +1,7 @@
 ---
 concept: epistemic freedom
 references:
-- 'Ndlovu-Gatsheni, Sabelo. Epistemic freedom in Africa: Deprovincialization and decolonization.
+- 'Ndlovu-Gatsheni, Sabelo. _Epistemic freedom in Africa: Deprovincialization and decolonization_.
   Routledge, 2018.'
 definitions:
 - "\" Epistemic freedom is about democratizing ‘knowledge’ from its\r\ncurrent rendition\
@@ -9,7 +9,7 @@ definitions:
   \ overrepresentation of Eurocentric thought in knowledge, social\r\ntheory and education.\
   \ Epistemic freedom is foundational in the broader decolon -\r\nization struggle\
   \ because it enables the emergence of the necessary critical decolonial\r\nconsciousness\"\
-  \  (Ndlovu-Gatsheni, 2018, p.4)"
+  \  (Ndlovu-Gatsheni 2018, 4)."
 examples: []
 relations:
 - type: counteracts
@@ -20,12 +20,7 @@ relations:
 
 ## 📖 Definitions
 
-> " Epistemic freedom is about democratizing ‘knowledge’ from its
-current rendition in the singular into its plural known as ‘knowledges’. It is also
-ranged against overrepresentation of Eurocentric thought in knowledge, social
-theory and education. Epistemic freedom is foundational in the broader decolon -
-ization struggle because it enables the emergence of the necessary critical decolonial
-consciousness"  (Ndlovu-Gatsheni, 2018, p.4)
+> " Epistemic freedom is about democratizing ‘knowledge’ from its current rendition in the singular into its plural known as ‘knowledges’. It is also ranged against overrepresentation of Eurocentric thought in knowledge, social theory and education. Epistemic freedom is foundational in the broader decolonization struggle because it enables the emergence of the necessary critical decolonial consciousness"  (Ndlovu-Gatsheni 2018, 4).
 
 ## 🔗 Relations
 
@@ -33,7 +28,7 @@ consciousness"  (Ndlovu-Gatsheni, 2018, p.4)
 
 ## 📚 References
 
-- Ndlovu-Gatsheni, Sabelo. Epistemic freedom in Africa: Deprovincialization and decolonization. Routledge, 2018.
+- Ndlovu-Gatsheni, Sabelo. _Epistemic freedom in Africa: Deprovincialization and decolonization._ Routledge, 2018.
 
 ---
 
