@@ -1,8 +1,7 @@
 ---
 concept: discriminatory epistemic injustice
 references:
-- 'Miranda Fricker. "Evolving Conepts of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J.  Kidd,
-  L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https: doi.org/10.4324/9781315212043'
+- 'Fricker, Miranda. "Evolving Concepts of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https: doi.org/10.4324/97813152120433.'
 definitions:
 - fundatmentally a form of (direct or indirect) discrimination. e.g., the cause of
   testimonial injustice is a prejudice. Meant to leave room for a kind of epistemic
@@ -27,8 +26,9 @@ relations:
 
 ## 📚 References
 
-- Miranda Fricker. "Evolving Conepts of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J.  Kidd,
-  L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https: doi.org/10.4324/9781315212043
+- Fricker, Miranda. "Evolving Concepts of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https: doi.org/10.4324/9781315212043.
+- Coady, David. "Two Concepts of Epistemic Injustice." Episteme: A Journal of Social Epistemology 7.2 (2010): 101–111.
+- Coady, David. "Epistemic Injustice as Distributive Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I.J. Kidd, J. Medina, and G. Pohlhaus, Jr. Routledge, 2017.
 
 ---
 
