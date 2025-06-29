@@ -1,8 +1,7 @@
 ---
 concept: epistemic blinkering
 references:
-- 'Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science.
-  Oxford, New York: Oxford University Press.'
+- 'Massimi, Michela. _Perspectival Realism._ Oxford Studies in Philosophy of Science.Oxford University Press, 2022.'
 definitions:
 - Narrators' choices about what to foreground when recounting history of science,
   benign form of epistemic severing
@@ -24,7 +23,7 @@ relations:
 
 ## 📚 References
 
-- Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science. Oxford, New York: Oxford University Press.
+- Massimi, Michela. Perspectival Realism. Oxford Studies in Philosophy of Science.Oxford University Press, 2022.
 
 ---
 
