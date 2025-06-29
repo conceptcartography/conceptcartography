@@ -1,13 +1,12 @@
 ---
 concept: epistemic creativity
 references:
-- 'Kidd, Ian James. 2020. “Creativity in Science and the ‘Anthropological Turn’ in
-  Virtue Theory.” European Journal for Philosophy of Science 11 (1): 15. https: doi.org/10.1007/s13194-020-00334-5.'
+- 'Kidd, Ian James. "Creativity in science and the ‘anthropological turn’ in virtue theory." Euro Jnl Phil Sci 11, 15 (2021). https://doi.org/10.1007/s13194-020-00334-5
 definitions:
-- '"the sciences offer distinctive forms of epistemic creativity, too: our creative
+- 'Quoting Marx: "the sciences offer distinctive forms of epistemic creativity, too: our creative
   transformation of the world requires us to self-consciously take up our potential
   as the creature who ‘creates and posits objects’, imposing conceptual and theoretical
-  order onto the world." (Kidd, 2020, p.12), quoting Marx'
+  order onto the world" (Kidd 2020, 12).'
 examples: []
 relations:
 - type: produces
@@ -20,7 +19,7 @@ relations:
 
 ## 📖 Definitions
 
-> "the sciences offer distinctive forms of epistemic creativity, too: our creative transformation of the world requires us to self-consciously take up our potential as the creature who ‘creates and posits objects’, imposing conceptual and theoretical order onto the world." (Kidd, 2020, p.12), quoting Marx
+> Quoting Marx: "the sciences offer distinctive forms of epistemic creativity, too: our creative transformation of the world requires us to self-consciously take up our potential as the creature who ‘creates and posits objects’, imposing conceptual and theoretical order onto the world." (Kidd 2020, 12).
 
 ## 🔗 Relations
 
@@ -29,7 +28,7 @@ relations:
 
 ## 📚 References
 
-- Kidd, Ian James. 2020. “Creativity in Science and the ‘Anthropological Turn’ in Virtue Theory.” European Journal for Philosophy of Science 11 (1): 15. https: doi.org/10.1007/s13194-020-00334-5.
+- Kidd, Ian James. "Creativity in science and the ‘anthropological turn’ in virtue theory." Euro Jnl Phil Sci 11, 15 (2021). https://doi.org/10.1007/s13194-020-00334-5
 
 ---
 
