@@ -3,8 +3,7 @@ concept: cancelling out explanation
 references:
 - 'McBrayer, J.P. "The Epistemic Benefits of Ideological Diversity." Acta Anal 39 (2024): 611–626. https: doi.org/10.1007/s12136-023-00582-z.'
 definitions:
-- '"bias and error are more likely to be cancelled out in a group setting" (McBrayer
-  2024, 615).'
+- '"bias and error are more likely to be cancelled out in a group setting" (McBrayer 2024, 615).'
 examples:
 - description: '"Every individual has her own bias. You are more likely to overestimate
     distance. I’m more likely to underestimate it. But if we average our guesses together,
