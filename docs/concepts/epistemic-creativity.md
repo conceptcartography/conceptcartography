@@ -1,7 +1,7 @@
 ---
 concept: epistemic creativity
 references:
-- 'Kidd, Ian James. "Creativity in science and the ‘anthropological turn’ in virtue theory." Euro Jnl Phil Sci 11, no. 15 (2021). https://doi.org/10.1007/s13194-020-00334-5
+- 'Kidd, Ian James. "Creativity in science and the ‘anthropological turn’ in virtue theory." Euro Jnl Phil Sci 11, no. 15 (2021). https://doi.org/10.1007/s13194-020-00334-5.'
 definitions:
 - 'Quoting Marx: "the sciences offer distinctive forms of epistemic creativity, too: our creative
   transformation of the world requires us to self-consciously take up our potential
