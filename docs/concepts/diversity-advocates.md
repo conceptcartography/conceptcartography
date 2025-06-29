@@ -1,7 +1,7 @@
 ---
 concept: diversity advocates
 references:
-- 'Dunbar-Hester, Christina. Hacking Diversity: The Politics of Inclusion in Open Technology Cultures. Princeton University Press, 2020. https://doi.org/10.2307/j.ctvhrd181.'
+- 'Dunbar-Hester, Christina. _Hacking Diversity: The Politics of Inclusion in Open Technology Cultures_. Princeton University Press, 2020. https://doi.org/10.2307/j.ctvhrd181.'
 definitions:
 - '"diversity advocates in open-technology projects critique mainstream opentechnology
   communities through acts of production"'
@@ -31,7 +31,7 @@ and some degree of exclusion by, a wider, dominant public" (Fraser 1990)
 
 ## 📚 References
 
-- Dunbar-Hester, Christina. Hacking Diversity: The Politics of Inclusion in Open Technology Cultures. Princeton University Press, 2020. https://doi.org/10.2307/j.ctvhrd181.
+- Dunbar-Hester, Christina. _Hacking Diversity: The Politics of Inclusion in Open Technology Cultures._ Princeton University Press, 2020. https://doi.org/10.2307/j.ctvhrd181.
 
 ---
 
