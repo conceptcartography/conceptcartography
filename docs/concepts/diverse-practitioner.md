@@ -1,7 +1,7 @@
 ---
 concept: diverse practitioner
 references:
-- 'Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). https:doi.org/10.1007/s11229-022-03787-8.'
+- 'Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). [ https:doi.org/10.1007/s11229-022-03787-8](https://doi.org/10.1007/s11229-022-03787-8).'
 definitions:
 - '"a member of an epistemic community who is currently underrepresented in terms
   of their social and material location or in terms of their projects and perspectives"  (Fehr
@@ -32,7 +32,7 @@ relations:
 
 ## 📚 References
 
-- Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). https:doi.org/10.1007/s11229-022-03787-8.
+- Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). [https:doi.org/10.1007/s11229-022-03787-8.](https://doi.org/10.1007/s11229-022-03787-8)
 
 ---
 
