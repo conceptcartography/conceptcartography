@@ -1,15 +1,14 @@
 ---
 concept: diversity-beats-ability (dab)
 references:
-- Reijula S, Kuorikoski J. The Diversity-Ability Trade-Off in Scientific Problem Solving.
-  Philosophy of Science. 2021;88(5):894-905. doi:10.1086/714938
+- Reijula, Samuli, and Jaakko Kuorikoski. “The Diversity-Ability Trade-Off in Scientific Problem Solving.” Philosophy of Science 88, no. 5 (2021): 894–905. https://doi.org/10.1086/714938.
 definitions:
 - '"groups of diverse problem solvers can outperform groups of high-ability problem
-  solvers." (Reijula and Kuorikoski, 2021, p.895)'
+  solvers" (Reijula and Kuorikoski 2021, 895).'
 examples:
 - description: '"in assembling problem-solving teams, functional group diversity should
-    sometimes be prioritized over selecting the most able individual members"(Reijula
-    and Kuorikoski, 2021, p.895)'
+    sometimes be prioritized over selecting the most able individual members" (Reijula
+    and Kuorikoski 2021, 895).'
 relations:
 - type: depends on
   target: epistemic diversity
@@ -19,11 +18,11 @@ relations:
 
 ## 📖 Definitions
 
-> "groups of diverse problem solvers can outperform groups of high-ability problem solvers." (Reijula and Kuorikoski, 2021, p.895)
+> "groups of diverse problem solvers can outperform groups of high-ability problem solvers" (Reijula and Kuorikoski 2021, 895).
 
 ## 💡 Examples
 
-- "in assembling problem-solving teams, functional group diversity should sometimes be prioritized over selecting the most able individual members"(Reijula and Kuorikoski, 2021, p.895)
+- "in assembling problem-solving teams, functional group diversity should sometimes be prioritized over selecting the most able individual members" (Reijula and Kuorikoski 2021, 895).
 
 ## 🔗 Relations
 
@@ -31,7 +30,7 @@ relations:
 
 ## 📚 References
 
-- Reijula S, Kuorikoski J. The Diversity-Ability Trade-Off in Scientific Problem Solving. Philosophy of Science. 2021;88(5):894-905. [doi:10.1086/714938](https://doi.org/10.1086/714938)
+- Reijula, Samuli, and Jaakko Kuorikoski. “The Diversity-Ability Trade-Off in Scientific Problem Solving.” Philosophy of Science 88, no. 5 (2021): 894–905. https://doi.org/10.1086/714938.
 
 ---
 
