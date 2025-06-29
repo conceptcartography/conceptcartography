@@ -1,11 +1,9 @@
 ---
 concept: distributive epistemic injustice
 references:
-- Coady, D. (2010). Two Concepts of Epistemic Injustice. Episteme, 7(2), 101–113.
-  doi:10.3366/epi.2010.0001
+- 'Coady, David. “Two Concepts of Epistemic Injustice.” Episteme 7, no. 2 (2010): 101–13. https://doi.org/10.3366/epi.2010.0001.'
 definitions:
-- '"injustice in the distribution of the epistemic good of knowledge" (Coady, 2010,
-  p.112)'
+- '"injustice in the distribution of the epistemic good of knowledge" (Coady 2010, 112)'
 examples: []
 relations:
 - type: type of
@@ -16,7 +14,7 @@ relations:
 
 ## 📖 Definitions
 
-> "injustice in the distribution of the epistemic good of knowledge" (Coady, 2010, p.112)
+> "injustice in the distribution of the epistemic good of knowledge" (Coady 2010, 112)
 
 ## 🔗 Relations
 
@@ -24,7 +22,7 @@ relations:
 
 ## 📚 References
 
-- Coady, D. (2010). Two Concepts of Epistemic Injustice. Episteme, 7(2), 101–113. [doi:10.3366/epi.2010.0001](https://doi.org/10.3366/epi.2010.0001)
+- Coady, David. “Two Concepts of Epistemic Injustice.” Episteme 7, no. 2 (2010): 101–13. https://doi.org/10.3366/epi.2010.0001.
 
 ---
 
