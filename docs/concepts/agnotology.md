@@ -2,7 +2,7 @@
 concept: agnotology
 references:
 - 'Schiebinger, Londa. _Plants and Empire: Colonial Bioprospecting in the Atlantic
-  World_. Harvard University Press, 2004.'
+  World_. Harvard University Press, 2004. https://hdl.handle.net/2027/heb06217.0001.001.'
 definitions:
 - '"a methodological tool that Robert N. Proctor has called “agnotology”—the study
   of culturally-induced ignorances—that serves as a counterweight to more traditional
@@ -37,7 +37,7 @@ relations:
 
 ## 📚 References
 
-- Schiebinger, Londa. _Plants and Empire: Colonial Bioprospecting in the Atlantic World_. Harvard University Press, 2004. 
+- Schiebinger, Londa. _Plants and Empire: Colonial Bioprospecting in the Atlantic World_. Harvard University Press, 2004. https://hdl.handle.net/2027/heb06217.0001.001
 ---
 
 <script src="https://giscus.app/client.js"
