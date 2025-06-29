@@ -20,11 +20,11 @@ relations:
 
 ## 📖 Definitions
 
-> "a member of an epistemic community who is currently underrepresented in terms of their social and material location or in terms of their projects and perspectives"  (Fehr and Minji 2022, 4)
+> "a member of an epistemic community who is currently underrepresented in terms of their social and material location or in terms of their projects and perspectives"  (Fehr and Minji 2022, 4).
 
 ## 💡 Examples
 
-- "diverse practitioners tends to include people with lower socio-economic status (SES), disabled people, women, people of color, people with fewer markers of a prestigious education, and members of other minority or marginalized groups."  (Fehr and Minji 2022, 4).
+- "diverse practitioners tends to include people with lower socio-economic status (SES), disabled people, women, people of color, people with fewer markers of a prestigious education, and members of other minority or marginalized groups"  (Fehr and Minji 2022, 4).
 
 ## 🔗 Relations
 
