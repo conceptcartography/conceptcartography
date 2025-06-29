@@ -18,7 +18,7 @@ relations: []
 
 ## 📚 References
 
-- Ahmed, Sara. _Living a Feminist Life._ Duke University Press, 2017. https:doi.org/10.1215/9780822373377.
+- 'Ahmed, Sara. _Living a Feminist Life._ Duke University Press, 2017. https:doi.org/10.1215/9780822373377.'
 ---
 
 <script src="https://giscus.app/client.js"
