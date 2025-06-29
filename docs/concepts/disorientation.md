@@ -1,8 +1,7 @@
 ---
 concept: disorientation
 references:
-- 'Ahmed, Sara. _Living a Feminist Life._ Duke University Press, 2017. https:
-  doi.org/10.1215/9780822373377.'
+- 'Ahmed, Sara. _Living a Feminist Life._ Duke University Press, 2017. https://doi.org/10.1215/9780822373377.
 definitions:
 - '"Disorientation involves failed orientations: bodies inhabit spaces that do not
   extend their shape, or use objects that do not extend their reach. At this moment
