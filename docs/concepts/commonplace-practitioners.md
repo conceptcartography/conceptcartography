@@ -1,7 +1,7 @@
 ---
 concept: commonplace practitioners
 references:
-- 'Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). https: doi.org/10.1007/s11229-022-03787-8.'
+- 'Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). https://doi.org/10.1007/s11229-022-03787-8'
 definitions:
 - '"epistemic community members who are overrepresented in the community" (Fehr and
   Minji 2022, 4).'
@@ -29,7 +29,7 @@ relations:
 
 ## 📚 References
 
-- 'Fehr, Carla, and Janet Minji Jones. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 456 (2022). https: doi.org/10.1007/s11229-022-03787-8.
+- 'Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). https://doi.org/10.1007/s11229-022-03787-8.
 
 ---
 
