@@ -1,21 +1,3 @@
----
-concept: diversity development work
-references:
-- 'Fehr, Carla. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer, 2011. DOI:10.1007/978-1-4020-6835-5.'
-definitions:
-- '"Communities and members of communities who cultivate those with dissenting perspectives
-  by taking steps to train, hire, or retain those with underrepresented theoretical
-  perspectives, social locations, or to reward them for their epistemic diversity
-  work, or to nurture cultures that are conducive to the development of dissenting
-  views are performing diversity development work" (Fehr 2011, 145).'
-examples: []
-relations:
-- type: counteracts
-  target: diversity free riding
-- type: produces
-  target: epistemic diversity work
----
-
 # diversity development work
 
 ## 📖 Definitions

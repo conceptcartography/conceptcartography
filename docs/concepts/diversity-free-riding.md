@@ -1,19 +1,3 @@
----
-concept: diversity free riding
-references:
-- 'Fehr, Carla. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer, 2011. DOI:10.1007/978-1-4020-6835-5.'
-definitions:
-- '"A diversity free rider is either an individual or community who makes use of existing
-  diversity without increasing the diversity of any formal community or without increasing
-  the total representation of diverse voices" (Fehr 2011, 141).'
-examples: []
-relations:
-- type: type of
-  target: epistemic exploitation
-- type: depends on
-  target: epistemic diversity work
----
-
 # diversity free riding
 
 ## 📖 Definitions

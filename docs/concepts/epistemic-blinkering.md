@@ -1,16 +1,3 @@
----
-concept: epistemic blinkering
-references:
-- 'Massimi, Michela. _Perspectival Realism._ Oxford Studies in Philosophy of Science.Oxford University Press, 2022.'
-definitions:
-- Narrators' choices about what to foreground when recounting history of science,
-  benign form of epistemic severing
-examples: []
-relations:
-- type: distinct from
-  target: epistemic severing
----
-
 # epistemic blinkering
 
 ## 📖 Definitions

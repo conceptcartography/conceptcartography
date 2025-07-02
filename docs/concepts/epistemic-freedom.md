@@ -1,21 +1,3 @@
----
-concept: epistemic freedom
-references:
-- 'Ndlovu-Gatsheni, Sabelo. _Epistemic freedom in Africa: Deprovincialization and decolonization_.
-  Routledge, 2018.'
-definitions:
-- "\" Epistemic freedom is about democratizing ‘knowledge’ from its\r\ncurrent rendition\
-  \ in the singular into its plural known as ‘knowledges’. It is also\r\nranged against\
-  \ overrepresentation of Eurocentric thought in knowledge, social\r\ntheory and education.\
-  \ Epistemic freedom is foundational in the broader decolon -\r\nization struggle\
-  \ because it enables the emergence of the necessary critical decolonial\r\nconsciousness\"\
-  \  (Ndlovu-Gatsheni 2018, 4)."
-examples: []
-relations:
-- type: counteracts
-  target: epistemic injustice
----
-
 # epistemic freedom
 
 ## 📖 Definitions

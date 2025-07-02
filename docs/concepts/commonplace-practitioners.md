@@ -1,18 +1,3 @@
----
-concept: commonplace practitioners
-references:
-- 'Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). https://doi.org/10.1007/s11229-022-03787-8'
-definitions:
-- '"epistemic community members who are overrepresented in the community" (Fehr and
-  Minji 2022, 4).'
-examples:
-- description: '"tends to include many white people, people with higher SES, straight cis men, and folks with a prestigious educational pedigree."  (Fehr and Minji
-    2022, 4).'
-relations:
-- type: distinct from
-  target: diverse practitioner
----
-
 # commonplace practitioners
 
 ## 📖 Definitions
