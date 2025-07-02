@@ -6,9 +6,7 @@
 
 ## 💡 Examples
 
-- "IE can be characterized as consisting of the following three steps: (1)
-
-communication of dispersed cognitive resources, (2) integration in which individual group members generate results by conjoining communications with the cognitive resources at their disposal, and (3) iteration of the first two steps given new resulting dispersed cognitive resources, such as inferences drawn by individuals from newly shared information." (Steel et al., 2021, p.1293)
+- "IE can be characterized as consisting of the following three steps: (1) communication of dispersed cognitive resources, (2) integration in which individual group members generate results by conjoining communications with the cognitive resources at their disposal, and (3) iteration of the first two steps given new resulting dispersed cognitive resources, such as inferences drawn by individuals from newly shared information." (Steel et al., 2021, p.1293)
 
 ## 🔗 Relations
 
