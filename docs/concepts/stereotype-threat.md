@@ -2,11 +2,7 @@
 
 ## 📖 Definitions
 
-> "when one’s performance has the risk
-
-of reinforcing negative stereotypes about one’s group and that group membership
-
-is made salient to them"  (Fehr and Minji, 2022, p.12)
+> "when one’s performance has the risk of reinforcing negative stereotypes about one’s group and that group membership is made salient to them"  (Fehr and Minji, 2022, p.12)
 
 ## 💡 Examples
 
