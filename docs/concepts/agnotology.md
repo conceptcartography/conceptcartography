@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Schiebinger, Londa. _Plants and Empire: Colonial Bioprospecting in the Atlantic World_. Harvard University Press, 2004. https://hdl.handle.net/2027/heb06217.0001.001
+- Schiebinger, Londa. 2004. _Plants and Empire: Colonial Bioprospecting in the Atlantic World_. Cambridge, Mass.: Harvard University Press. https://hdl.handle.net/2027/heb06217.0001.001
 ---
 
 <script src="https://giscus.app/client.js"
