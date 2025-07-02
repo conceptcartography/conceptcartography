@@ -15,7 +15,8 @@
 
 ## 📚 References
 
-- McBrayer, J.P. "The Epistemic Benefits of Ideological Diversity." Acta Anal 39 (2024): 611–626. https: doi.org/10.1007/s12136-023-00582-z.
+- McBrayer, Justin P. 2024. “The Epistemic Benefits of Ideological Diversity.” _Acta Analytica_ 39:611–26. https://doi.org/10.1007/s12136-023-00582-z.
+
 
 ---
 
