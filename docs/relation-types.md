@@ -1,3 +1,8 @@
+The map doesn’t just show concepts, it also traces the relationships between them. These relation types help to clarify how ideas have been connected through our conversations. They are not meant to be authoritative or final, but reflect how we, as a group of researchers, have made sense of the terrain together.
+
+Like any chart, this map reflects choices we made, such as which relation types to include and when to merge similar ones for clarity. Each relation is given a definition, a brief example, and whether it is bi-directional (i.e., whether the relation holds in both directions). Please read each relation type’s definition carefully, as we have listed synonyms. For example, _produces_ also includes _give rise to_ and _causes_; _part of_ includes _constitutes_ and _subset of_; and _distinct from_ includes _separate in function_ or _meaning_.
+
+This space is open-ended: relation types can be added or revised as the map evolves. We welcome your suggestions for additional relation types as the conversation continues.
 
 | Relations | Definitions | Examples | Bi-directional |
 | --------- | ----------- | -------- | -------------- |
