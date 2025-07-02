@@ -1,4 +1,4 @@
-# Team
+# About us
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-bottom: 2rem;">
   <img src="img/mod1.jpg" alt="Moderator 1" width="150" />
@@ -9,7 +9,7 @@
 # Contributors
 
 <div id="contributors">
-  <p>Loading contributor list from GitHub...</p>
+
 </div>
 
 <script>

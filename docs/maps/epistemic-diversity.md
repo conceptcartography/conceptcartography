@@ -1,7 +1,7 @@
 # Epistemic diversity
 
 ## ✍️ Authors
-Rose Trappes, Nathanael Sheehan, Rena Alclay
+Rose Trappes, Nathanael Sheehan, Rena Alcalay 
 
 ## ❔ Description
 Who and what is included or excluded in knowledge practice? How does that matter both for what and how we know, and for recognition, equity, and justice? These are topics at the forefront of fields like feminist epistemology, critical race studies, social epistemology, political epistemology, indigenous studies, science and technology studies, and philosophy of science.
