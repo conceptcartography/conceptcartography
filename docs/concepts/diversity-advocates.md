@@ -17,13 +17,11 @@ relations:
 
 ## 📖 Definitions
 
-> "diversity advocates in open-technology projects critique mainstream opentechnology communities through acts of production"
+> "'How do we kick people out?' must be understood as a reaction against norms of openness or structurelessness that have set terms for association with which diversity advocates disagree. Many of diversity advocates’ undertakings seek to challenge and recalibrate the norms of the wider culture of voluntaristic technical production. Others provide alternative spaces for hacking and making outside the mainstream. Both strategies are important within diversity advocacy. And both contrast with modes of self-organization that would allow extant terms of association to proceed organically." (Dunbar-Hester 2019, 52)
 
 ## 💡 Examples
 
-- "is a discourse community marked by its subordinate status to,
-
-and some degree of exclusion by, a wider, dominant public" (Fraser 1990).
+- Activists who found and participate in feminist and queer hackerspaces.
 
 ## 🔗 Relations
 
