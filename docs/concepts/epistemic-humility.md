@@ -1,6 +1,6 @@
 # epistemic humility
 
-## 📖 Definitions
+## 📖 Definitions.
 
 > (cited in Alcoff 2022)
 
