@@ -2,9 +2,7 @@
 
 ## 📖 Definitions
 
-> prejudices that arise in virtue of an agent’s membership in a socially powerless
-
-group (Fricker, 2007, p. 155).
+> prejudices that arise in virtue of an agent’s membership in a socially powerless group (Fricker, 2007, p. 155).
 
 ## 🔗 Relations
 
