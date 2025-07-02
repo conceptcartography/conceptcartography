@@ -16,8 +16,8 @@
 ## 📚 References
 
 - Wanderer, Jeremy. 2017. "Varieties of Testimonial Injustice" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 27-40 https: doi.org/10.4324/9781315212043;
-
-Anderson, Elizabeth. 2012. "Epistemic Justice as a Virtue of Social Institutions", Social Epistemology 26.2: 163–173.
+  
+- Anderson, Elizabeth. 2012. "Epistemic Justice as a Virtue of Social Institutions", Social Epistemology 26.2: 163–173.
 
 ---
 
