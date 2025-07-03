@@ -11,7 +11,7 @@
 
 ## 📚 References
 
-- Kitcher, Philip. 2001. Science, Truth, and Democracy. Oxford Studies in Philosophy of Science. Oxford ; New York: Oxford University Press.
+- Kitcher, Philip. 2001. _Science, Truth, and Democracy_. Oxford University Press. https://doi.org/10.1093/0195145836.001.0001 
 
 ---
 
