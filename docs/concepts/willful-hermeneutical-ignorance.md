@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> Despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” (Pohlhaus, 2012, p. 716).
+> Despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” (Pohlhaus 2012, 716).
 
 ## 🔗 Relations
 
@@ -11,7 +11,7 @@
 
 ## 📚 References
 
-- Pohlhaus, Jr., Gaile (2012), “Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance”, Hypatia: A Journal of Feminist Philosophy 27 (4): 715–735
+- Pohlhaus Jr., Gaile. 2012. “Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance.” Hypatia 27 (4): 715–35. https://doi.org/10.1111/j.1527-2001.2011.01222.x.
 
 ---
 
