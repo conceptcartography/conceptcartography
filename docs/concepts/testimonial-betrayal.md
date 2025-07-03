@@ -2,11 +2,11 @@
 
 ## 📖 Definitions
 
-> "thick relations of intimacy between acquaintances, and the maltreatment involves" (Wanderer, 2017, p. 35); (cf. Maitra, 2010, pgs. 198–200).
+> "In intimate relationships forged by thick relations of trust, parties seek each other’s approval, often including recognition of their opinions on matters arising in the course of their interactions. In the context of such relationships, seeking approval need not take the form of an explicit request for approval; one party may just assume that the other party will take their opinion seriously given their purported relationship. Failure by one party to accord the recognition sought implicitly may be experienced by the other party as a betrayal of that thick relationship." (Wanderer 2017, 37); (cf. Maitra 2010, 198–200).
 
 ## 💡 Examples
 
-- "a betrayal of the intimate relationships established by a thick stance of trust between Speaker and Hearer in certain testimonial encounters" (Wanderer, 2017, p.37)
+- "When Sherwood tells Greenleaf of her suspicions about Ripley, she seeks out his approbation. His failure to believe her is experienced by her as rejection of their relationship, a rejection that exacerbates her own sense of isolation and powerlessness." (Wanderer 2017, 37)
 
 ## 🔗 Relations
 
@@ -14,9 +14,9 @@
 
 ## 📚 References
 
-- Wanderer, Jeremy. 2017. "Varieties of Testimonial Injustice" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 27-40 https: doi.org/10.4324/9781315212043;
+- Wanderer, Jeremy. 2017. “Varieties of Testimonial Injustice.” In _The Routledge Handbook on Epistemic Injustice_, edited by Ian James Kidd, Gaile Pohlhaus, and José Medina. Routledge. https://philarchive.org/rec/WANVOT-4.
 
-Maitra, Ishani. 2010. ‘The Nature of Epistemic Injustice’. Philosophical Books 51 (4): 195–211.
+- Maitra, Ishani. 2010. "The Nature of Epistemic Injustice." _Philosophical Books_ 51 (4): 195–211.
 
 ---
 
