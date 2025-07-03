@@ -2,7 +2,11 @@
 
 ## 📖 Definitions
 
-> The information “derived from the information” (Bagwala, 2024, p. 6) is known as second-level surplus information.
+> "The increase in information due to information inferred from the information that the agents already had, we may now call second-level information or inferred information. [...] the information Alice derived from the information she already possesses, such that Burhan does not hold the same, may be called _second-level surplus information_” (Bagwala 2024, 6).
+
+## 💡 Examples
+
+- Using a datset, a powerful computer, and computational skills to model behaviour of commuters in a neighbourhood gives one secondary surplus information about commuter behaviour. (Bagwala 2024, 7)
 
 ## 🔗 Relations
 
@@ -10,7 +14,7 @@
 
 ## 📚 References
 
-- Bagwala, A. (2024). On informational injustice and epistemic exclusions. Synthese, 203(6), 194. https: doi.org/10.1007/s11229-024-04636-6
+- Bagwala, Abbas. 2024. “On Informational Injustice and Epistemic Exclusions.” _Synthese_ 203 (6): 194. https://doi.org/10.1007/s11229-024-04636-6.
 
 ---
 
