@@ -11,7 +11,7 @@
 
 ## 📚 References
 
-- Pohlhaus Jr., Gaile. 2012. “Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance.” Hypatia 27 (4): 715–35. https://doi.org/10.1111/j.1527-2001.2011.01222.x.
+- Pohlhaus Jr., Gaile. 2012. “Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance.” _Hypatia_ 27 (4): 715–35. https://doi.org/10.1111/j.1527-2001.2011.01222.x.
 
 ---
 
