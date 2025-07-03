@@ -2,9 +2,9 @@
 
 ## 📖 Definitions
 
-> "What happens in such cases is that someone who wishes “to be recognized as a member of a community of people collaborating in the attempt to improve understanding or advance knowledge” fails to be so recognized (Hookway 2010: 155). Their capacity to contribute to cooperative inquiry as an epistemic agent is stymied. When this happens as a result of systematic forces of oppression, a participatory epistemic injustice results." (Grasswick, 2017, p. 314)
+> "What happens in such cases is that someone who wishes “to be recognized as a member of a community of people collaborating in the attempt to improve understanding or advance knowledge” fails to be so recognized (Hookway 2010: 155). Their capacity to contribute to cooperative inquiry as an epistemic agent is stymied. When this happens as a result of systematic forces of oppression, a participatory epistemic injustice results." (Grasswick 2017, 314)
 
-> "When members of underrepresented groups are taken less seriously and given less uptake in their intellectual interactions with their peers because of such biases, they suffer participatory epistemic injustices." (Grasswick, 2017, 317)
+> "When members of underrepresented groups are taken less seriously and given less uptake in their intellectual interactions with their peers because of such biases, they suffer participatory epistemic injustices." (Grasswick 2017, 317)
 
 ## 💡 Examples
 
@@ -18,7 +18,8 @@
 
 ## 📚 References
 
-- Grasswick, Heidi. 2017. “Epistemic Injustice in Science.” In The Routledge Handbook of Epistemic Injustice, edited by Ian James Kidd, José Medina, and Gaile Pohlhaus Jr., 313–23. London: Routledge.
+- Grasswick, Heidi. 2017. “Epistemic Injustice in Science.” In _The Routledge Handbook of Epistemic Injustice_, edited by Ian James Kidd, José Medina, and Gaile Pohlhaus Jr.. Routledge. https://www.taylorfrancis.com/chapters/edit/10.4324/9781315212043-31/epistemic-injustice-science-heidi-grasswick 
+- Hookway, Christopher. 2010. “Some Varieties of Epistemic Injustice: Reflections on Fricker.” Episteme 7 (2): 151–63. https://doi.org/10.3366/epi.2010.0005.
 
 ---
 
