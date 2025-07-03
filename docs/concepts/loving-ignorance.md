@@ -3,6 +3,7 @@
 ## 📖 Definitions
 
 > "Loving ignorance would then be the opposite of willful ignorance and would involve an attitude toward that which we cannot know." (Tuana 2006, 15)
+
 > "Loving ignorance, like loving perception, involves the realization that although much experience can be shared there will always be experiences that cannot. Alterity is not something we attempt to remove; difference is not something we can arrogate. Our differences, the differences between white or Angla women and women of color are something to be approached with a sense of humility and a sense of wonder. Loving ignorance is thus a recognition that there are modalities of being that exceed our own and cannot be fully comprehended." (Tuana 2006, 16)
 
 ## 💡 Examples
