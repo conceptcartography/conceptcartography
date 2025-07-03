@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Fricker, Miranda. 2007. _Epistemic Injustice_. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198237907.001.0001.
+- Fricker, Miranda. 2007. _Epistemic Injustice: Power and the Ethics of Knowing_. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198237907.001.0001.
 
 ---
 
