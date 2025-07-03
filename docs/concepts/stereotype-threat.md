@@ -2,11 +2,11 @@
 
 ## 📖 Definitions
 
-> "when one’s performance has the risk of reinforcing negative stereotypes about one’s group and that group membership is made salient to them"  (Fehr and Minji, 2022, p.12)
+> "when one’s performance has the risk of reinforcing negative stereotypes about one’s group and that group membership is made salient to them"  (Fehr and Jones 2022, 12)
 
 ## 💡 Examples
 
-- "Black students to fill out a demographic survey question about their race before taking a test had a negative impact on their test performance" (Fehr and Minji, 2022, p.12)
+- "Black students to fill out a demographic survey question about their race before taking a test had a negative impact on their test performance" (Fehr and Minji 2022, 12)
 
 ## 🔗 Relations
 
@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.
+- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. _Synthese_ 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.
 
 ---
 
