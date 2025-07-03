@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "Willful ignorance is a deception that we impose upon ourselves, but it is not an isolated lie we consciously tell ourselves, a belief we know to be false but insist on repeating. Rather, willful ignorance is a systematic process of self-deception, a willful embrace of ignorance that infects those who are in positions of privilege, an active ignoring of the oppression of others and one's role in that exploitation." (Tuana, 2006, 11)
+> "Willful ignorance is a deception that we impose upon ourselves, but it is not an isolated lie we consciously tell ourselves, a belief we know to be false but insist on repeating. Rather, willful ignorance is a systematic process of self-deception, a willful embrace of ignorance that infects those who are in positions of privilege, an active ignoring of the oppression of others and one's role in that exploitation." (Tuana 2006, 11)
 
 ## 💡 Examples
 
