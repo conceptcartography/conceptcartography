@@ -33,7 +33,6 @@
                 crossorigin="anonymous"
                 async>
         </script>
-        - Pohlhaus Jr., Gaile. 2020. “Epistemic Agency Under Oppression.” Philosophical Papers 49 (2): 233–51. https: doi.org/10.1080/05568641.2020.1780149.
 
 ---
 
