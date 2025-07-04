@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "Effective epistemic diversity describes a community that contains members who hold different background beliefs and makes use of that diversity to generate and evaluate theories, hypotheses and data from the widest possible range of perspectives. In this kind of community, members feel free to develop and offer dissenting views, their dissent is given uptake and they are granted equality of intellectual authority with those who hold more common or more central perspectives." (Fehr 2011, 147-8).
+> "Effective epistemic diversity describes a community that contains members who hold different background beliefs and makes use of that diversity to generate and evaluate theories, hypotheses and data from the widest possible range of perspectives. In this kind of community, members feel free to develop and offer dissenting views, their dissent is given uptake and they are granted equality of intellectual authority with those who hold more common or more central perspectives" (Fehr 2011, 147-8).
 
 ## 🔗 Relations
 
