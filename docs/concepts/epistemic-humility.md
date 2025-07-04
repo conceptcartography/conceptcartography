@@ -2,8 +2,6 @@
 
 ## 📖 Definitions.
 
-> (cited in Alcoff 2022)
-
 ## 🔗 Relations
 
 - **counteracts**: [epistemic extractivism](./epistemic-extractivism.md)
