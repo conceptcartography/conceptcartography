@@ -11,7 +11,7 @@
 
 ## 📚 References
 
-- Kidd, Ian James. 2021. "Creativity in science and the ‘anthropological turn’ in virtue theory." Euro Jnl Phil Sci 11 (15). https://doi.org/10.1007/s13194-020-00334-5
+- Kidd, Ian James. 2021. "Creativity in science and the ‘anthropological turn’ in virtue theory." _Euro Jnl Phil Sci_ 11 (15). https://doi.org/10.1007/s13194-020-00334-5
 ---
 
 <script src="https://giscus.app/client.js"
