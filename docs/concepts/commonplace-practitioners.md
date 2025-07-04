@@ -2,11 +2,11 @@
 
 ## 📖 Definitions
 
-> "epistemic community members who are overrepresented in the community" (Fehr and Minji 2022, 4).
+> "epistemic community members who are overrepresented in the community" (Fehr and Jones 2022, 4).
 
 ## 💡 Examples
 
-- "tends to include many white people, people with higher SES, straight cis men, and folks with a prestigious educational pedigree."  (Fehr and Minji 2022, 4)
+- "tends to include many white people, people with higher SES, straight cis men, and folks with a prestigious educational pedigree."  (Fehr and Jones 2022, 4)
 
 ## 🔗 Relations
 
@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- 'Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). https://doi.org/10.1007/s11229-022-03787-8.
+- 'Fehr, Carla, and Jones, Janet Minji. 2022. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200 (465). https://doi.org/10.1007/s11229-022-03787-8.
 
 ---
 
