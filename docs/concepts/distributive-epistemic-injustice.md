@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Coady, David. “Two Concepts of Epistemic Injustice.” Episteme 7, no. 2 (2010): 101–13. https://doi.org/10.3366/epi.2010.0001.
+- Coady, David. 2010. “Two Concepts of Epistemic Injustice.” Episteme 7 (2): 101–13. https://doi.org/10.3366/epi.2010.0001.
 
 ---
 
