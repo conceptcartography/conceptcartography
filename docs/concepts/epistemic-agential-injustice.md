@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Medina, José. “Group Agential Epistemic Injustice: Epistemic Disempowerment and Critical Defanging of Group Epistemic Agency1.” Philosophical Issues 32, no. 1 ( 2022): 320–34. https://doi.org/10.1111/phis.12221.
+- Medina, José. 2022. “Group Agential Epistemic Injustice: Epistemic Disempowerment and Critical Defanging of Group Epistemic Agency1.” Philosophical Issues 32 (1): 320–34. https://doi.org/10.1111/phis.12221.
 
 
 ---
