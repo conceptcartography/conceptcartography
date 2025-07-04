@@ -10,8 +10,8 @@
 
 ## 📚 References
 
-- Anscomb, Claire. “Visibility, Creativity, and Collective Working Practices in Art and Science.” European Journal for Philosophy of Science 11, no. 5 (2020). https:doi.org/10.1007/s13194-020-00310-z.
-- Gaut, B. N. "The Value of Creativity." In Creativity and Philosophy, edited by B. N. Gau, & M. Kieran. Routledge, 2018.
+- Anscomb, Claire. 2020 “Visibility, Creativity, and Collective Working Practices in Art and Science.” European Journal for Philosophy of Science 11 (5). https:doi.org/10.1007/s13194-020-00310-z.
+- Gaut, B. N. 2018. "The Value of Creativity." In Creativity and Philosophy, edited by B. N. Gau, & M. Kieran. Routledge.
 
 ---
 
