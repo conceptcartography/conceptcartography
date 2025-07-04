@@ -12,8 +12,8 @@
 
 ## 📚 References
 
-- 'Carrier, Martin. 2013. “Values and Objectivity in Science: Value-Ladenness, Pluralism and the Epistemic Attitude.” Science & Education 22 (10): 2547–68. https://doi.org/10.1007/s11191-012-9481-5.'
-- 'Longino, Helen E. 1996. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In Feminism, Science, and the Philosophy of Science, edited by Lynn Hankinson Nelson and Jack Nelson. Springer. https://doi.org/10.1007/978-94-009-1742-2_3.'
+- 'Carrier, Martin. 2013. “Values and Objectivity in Science: Value-Ladenness, Pluralism and the Epistemic Attitude.” _Science & Education_ 22 (10): 2547–68. https://doi.org/10.1007/s11191-012-9481-5.'
+- 'Longino, Helen E. 1996. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In _Feminism, Science, and the Philosophy of Science_, edited by Lynn Hankinson Nelson and Jack Nelson. Springer. https://doi.org/10.1007/978-94-009-1742-2_3.'
 
 ---
 
