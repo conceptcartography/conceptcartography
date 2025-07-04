@@ -1,21 +1,71 @@
-Who and what is included or excluded in knowledge practice? How does that matter both for what and how we know, and for recognition, equity, and justice? These are topics at the forefront of fields like feminist epistemology, critical race studies, social epistemology, political epistemology, indigenous studies, science and technology studies, and philosophy of science.
+# 
+<h1 style="
+  font-size: 1.75rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  color: var(--md-typeset-color, #333);
+">Concept Cartography</h1>
+<img src="assets/homelogo.gif" style="border:black 9px solid;border-radius:50%;height:200px;width:200px;display:block;margin:auto;">
 
-The map makes visible some of the intertwined political and epistemic dimensions of knowledge creation and sharing discussed in this literature. Like all maps, this one is a single perspective on a complicated terrain. It is non-exhaustive. It connects ideas, rather than citations. It aims to give a sense for the diversity of voices and areas where these topics come up, while acknowledging that there is so much more to see and do between and beyond the points we depict.
+A concept library from academic research
 
-You can use this map to navigate the conceptual space, trace conceptual lineages and interrelations, and explore definitions and references. Take it as a starting point, a piece of equipment for orienting your thinking. At the same time, we hope that the map will preserve some disorientation: that it will raise questions, disrupt standard narratives, and create a sense of discomfort at its own inadequacy.
+# Our Community 
 
-<script src="https://giscus.app/client.js"
-        data-repo="natesheehan/conceptcartography"
-        data-repo-id="R_kgDOPB5QiQ"
-        data-category="General"
-        data-category-id="DIC_kwDOPB5Qic4CsAxd"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="catppuccin_mocha"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
+<div id="contributors" style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: rgba(240, 240, 240, 0.4);
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+">
+  <!-- Contributors will load here -->
+</div>
+
+<script>
+  const repo = "natesheehan/conceptcartography";
+
+  fetch(`https://api.github.com/repos/${repo}/contributors`)
+    .then(res => res.json())
+    .then(data => {
+      const container = document.getElementById("contributors");
+      container.innerHTML = data.map(user => `
+        <a href="${user.html_url}" target="_blank" title="${user.login}" style="
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-decoration: none;
+          color: inherit;
+          transition: transform 0.2s ease, box-shadow 0.2s ease;
+          border-radius: 8px;
+          padding: 0.5rem;
+        " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.08)'"
+          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+          <img src="${user.avatar_url}&s=96" alt="${user.login}" style="
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            border: 1px solid #ccc;
+            object-fit: cover;
+            margin-bottom: 0.5rem;
+            transition: box-shadow 0.3s ease;
+          ">
+          <span style="
+            font-size: 0.8rem;
+            font-weight: 500;
+            text-align: center;
+          ">${user.login}</span>
+        </a>
+      `).join('');
+    })
+    .catch(err => {
+      document.getElementById("contributors").innerHTML = "<p style='text-align: center; color: #888;'>Failed to load contributors.</p>";
+      console.error(err);
+    });
 </script>
