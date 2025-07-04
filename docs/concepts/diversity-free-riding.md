@@ -11,7 +11,7 @@
 
 ## 📚 References
 
-- Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer. DOI:10.1007/978-1-4020-6835-5
+- Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In _Feminist Epistemology and Philosophy of Science: Power in Knowledge_, edited by Heidi Grasswick. Springer. DOI:10.1007/978-1-4020-6835-5
 
 ---
 
