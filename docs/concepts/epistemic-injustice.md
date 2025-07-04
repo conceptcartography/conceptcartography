@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "a wrong done to someone specifically in their capacity as a knower." (Fricker, 2007, p. 1)
+> "a wrong done to someone specifically in their capacity as a knower" (Fricker 2007, 1).
 
 ## 📚 References
 
