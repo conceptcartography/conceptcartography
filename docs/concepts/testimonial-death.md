@@ -2,11 +2,11 @@
 
 ## 📖 Definitions
 
-> "testimonial death, occurring when subjects are not given even minimal amounts of credibility and are prevented from participating in testimonial dynamics" (Medina, 2018, p. 255).
+> "testimonial death, occurring when subjects are not given even minimal amounts of credibility and are prevented from participating in testimonial dynamics" (Medina 2018, 255).
 
 ## 💡 Examples
 
-- "...Anzaldú a forcefully described Anglo White privilege as killing her voice and her capacity to be heard and understood in her own terms, as using “linguistic terrorism” to annihilate her self..." (Medina, 2018, p. 254).
+- "...Anzaldú a forcefully described Anglo White privilege as killing her voice and her capacity to be heard and understood in her own terms, as using “linguistic terrorism” to annihilate her self..." (Medina 2018, 254).
 
 ## 🔗 Relations
 
@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Medina, José. 2018. "Epistemic Injustice and Epistemologies of Ignorance" in Taylor, P. C., Alcoff, L. M., & Anderson, L. (Eds.). The Routledge companion to philosophy of race. Routledge.
+- Medina, José. 2017. “Epistemic Injustice and Epistemologies of Ignorance.” In _The Routledge Companion to Philosophy of Race_, edited by Paul C. Taylor, Linda Martín Alcoff, and Luvell Anderson. Routledge. https://doi.org/10.4324/9781315884424-18.
 
 ---
 

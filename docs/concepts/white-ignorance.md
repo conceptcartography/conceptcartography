@@ -16,7 +16,7 @@ NB: Fricker objects against using white ignorance as an agentially produced form
 
 ## 📚 References
 
-- Mills, C. W. (2007). White ignorance. In Race and Epistemologies of Ignorance. State University of New York Press: pp. 13-38.
+- Mills, Charles. 2007. “White Ignorance.” In _Race and Epistemologies of Ignorance_, edited by Shannon Sullivan and Nancy Tuana. State University of New York Press. https://muse.jhu.edu/pub/163/monograph/chapter/121151.
 
 ---
 

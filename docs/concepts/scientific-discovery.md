@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "Scientific discovery involves a process of systems-building that requires coordination between theory, experiment, and expert observation for balancing between the maintenance of established facts and opening lines of communication to other possibilities—the aim is to diversify lines of evidence for managing underdetermination in the history of the science and to construct ‘new’ narrative strands (Currie and Sterelny 2017)." (Lee, 2019, p.709)
+> "Scientific discovery involves a process of systems-building that requires coordination between theory, experiment, and expert observation for balancing between the maintenance of established facts and opening lines of communication to other possibilities—the aim is to diversify lines of evidence for managing underdetermination in the history of the science and to construct ‘new’ narrative strands (Currie and Sterelny 2017)." (Lee 2019, 709)
 
 ## 💡 Examples
 
@@ -14,7 +14,8 @@
 
 ## 📚 References
 
-- Lee, Clarissa Ai Ling. 2019. “What Science Fiction Can Demonstrate About Novelty in the Context of Discovery and Scientific Creativity.” Foundations of Science 24 (4): 705–25. https: doi.org/10.1007/s10699-019-09615-6.
+- Lee, Clarissa Ai Ling. 2019. “What Science Fiction Can Demonstrate About Novelty in the Context of Discovery and Scientific Creativity.” _Foundations of Science_ 24 (4): 705–25. https: doi.org/10.1007/s10699-019-09615-6.
+- Currie, Adrian, and Kim Sterelny. 2017. “In Defence of Story-Telling.” _Studies in History and Philosophy of Science Part A_, 62 (April):14–21. https://doi.org/10.1016/j.shpsa.2017.03.003.
 
 ---
 

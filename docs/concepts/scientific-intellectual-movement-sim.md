@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "SIMs are collective efforts to pursue research programs in the face of resistance from others in the scientific community (Frickel and Gross 2005, 206)." (Koskinen and Rolin, 2019, p. 1056)
+> "SIMs are collective efforts to pursue research programs in the face of resistance from others in the scientific community (Frickel and Gross 2005, 206)." (Koskinen and Rolin 2019, 1056)
 
 ## 💡 Examples
 
@@ -14,7 +14,8 @@
 
 ## 📚 References
 
-- Koskinen, Inkeri, and Kristina Rolin. 2019. “Scientific/Intellectual Movements Remedying Epistemic Injustice: The Case of Indigenous Studies.” Philosophy of Science 86 (5): 1052–63. https: doi.org/10.1086/705522.
+- Koskinen, Inkeri, and Kristina Rolin. 2019. “Scientific/Intellectual Movements Remedying Epistemic Injustice: The Case of Indigenous Studies.” _Philosophy of Science_ 86 (5): 1052–63. https: doi.org/10.1086/705522.
+- Frickel, Scott, and Neil Gross. 2005. “A General Theory of Scientific/Intellectual Movements.” _American Sociological Review_ 70 (2): 204–32. https://doi.org/10.1177/000312240507000202.
 
 ---
 

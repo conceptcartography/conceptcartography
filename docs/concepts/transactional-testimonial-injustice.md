@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "a breach of the order of justice established between the parties to a testimonial transaction yielding a systemic pattern of maltreatment of people across an array of different transactions and contexts" (Wanderer, 2017, p. 33).
+> "a breach of the order of justice established between the parties to a testimonial transaction yielding a systemic pattern of maltreatment of people across an array of different transactions and contexts" (Wanderer 2017, 33).
 
 ## 💡 Examples
 
@@ -14,7 +14,8 @@
 
 ## 📚 References
 
-- Wanderer, Jeremy. 2017. "Varieties of Testimonial Injustice" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 27-40 https: doi.org/10.4324/9781315212043
+- Wanderer, Jeremy. 2017. “Varieties of Testimonial Injustice.” In _The Routledge Handbook on Epistemic Injustice_, edited by Ian James Kidd, Gaile Pohlhaus, and José Medina. Routledge. https://philarchive.org/rec/WANVOT-4.
+
 
 ---
 
