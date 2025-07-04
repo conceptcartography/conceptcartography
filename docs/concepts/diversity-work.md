@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Ahmed, Sara. _Living a Feminist Life_. Duke University Press, 2017. https://doi.org/10.1215/9780822373377.
+- Ahmed, Sara. 2017. _Living a Feminist Life_. Duke University Press. https://doi.org/10.1215/9780822373377.
 
 ---
 
