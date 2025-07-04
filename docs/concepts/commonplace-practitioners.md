@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- 'Fehr, Carla, and Jones, Janet Minji. 2022. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200 (465). https://doi.org/10.1007/s11229-022-03787-8.
+- 'Fehr, Carla, and Jones, Janet Minji. 2022. "Culture, Exploitation, and Epistemic Approaches to Diversity." _Synthese_ 200 (465). https://doi.org/10.1007/s11229-022-03787-8.
 
 ---
 
