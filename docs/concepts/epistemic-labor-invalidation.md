@@ -8,8 +8,8 @@
 
 - "As Uma Narayan points out, third-world scholars are often expected to be fountains of knowledge concerning the groups to which they are perceived as belonging in a way that disregards the actual cognitive labor necessary for knowing what is expected of them insofar as this knowledge is regarded as automatically present in virtue of group membership and not through actual cognitive effort" (Narayan 1997, 121–157).
 - hierarchies that regard some as less competent precisely because of what it is they know (Heldke 2006)
-- knowledge of non-Western philosophy is invalidated within the discipline of philosophy to such an extent that knowing something about it can reduce one’s credibility as a philosopher (Olberding 2016)
-as cited by Pohlhaus 2017, 21
+- knowledge of non-Western philosophy is invalidated within the discipline of philosophy to such an extent that knowing something about it can reduce one’s credibility as a philosopher (Olberding 2016
+as cited by Pohlhaus 2017, 21.
 
 ## 🔗 Relations
 
