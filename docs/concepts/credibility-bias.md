@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "There is a large body of literature demonstrating a range of biases against women in STEM" (Fehr and Minji 2022, 11)
+> "There is a large body of literature demonstrating a range of biases against women in STEM" (Fehr and Jones 2022, 11)
 
 ## 💡 Examples
 
@@ -18,7 +18,7 @@ competent and assertive, and being likeable"
 
 
 
-" the Maternal Wall, describes the devastating effect that having children has on assumptions about women’s work competence and commitment"  (Fehr and Minji 2022, 11).
+" the Maternal Wall, describes the devastating effect that having children has on assumptions about women’s work competence and commitment"  (Fehr and Jones 2022, 11).
 
 ## 🔗 Relations
 
