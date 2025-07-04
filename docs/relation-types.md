@@ -6,7 +6,7 @@ This space is open-ended: relation types can be added or revised as the map evol
 
 | Relations | Definitions | Examples | Bi-directional |
 | --------- | ----------- | -------- | -------------- |
-| Type of	 | Belongs to a broader category or class | -------- | -------------- |
+| Type of	 | Belongs to a broader category or class | ---- | ---- |
 | Part of  | Makes up or forms specific elements or parts; constitutes a component or subset of a whole. | --- | --- |
 | Produces | Brings something into existence, gives rise to, or causes something to happen. | "Identity prejudice is never justified and ought not to inform whether non-dominant groups are included in knowledge exchanges. For this reason, identity prejudice gives rise to both testimonial injustice and hermeneutical injustice" (Goldstein 2022: 1864). | --- |
 | Counteracts | Acts to neutralize or reduce the effect of something, constrains, undermines, prevents. | --- | --- |
