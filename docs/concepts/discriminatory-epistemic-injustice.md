@@ -10,9 +10,9 @@
 
 ## 📚 References
 
-- Fricker, Miranda. "Evolving Concepts of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https://doi.org/10.4324/9781315212043.
-- Coady, David. “Two Concepts of Epistemic Injustice.” Episteme 7, no. 2 (2010): 101–13. https://doi.org/10.3366/epi.2010.0001.
-- Coady, David. "Epistemic Injustice as Distributive Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I.J. Kidd, J. Medina, and G. Pohlhaus, Jr. Routledge, 2017. https://doi.org/10.4324/9781315212043
+- Fricker, Miranda. 2017. "Evolving Concepts of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge. https://doi.org/10.4324/9781315212043.
+- Coady, David. 2010. “Two Concepts of Epistemic Injustice.” Episteme 7 (2): 101–13. https://doi.org/10.3366/epi.2010.0001.
+- Coady, David. 2017. "Epistemic Injustice as Distributive Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I.J. Kidd, J. Medina, and G. Pohlhaus, Jr. Routledge. https://doi.org/10.4324/9781315212043
 
 ---
 
