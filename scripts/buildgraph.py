@@ -1,7 +1,6 @@
 import os
-import re
 import json
-import yaml
+import re
 
 concept_dir = "docs/concepts"
 output_path = "docs/assets/graph.json"
@@ -9,66 +8,110 @@ output_path = "docs/assets/graph.json"
 nodes = {}
 edges = []
 
-# Define symmetric relation types that should be bidirectional
-symmetric_relations = {
-    "equivalent to",
-    "similar to",
-    "counteracts"
-}
+symmetric_relations = {"equivalent to", "similar to", "counteracts"}
 
-def extract_frontmatter(content):
-    match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
-    if not match:
-        return None
-    frontmatter = match.group(1)
-    return yaml.safe_load(frontmatter)
+def parse_markdown_lines(filepath):
+    concept = None
+    definition_lines = []
+    relations = []
+    references = []
+    in_definitions = False
+    in_references = False
 
-# Step 1: Collect all concept IDs (lowercased)
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            stripped = line.strip()
+
+            # Get concept name (first H1)
+            if stripped.startswith("# ") and not concept:
+                concept = stripped[2:].strip()
+
+            # Detect sections
+            if stripped.lower().startswith("##") and "definition" in stripped.lower():
+                in_definitions = True
+                in_references = False
+                continue
+            if stripped.lower().startswith("##") and "reference" in stripped.lower():
+                in_references = True
+                in_definitions = False
+                continue
+            if stripped.lower().startswith("##"):
+                # New section
+                in_definitions = False
+                in_references = False
+
+            # Collect definitions (quotes or paragraphs)
+            if in_definitions and (stripped.startswith(">") or stripped):
+                definition_lines.append(stripped)
+
+            # Collect references (markdown list items)
+            if in_references and stripped.startswith("-"):
+                references.append(stripped)
+
+            # Collect relations (markdown list items)
+            rel_match = re.match(r'- \*\*(.*?)\*\*:\s*\[(.*?)\]\(.*?\)', stripped)
+            if rel_match:
+                relations.append({
+                    "type": rel_match.group(1).strip().lower(),
+                    "target": rel_match.group(2).strip()
+                })
+
+    return {
+        "concept": concept,
+        "definition": "\n".join(definition_lines).strip(),
+        "relations": relations,
+        "reference": "\n".join(references).strip()
+    }
+
+# Step 1: Collect nodes
 for filename in os.listdir(concept_dir):
     if filename.endswith(".md"):
-        with open(os.path.join(concept_dir, filename), "r", encoding="utf-8") as f:
-            content = f.read()
-            data = extract_frontmatter(content)
-            if not data or "concept" not in data:
-                continue
+        filepath = os.path.join(concept_dir, filename)
+        data = parse_markdown_lines(filepath)
+        if not data["concept"]:
+            print(f"⚠ Skipping {filename}: no concept found")
+            continue
 
-            concept = data["concept"].strip().lower()
-            nodes[concept] = True
+        concept_id = data["concept"].strip().lower()
+        nodes[concept_id] = {
+            "id": concept_id,
+            "title": data["concept"].strip(),
+            "definition": data["definition"],
+            "reference": data["reference"],
+            "filename": filename
+        }
 
-# Step 2: Parse relations
-for filename in os.listdir(concept_dir):
-    if filename.endswith(".md"):
-        with open(os.path.join(concept_dir, filename), "r", encoding="utf-8") as f:
-            content = f.read()
-            data = extract_frontmatter(content)
-            if not data or "concept" not in data:
-                continue
-
-            source = data["concept"].strip().lower()
-
-            for rel in data.get("relations", []):
-                target = rel.get("target", "").strip().lower()
-                rel_type = rel.get("type", "").strip().lower()
-                if target and rel_type:
-                    # Add the original edge
-                    edges.append({
-                        "source": source,
-                        "target": target,
-                        "type": rel_type
-                    })
-                    nodes[target] = True
-
-                    # Add symmetric reverse edge if applicable
-                    if rel_type in symmetric_relations and source != target:
-                        edges.append({
-                            "source": target,
-                            "target": source,
-                            "type": rel_type
-                        })
+# Step 2: Collect edges
+for concept_id, node_data in list(nodes.items()):
+    filepath = os.path.join(concept_dir, node_data["filename"])
+    data = parse_markdown_lines(filepath)
+    for rel in data["relations"]:
+        target = rel["target"].strip().lower()
+        rel_type = rel["type"].strip().lower()
+        if target and rel_type:
+            edges.append({
+                "source": concept_id,
+                "target": target,
+                "type": rel_type
+            })
+            if rel_type in symmetric_relations and concept_id != target:
+                edges.append({
+                    "source": target,
+                    "target": concept_id,
+                    "type": rel_type
+                })
+            if target not in nodes:
+                nodes[target] = {
+                    "id": target,
+                    "title": target.title(),
+                    "definition": "",
+                    "reference": "",
+                    "filename": ""  # No file
+                }
 
 # Final graph
 graph = {
-    "nodes": [{"id": concept} for concept in sorted(nodes)],
+    "nodes": list(nodes.values()),
     "links": edges
 }
 

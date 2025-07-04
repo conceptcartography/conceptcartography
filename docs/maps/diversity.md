@@ -170,15 +170,7 @@ datalist option {
 </script>
 
 
-<!-- Load the 3d-force-graph library and wait for it -->
-<script>
-  const forceGraphScript = document.createElement('script');
-  forceGraphScript.src = 'https://unpkg.com/3d-force-graph';
-  forceGraphScript.onload = () => {
-    initGraph(); // call setup function only when the library is ready
-  };
-  document.head.appendChild(forceGraphScript);
-</script>
+
 <script>
 let Graph;
 let autoRotate = false;
@@ -195,6 +187,50 @@ document.getElementById('search-box').addEventListener('keydown', function(e) {
 document.getElementById('search-box').addEventListener('change', function () {
   focusOnConcept(this.value);
 });
+
+function showModal(contentHTML) {
+  // Create backdrop
+  const backdrop = document.createElement('div');
+  backdrop.style.position = 'fixed';
+  backdrop.style.top = '0';
+  backdrop.style.left = '0';
+  backdrop.style.width = '100vw';
+  backdrop.style.height = '100vh';
+  backdrop.style.background = 'rgba(0, 0, 0, 0.6)';
+  backdrop.style.display = 'flex';
+  backdrop.style.justifyContent = 'center';
+  backdrop.style.alignItems = 'center';
+  backdrop.style.zIndex = '10000';
+
+  // Create modal
+  const modal = document.createElement('div');
+  modal.style.background = '#fff';
+  modal.style.borderRadius = '8px';
+  modal.style.boxShadow = '0 10px 40px rgba(0, 0, 0, 0.3)';
+  modal.style.maxWidth = '90vw';
+  modal.style.maxHeight = '80vh';
+  modal.style.overflowY = 'auto';
+  modal.innerHTML = contentHTML;
+
+  // Close button
+  const closeBtn = document.createElement('button');
+  closeBtn.innerText = 'Close';
+  closeBtn.style.display = 'block';
+  closeBtn.style.margin = '1rem auto 0';
+  closeBtn.style.padding = '0.5rem 1rem';
+  closeBtn.style.border = '1px solid #ccc';
+  closeBtn.style.background = 'black';
+  closeBtn.style.borderRadius = '4px';
+  closeBtn.style.cursor = 'pointer';
+  closeBtn.onclick = () => backdrop.remove();
+
+  modal.appendChild(closeBtn);
+  backdrop.appendChild(modal);
+  backdrop.onclick = e => {
+    if (e.target === backdrop) backdrop.remove();
+  };
+  document.body.appendChild(backdrop);
+}
 
 
 function toTitleCase(str) {
@@ -243,7 +279,7 @@ function initGraph() {
 
       Graph = ForceGraph3D()(document.getElementById('graph-container'))
         .graphData(data)
-        .nodeLabel(node => node.id)
+        .nodeLabel(node => node.title || node.id)
         .nodeColor(() => 'black')
         .nodeVal(node => node.val) // <--- Set size based on val
         .linkColor(link => colorMap[normalize(link.type)] || 'green')
@@ -253,11 +289,26 @@ function initGraph() {
         .linkDirectionalParticles(5)
         .linkDirectionalParticleWidth(2)
         .linkDirectionalParticleColor(link => colorMap[normalize(link.type)] || 'gray')
-        .onNodeClick(node => {
-          const slug = node.id.toLowerCase().replace(/\s+/g, '-');
-          window.location.href = `/concepts/${slug}`;
-        })
-        .onBackgroundClick(() => Graph.zoomToFit(200));
+.onNodeClick(node => {
+  // Build metadata HTML
+  const metaHTML = `
+    <div style="padding: 1.5rem; max-width: 500px;">
+      <h2 style="margin-top: 0; font-size: 1.5rem; color: #1f2937;">${node.title}</h2>
+      <p style="color: #1f2937;"><strong>📖 Definition:</strong></p>
+      <p style="color: #1f2937;">${node.definition || "No definition available."}</p>
+      <p style="color: #1f2937;"><strong>📚 References:</strong></p>
+      <p style="color: #1f2937;">${node.reference 
+          ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
+          : "No references."}</p>
+<p><a href="../../concepts/${slugify(node.id)}" target="_blank" style="color: #007acc;">🔗 View full concept →</a></p>
+
+    </div>
+  `;
+
+  showModal(metaHTML);
+});
+
+      
         // Wait for layout and container to stabilize, then zoom and center the graph
 setTimeout(() => {
   const container = document.getElementById('graph-container');
@@ -267,6 +318,16 @@ setTimeout(() => {
 }, 0); // Immediate timeout waits for next repaint
 
     });
+}
+
+function slugify(text) {
+  return text
+    .toLowerCase()
+    .replace(/\s+/g, '-')         // replace spaces with hyphens
+    .replace(/[^\w\-]+/g, '')     // remove non-word chars
+    .replace(/\-\-+/g, '-')       // collapse multiple hyphens
+    .replace(/^-+/, '')           // trim leading hyphens
+    .replace(/-+$/, '');          // trim trailing hyphens
 }
 
 
@@ -348,4 +409,15 @@ document.addEventListener('keydown', e => {
     }
   }
 });
+</script>
+
+<!-- Load the 3d-force-graph library and wait for it -->
+<script>
+  const forceGraphScript = document.createElement('script');
+  forceGraphScript.src = 'https://unpkg.com/3d-force-graph';
+  forceGraphScript.onload = () => {
+    initGraph(); // call setup function only when the library is ready
+  };
+  
+  document.head.appendChild(forceGraphScript);
 </script>
