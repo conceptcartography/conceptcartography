@@ -17,10 +17,10 @@
 
 ## 📚 References
 
-- Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer. DOI:10.1007/978-1-4020-6835-5
-- Gobbo, Federico, and Federica Russo. 2020. “Epistemic Diversity and the Question of Lingua Franca in Science and Philosophy.” Foundations of Science 25 (1): 185–207. https://doi.org/10.1007/s10699-019-09631-6.
-- Leonelli, Sabina. 2006. “Open Science and Epistemic Diversity: Friends or Foes?” Philosophy of Science 89 (5): 991–1001. https://doi.org/10.1017/psa.2022.45
-- Wylie, Alison. 2000. “Introduction: When Difference Makes a Difference.” Episteme 3 (1–2): 1–7. https://doi.org/10.3366/epi.2006.3.1-2.1
+- Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In _Feminist Epistemology and Philosophy of Science: Power in Knowledge_, edited by Heidi Grasswick. Springer. DOI:10.1007/978-1-4020-6835-5
+- Gobbo, Federico, and Federica Russo. 2020. “Epistemic Diversity and the Question of Lingua Franca in Science and Philosophy.” _Foundations of Science_ 25 (1): 185–207. https://doi.org/10.1007/s10699-019-09631-6.
+- Leonelli, Sabina. 2006. “Open Science and Epistemic Diversity: Friends or Foes?” _Philosophy of Science_ 89 (5): 991–1001. https://doi.org/10.1017/psa.2022.45
+- Wylie, Alison. 2000. “Introduction: When Difference Makes a Difference.” _Episteme_ 3 (1–2): 1–7. https://doi.org/10.3366/epi.2006.3.1-2.1
 ---
 
 <script src="https://giscus.app/client.js"
