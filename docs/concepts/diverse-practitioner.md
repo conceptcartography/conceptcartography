@@ -6,7 +6,7 @@
 
 ## 💡 Examples
 
-- "diverse practitioners tends to include people with lower socio-economic status (SES), disabled people, women, people of color, people with fewer markers of a prestigious education, and members of other minority or marginalized groups"  (Fehr and Minji 2022, 4).
+- "diverse practitioners tends to include people with lower socio-economic status (SES), disabled people, women, people of color, people with fewer markers of a prestigious education, and members of other minority or marginalized groups"  (Fehr and Jones 2022, 4).
 
 ## 🔗 Relations
 
@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Fehr, Carla, and Jones, Janet Minji. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200, no. 465 (2022). [https:doi.org/10.1007/s11229-022-03787-8.](https://doi.org/10.1007/s11229-022-03787-8)
+- Fehr, Carla, and Jones, Janet Minji. 2022. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200 (465). [https:doi.org/10.1007/s11229-022-03787-8.](https://doi.org/10.1007/s11229-022-03787-8)
 
 ---
 
