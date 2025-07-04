@@ -6,7 +6,7 @@
 
 ## 📚 References
 
-- Dotson, Kristie. “A Cautionary Tale: On Limiting Epistemic Oppression.” Frontiers: A Journal of Women Studies 33, no. 1 (2012): 24–47. https://doi.org/10.5250/fronjwomestud.33.1.0024.
+- Dotson, Kristie. 2012. “A Cautionary Tale: On Limiting Epistemic Oppression.” Frontiers: A Journal of Women Studies 33 (1): 24–47. https://doi.org/10.5250/fronjwomestud.33.1.0024.
 
 ---
 
