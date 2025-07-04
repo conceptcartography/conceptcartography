@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Steel, D., Fazelpour, S., Crewe, B. et al. "Information Elaboration and Epistemic Effects of Diversity." Synthese 198, 1287–1307 (2021). https://doi.org/10.1007/s11229-019-02108-w
+- Steel, D., Fazelpour, S., Crewe, B. Gillette, K. 2021. "Information Elaboration and Epistemic Effects of Diversity." Synthese 198: 1287–1307. https://doi.org/10.1007/s11229-019-02108-w
 
 ---
 
