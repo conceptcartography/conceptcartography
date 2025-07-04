@@ -16,8 +16,8 @@
 
 ## 📚 References
 
-- Medina, José. 2017. "Epistemic Injustice and Epistemologies of Ignorance." In The Routledge Companion to Philosophy of Race, edited by Paul C. Taylor, Linda Martín Alcoff, Luvell Anderson. Routledge. https://doi.org/10.4324/9781315884424
-- Baldwin, James. 1998. “The Fire Next Time.” In Collected Essays, Edited by Toni Morrison. Penguin Random House.
+- Medina, José. 2017. "Epistemic Injustice and Epistemologies of Ignorance." In The _Routledge Companion to Philosophy of Race_, edited by Paul C. Taylor, Linda Martín Alcoff, Luvell Anderson. Routledge. https://doi.org/10.4324/9781315884424
+- Baldwin, James. 1998. “The Fire Next Time.” In _Collected Essays_, Edited by Toni Morrison. Penguin Random House.
 
 ---
 
