@@ -6,19 +6,8 @@
 
 ## 💡 Examples
 
-- "Prove It Again is the tendency for women to have to provide more evidence of
-
-competence than men do to be seen as competent as men, and to be under scrutiny for errors as opposed to being under scrutiny for excellence."
-
-
-
-"The Tightrope describes the double bind that women face between being seen as
-
-competent and assertive, and being likeable"
-
-
-
-" the Maternal Wall, describes the devastating effect that having children has on assumptions about women’s work competence and commitment"  (Fehr and Jones 2022, 11).
+- "Prove It Again is the tendency for women to have to provide more evidence of competence than men do to be seen as competent as men, and to be under scrutiny for errors as opposed to being under scrutiny for excellence."
+"The Tightrope describes the double bind that women face between being seen as competent and assertive, and being likeable....the Maternal Wall, describes the devastating effect that having children has on assumptions about women’s work competence and commitment"  (Fehr and Jones 2022, 11).
 
 ## 🔗 Relations
 
