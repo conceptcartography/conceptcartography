@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Massimi, Michela. Perspectival Realism. Oxford Studies in Philosophy of Science.Oxford University Press, 2022.
+- Massimi, Michela. _Perspectival Realism_. Oxford Studies in Philosophy of Science.Oxford University Press, 2022.
 
 ---
 
