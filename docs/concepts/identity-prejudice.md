@@ -2,14 +2,11 @@
 
 ## 📖 Definitions
 
-> prejudices (i.e., negative stereotypes) against people qua social type
+> "The main type (the only type?) of prejudice that tracks people in this way is prejudice relating to social identity. Let us call this sort of prejudice identity prejudice. It can come in positive or negative form—prejudice for or against people owing to some feature of their social identity—but since our interest is in cases of credibility deficit rather than excess, we shall be concerned only with negative identity prejudice. (Indeed, I shall tend to use ‘identity prejudice’ as short for ‘negative identity prejudice’.)" (Fricker 2007, 27-28)
 
 ## 💡 Examples
 
-- ‘Women are emotional’
-- ‘Muslims are extremists’
-- ‘HIV is a homosexual disease’
-- ‘Black people are violent’
+- Jurors' prejudice against Tom Robinson in _To Kill a Mockingbird_ because of his racial identity. 
 
 ## 🔗 Relations
 
@@ -17,7 +14,7 @@
 
 ## 📚 References
 
-- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002
+- Fricker, Miranda. 2007. _Epistemic Injustice: Power and the Ethics of Knowing_. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198237907.001.0001.
 
 ---
 
