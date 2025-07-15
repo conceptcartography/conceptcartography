@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "The point of departure for standpoint theorizing is a recognition that there is no "view from nowhere"; contingent histories, social context and relations, inevitably affect what epistemic agents know (including explicit knowledge as well as tacit experiential knowledge), and shape the hermeneutic resources, inferential heuristics, and other epistemic resources they bring to bear in generating and adjudicating knowledge claims." (Wylie, 2012, p. 61)
+> "The point of departure for standpoint theorizing is a recognition that there is no "view from nowhere"; contingent histories, social context and relations, inevitably affect what epistemic agents know (including explicit knowledge as well as tacit experiential knowledge), and shape the hermeneutic resources, inferential heuristics, and other epistemic resources they bring to bear in generating and adjudicating knowledge claims." (Wylie 2012, 61)
 
 ## 🔗 Relations
 
@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Wylie, Alison. 2012. “Feminist Philosophy of Science: Standpoint Matters.” Proceedings and Addresses of the American Philosophical Association 86 (2): 47–76.
+- Wylie, Alison. 2012. “Feminist Philosophy of Science: Standpoint Matters.” _Proceedings and Addresses of the American Philosophical Association_ 86 (2): 47–76. https://www.jstor.org/stable/43661298
 
 ---
 
