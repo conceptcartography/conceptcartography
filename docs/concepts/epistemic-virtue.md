@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "An attractive development in contemporary philosophy of science is an increased interest in the significance to scientific enquiry of various virtues – excellent character traits, attitudes, sensibilities, and ways of thinking. Popular candidates include curiosity, open-mindedness, and the procedural epistemic virtues, like diligence and conscientiousness (Paternotte and Ivanova 2017)." (Kidd 2020, 1)
+> "An attractive development in contemporary philosophy of science is an increased interest in the significance to scientific enquiry of various virtues – excellent character traits, attitudes, sensibilities, and ways of thinking. Popular candidates include curiosity, open-mindedness, and the procedural epistemic virtues, like diligence and conscientiousness" (Kidd 2020, 1).
 
 ## 🔗 Relations
 
