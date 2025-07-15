@@ -1,6 +1,8 @@
 # epistemic humility
 
-## 📖 Definitions.
+## 📖 Definitions
+
+>work in progress
 
 ## 🔗 Relations
 
