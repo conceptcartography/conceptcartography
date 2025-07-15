@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” _Social Epistemology_ 28 (2): 115–38. https: doi.org/10.1080/02691728.2013.782585.
+- Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” _Social Epistemology_ 28 (2): 115–38. https://doi.org/10.1080/02691728.2013.782585.
 
 ---
 
