@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "unjust inequalities or unfair treatment of people or contributions based on features of their language." (Peters, 2024, p. 1513)
+> "unjust inequalities or unfair treatment of people or contributions based on features of their language." (Peters 2024, 1513)
 
 ## 💡 Examples
 
@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.
+- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” _Philosophical Psychology_ 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.
 
 ---
 
