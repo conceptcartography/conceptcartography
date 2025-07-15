@@ -6,7 +6,7 @@
 
 ## 📚 References
 
-- Fricker, Miranda. 2007. _Epistemic Injustice: Power and the Ethics of Knowing_. https: doi.org/10.1093/acprof:oso/9780198237907.003.0002
+- Fricker, Miranda. 2007. _Epistemic Injustice: Power and the Ethics of Knowing_. https://doi.org/10.1093/acprof:oso/9780198237907.003.0002
 
 ---
 
