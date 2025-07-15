@@ -15,7 +15,7 @@
 
 ## 📚 References
 
-- Alcoff, Linda Martín. 2022. “Extractivist Epistemologies.” _Tapuya: Latin American Science, Technology and Society_ 5 (1). https://doi.org/10.1080/25729861.2022.2127231
+- Alcoff, Linda Martín. 2022. “Extractivist Epistemologies.” _Tapuya: Latin American Science, Technology and Society_ 5 (1): 2127231. https://doi.org/10.1080/25729861.2022.2127231
 
 ---
 
