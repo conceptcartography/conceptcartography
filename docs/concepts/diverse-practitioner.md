@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "a member of an epistemic community who is currently underrepresented in terms of their social and material location or in terms of their projects and perspectives"  (Fehr and Minji 2022, 4).
+> "a member of an epistemic community who is currently underrepresented in terms of their social and material location or in terms of their projects and perspectives"  (Fehr and Jones 2022, 4).
 
 ## 💡 Examples
 
@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Fehr, Carla, and Jones, Janet Minji. 2022. "Culture, Exploitation, and Epistemic Approaches to Diversity." Synthese 200 (465). [https:doi.org/10.1007/s11229-022-03787-8.](https://doi.org/10.1007/s11229-022-03787-8)
+- Fehr, Carla, and Jones, Janet Minji. 2022. "Culture, Exploitation, and Epistemic Approaches to Diversity." _Synthese_ 200 (6): 465. [https://doi.org/10.1007/s11229-022-03787-8.](https://doi.org/10.1007/s11229-022-03787-8)
 
 ---
 
