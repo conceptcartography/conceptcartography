@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "epistemologies that go beyond establishing warrantability of knowledge claims to uncovering the power dimensions of knowledge practice. ... Feminist and other liberatory epistemologies thus cannot only be correctives to standard epistemologies, but must also at times separate or withdraw from dominant ways of making sense of the world." (Tuana, 2006, pp.13-14)
+> "epistemologies that go beyond establishing warrantability of knowledge claims to uncovering the power dimensions of knowledge practice. ... Feminist and other liberatory epistemologies thus cannot only be correctives to standard epistemologies, but must also at times separate or withdraw from dominant ways of making sense of the world." (Tuana 2006, 13-14)
 
 ## 💡 Examples
 
@@ -15,7 +15,7 @@
 
 ## 📚 References
 
-- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” Hypatia 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.
+- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” _Hypatia_ 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.
 
 ---
 
