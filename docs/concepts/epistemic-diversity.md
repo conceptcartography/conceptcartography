@@ -6,7 +6,7 @@
 
 > "We call ‘epistemic diversity’ the ability or possibility of producing diverse and rich epistemic apparati to make sense of the world around us. Such epistemic apparati may be sophisticated philosophical conceptualisations or theories, or their corresponding folk theories that each one of us has, in virtue of their experience as epistemic agent and language user in given cultural contexts" (Gobbo and Russo 2020, 185).
 
-> "differences among situated knowers ... These include differences in cognitive capacity, experience, and expertise; in access to information and the heuristics that make it intelligible; and in motivating interests and orienting standpoint" (Wylie 2006, p. 1).
+> "differences among situated knowers ... These include differences in cognitive capacity, experience, and expertise; in access to information and the heuristics that make it intelligible; and in motivating interests and orienting standpoint" (Wylie 2006, 1).
 
 > "the condition or fact of being different or varied, which affects the development and/or understanding of knowledge" (Leonelli 2022).
 
