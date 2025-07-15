@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Bueter, Anke. 2024. _Feminist Philosophy of Science_. Cambridge University Press. https: doi.org/10.1017/9781108956055.
+- Bueter, Anke. 2024. _Feminist Philosophy of Science_. Cambridge University Press. https://doi.org/10.1017/9781108956055.
 
 ---
 
