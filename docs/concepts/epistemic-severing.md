@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "Epistemic severing is the act of cutting off specific historically and culturally situated communities to historically remove or blur their contbutions to historical lineages in the scientific knowledge production." (Massimi, 2022, p. 350)
+> "Epistemic severing is the act of cutting off specific historically and culturally situated communities to historically remove or blur their contbutions to historical lineages in the scientific knowledge production." (Massimi 2022, 350)
 
 ## 💡 Examples
 
@@ -15,7 +15,7 @@
 
 ## 📚 References
 
-- Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science. Oxford, New York: Oxford University Press.
+- Massimi, Michela. 2022. _Perspectival Realism_. Oxford University Press. https://doi.org/10.1093/oso/9780197555620.001.0001 
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> Appropriation and branding of bodies of knowledge claims and practices as a trademark of one community. "A label or mark in scientific discourse (e.g. ‘Maxwell’s equations’) becomes an epistemic trademark (e.g. ‘Maxwellian electromagnetic theory’) when it ends up concealing the complex historical lineages and blurring the epistemic contributions of various communities." (Massimi, 2022, p. 356)
+> "A label or mark in scientific discourse (e.g. ‘Maxwell’s equations’) becomes an epistemic trademark (e.g. ‘Maxwellian electromagnetic theory’) when it ends up concealing the complex historical lineages and blurring the epistemic contributions of various communities." (Massimi 2022, 356)
 
 ## 💡 Examples
 
@@ -16,7 +16,7 @@
 
 ## 📚 References
 
-- Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science. Oxford, New York: Oxford University Press.
+- Massimi, Michela. 2022. _Perspectival Realism_. Oxford University Press. https://doi.org/10.1093/oso/9780197555620.001.0001 
 
 ---
 

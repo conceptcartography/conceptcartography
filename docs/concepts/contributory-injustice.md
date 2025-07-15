@@ -18,8 +18,8 @@
 
 ## 📚 References
 
-- Dotson, Kristie. 2012. "A Cautionary Tale: On Limiting Epistemic Oppression." Frontiers: A Journal of Women Studies 33 (1): 24-47. https://dx.doi.org/10.1353/fro.2012.a472779.
-- Pohlhaus, Gaile Jr. 2017. "Varieties of Epistemic Injustice." In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge. https: doi.org/10.4324/9781315212043.
+- Dotson, Kristie. 2012. "A Cautionary Tale: On Limiting Epistemic Oppression." _Frontiers: A Journal of Women Studies_ 33 (1): 24-47. https://dx.doi.org/10.1353/fro.2012.a472779.
+- Pohlhaus, Gaile Jr. 2017. "Varieties of Epistemic Injustice." In _The Routledge Handbook of Epistemic Injustice_, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge. https://doi.org/10.4324/9781315212043.
 
 ---
 

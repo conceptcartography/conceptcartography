@@ -6,7 +6,7 @@
 
 ## 💡 Examples
 
-- "Baldwin described the predicament of the black man in the United States as an “endless struggle to achieve . . . human identity, human authority” after internalizing  fear as deep as the marrow of the bone
+- "Baldwin described the predicament of the black man in the United States as an “endless struggle to achieve . . . human identity, human authority” after internalizing fear as deep as the marrow of the bone
 - doubt that he was worthy of life, since everyone around him denied it
 - . . . rage, hatred, and murder, hatred for white men so deep that it often turned against him and his own, and made all love, all trust, all joy all life impossible" (Baldwin 1998, 98 as cited by Medina 2018, 254).
 
@@ -16,8 +16,8 @@
 
 ## 📚 References
 
-- Medina, José. "Epistemic Injustice and Epistemologies of Ignorance." In The Routledge Companion to Philosophy of Race, edited by Paul C. Taylor, Linda Martín Alcoff, Luvell Anderson. Routledge, 2017. https://doi.org/10.4324/9781315884424
-- Baldwin, James. “The Fire Next Time.” In Collected Essays, Edited by Toni Morrison. Penguin Random House, 1998.
+- Medina, José. 2017. "Epistemic Injustice and Epistemologies of Ignorance." In The _Routledge Companion to Philosophy of Race_, edited by Paul C. Taylor, Linda Martín Alcoff, Luvell Anderson. Routledge. https://doi.org/10.4324/9781315884424
+- Baldwin, James. 1998. “The Fire Next Time.” In _Collected Essays_, Edited by Toni Morrison. Penguin Random House.
 
 ---
 

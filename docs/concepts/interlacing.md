@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "without ever losing their historical and cultural identity, they the perspectives nevertheless collectively feed into cosmopolitan knowledge." (Massimi, 2022, p. 340) "Any such encounters where one scientific perspective imposes itself upon others for the purpose of intellectual dominance, political oppression, and socioeconomic exclusion results in endemic varieties of epistemic injustice." (Massimi, 2022, p. 340)
+> "Scientific perspectives ‘interlace’ in the sense that without ever losing their historical and cultural identity, they nevertheless _collectively_ feed into cosmopolitan knowledge. [...] ‘interlacing’ captures how historically a number of situated scientific perspectives have encountered and traded with one another some of their tools, instruments and techniques. As a result of these encounters and trades, some of these tools changed their _use_, so that tracking the particular history of any such tool via interlaced scientific perspectives becomes a way of tracking the evolution of knowledge concerning particular phenomena elicited by that tool" (Massimi 2022, 339-40).
 
 ## 🔗 Relations
 
@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science. Oxford, New York: Oxford University Press.
+- Massimi, Michela. 2022. _Perspectival Realism_. Oxford University Press. https://doi.org/10.1093/oso/9780197555620.001.0001 
 
 ---
 

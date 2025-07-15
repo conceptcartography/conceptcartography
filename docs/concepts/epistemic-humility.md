@@ -1,8 +1,8 @@
 # epistemic humility
 
-## 📖 Definitions.
+## 📖 Definitions
 
-> (cited in Alcoff 2022)
+>work in progress
 
 ## 🔗 Relations
 

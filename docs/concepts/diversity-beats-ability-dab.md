@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Reijula, Samuli, and Jaakko Kuorikoski. 2021. “The Diversity-Ability Trade-Off in Scientific Problem Solving.” Philosophy of Science 88 (5): 894–905. https://doi.org/10.1086/714938.
+- Reijula, Samuli, and Jaakko Kuorikoski. 2021. “The Diversity-Ability Trade-Off in Scientific Problem Solving.” _Philosophy of Science_ 88 (5): 894–905. https://doi.org/10.1086/714938.
 
 ---
 

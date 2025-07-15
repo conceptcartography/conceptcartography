@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Ndlovu-Gatsheni, Sabelo. _Epistemic freedom in Africa: Deprovincialization and decolonization._ Routledge, 2018.
+- Ndlovu-Gatsheni, Sabelo. 2018. _Epistemic freedom in Africa: Deprovincialization and decolonization._ Routledge.
 
 ---
 
