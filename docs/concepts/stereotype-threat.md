@@ -6,7 +6,7 @@
 
 ## 💡 Examples
 
-- "Black students to fill out a demographic survey question about their race before taking a test had a negative impact on their test performance" (Fehr and Minji 2022, 12)
+- "Black students to fill out a demographic survey question about their race before taking a test had a negative impact on their test performance" (Fehr and  2022, 12)
 
 ## 🔗 Relations
 
@@ -14,7 +14,7 @@
 
 ## 📚 References
 
-- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. _Synthese_ 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.
+- Fehr, Carla, and Janet  Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. _Synthese_ 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.
 
 ---
 
