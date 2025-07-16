@@ -2,13 +2,15 @@
 
 ## 📖 Definitions
 
-> Systemic and socially constructed form of ignorance that sustains white supremacy by distorting, denying, or ignoring racial realities, highlighting how dominant racial groups often remain unaware—intentionally or unintentionally—of the injustices and experiences of marginalized groups, thereby maintaining racial inequality.
+> "I would suggest that “white ignorance” has, whether centrally or secondarily, been a theme of many of the classic fictional and nonfictional works of the African American experience, and also that of other people of color. In his introduction to a collection of black writers’ perspectives on whiteness, David Roediger (1998) underlines the fundamental epistemic _asymmetry_ between typical white views of blacks and typical black views of whites: these are not cognizers linked by a reciprocal ignorance but rather groups whose respective privilege and subordination tend to produce self-deception, bad faith, evasion, and misrepresentation, on the one hand, and more veridical perceptions, on the other hand. Thus he cites James Weldon Johnson’s remark “colored people of this country know and understand the white people better than the white people know and understand them” (5)." (Mills 2007, 17)
+
+> "What I want to pin down, then, is the idea of an ignorance, a non-knowing, that is not contingent, but in which race—white racism and/or white racial domination and their ramifications—plays a crucial causal role." (Mills 2007, 20)
+
 
 ## 💡 Examples
 
-- "Fricker argues that white ignorance often functions as the source of epistemic injustices, but not of distinctively hermeneutical injustices, since it typically concerns “a dysfunction at the level of belief and evidence rather than the level of conceptual repertoire and intelligibility” (Fricker, 2016, p. 173). However, she acknowledges that there can be cases of white ignorance (“albeit non-standard”) that include “the suppression of concepts” and result in “a genuine deficit in hermeneutical resources for the white community” (Fricker, 2016, p. 174)" (as cited by Medina 2017, p. 44).
+- Mills gives the example of the protagonist from Ralph Ellison's 1995 novel _Invisible Man_, who recounts the way white people systematically misperceive him. 
 
-NB: Fricker objects against using white ignorance as an agentially produced form of hermeneutical injustice, but Medina (with Pohlhaus's willful herm injustice in the background) thinks it does (see Medina, 2017, p. 45)
 
 ## 🔗 Relations
 
@@ -17,6 +19,7 @@ NB: Fricker objects against using white ignorance as an agentially produced form
 ## 📚 References
 
 - Mills, Charles. 2007. “White Ignorance.” In _Race and Epistemologies of Ignorance_, edited by Shannon Sullivan and Nancy Tuana. State University of New York Press. https://muse.jhu.edu/pub/163/monograph/chapter/121151.
+- Roediger, David R., ed. 1998. _Black on White: Black Writers on What It Means To Be White_. Schocken Books. 
 
 ---
 
