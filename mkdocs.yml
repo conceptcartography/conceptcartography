@@ -1,6 +1,6 @@
 site_name: Concept Cartography
 site_url: https://conceptcartography.github.io/conceptcartography/
-repo_url: https://github.com/conceptcartography/conceptcartography
+repo_url: https://github.com/conceptcartography/conceptcartography/
 edit_uri: edit/main/docs/
 theme:
   name: material
@@ -43,6 +43,7 @@ extra:
   generator: false
   version:
     provider: mike
+    default: latest
   social:
     - icon: fontawesome/brands/mastodon 
       link: https://fosstodon.org/@squidfunk
