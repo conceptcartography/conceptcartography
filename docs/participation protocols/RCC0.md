@@ -1,6 +1,5 @@
-This map is a device for orientation in the complex intellectual landscape of epistemic diversity. It does not claim to chart definitively, but rather offers a guide to explore how ideas might be connected, to locate ongoing debates, and to identify areas for deeper inquiry. 
+# RCC0: Referencing Concept Cartography 
 
-Use the map to locate a concept you’re curious about, such as epistemic injustice, diversity development work, interlacing, well-ordered science. Each node functions like a search result, pointing you to relevant definitions, examples, and references. 
 
 If you’re **referencing a concept or definition** you found on the map, please cite the original source(s) listed in the node.
 
