@@ -33,7 +33,7 @@ plugins:
   - search
   - tags
   - git-committers:
-      repository: natesheehan/conceptcartography
+      repository: conceptcartography/conceptcartography
       branch: main
       enabled: !ENV [CI, false]
   - git-revision-date-localized:
