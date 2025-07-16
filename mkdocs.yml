@@ -43,7 +43,6 @@ extra:
   generator: false
   version:
     provider: mike
-    default: stable
   social:
     - icon: fontawesome/brands/mastodon 
       link: https://fosstodon.org/@squidfunk
