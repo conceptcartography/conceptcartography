@@ -2,11 +2,13 @@
 
 ## Definitions
 
-> work in progress
+> "Ignorance in the realm of science is typically depicted as a gap in knowledge: something that we do not (yet) know. But the condition of not knowing is not (always) that simple. Just as any adequate account of knowledge must include far more than the truth of that piece of knowledge-including, for instance, an analysis of why those who are in a position of authority (which itself requires a genealogical analysis) have come to accept that belief as true-so too ignorance in the fields of knowledge production is far more complex an issue than something we simply do not yet know. In this essay, I use the example of feminist efforts to recover and create knowledge of women's bodies in the contemporary women's health movement as a case study for cataloging different types of ignorance and shedding light on the nature of their production." (Tuana 2006, 3)
+
+> "epistemologies of ignorance also urge us to look at types of knowledge deemed dangerous, to identify to which groups of people they are so judged, and to examine institutional structures for rendering such individuals "ignorant."" (Tuana 2006, 9)
 
 ## 💡 Examples
 
-- women's health movement
+- Tuana suggests that epistemologies of ignorance were a key part of the women's health movement. "These feminist health activists were committed to uncovering the ways women's bodies had been ignored, to examining knowledge that had been withheld from women and certain groups of men, to reclaiming knowledges that had been denied or suppressed, and to developing new knowledge freed from the confines of traditional frameworks." (Tuana 2006, 2)
 
 ## 📚 References
 
