@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "epistemic and social coercion may be used to produce testimony that is subordinating" (Pohlhaus, 2017, p. 22)
+> "speech that an agent is (in some sense) made to produce" (McKinney 2016, 259).
 
 ## 💡 Examples
 
