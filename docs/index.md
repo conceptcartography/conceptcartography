@@ -8,8 +8,6 @@
 ">Concept Cartography</h1>
 <img src="assets/homelogo.gif" style="border:black 9px solid;height:400px;width:600px;display:block;margin:auto;">
 
-A concept library from academic research
-
 # Our Community 
 
 <div id="contributors" style="
