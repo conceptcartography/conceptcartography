@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "epistemic and social coercion may be used to produce testimony that is subordinating" (Pohlhaus, 2017, p. 22)
+> "epistemic and social coercion may be used to produce testimony that is subordinating" (Pohlhaus 2017, 22)
 
 ## 💡 Examples
 
@@ -14,7 +14,8 @@
 
 ## 📚 References
 
-- McKinney, R. (2016) “Extracted speech,” Social Theory and Practice, 42(2): 258–284.
+- McKinney, R. 2016. “Extracted speech.” _Social Theory and Practice_, 42(2): 258–284.
+- Pohlhaus Jr., Gaile. 2017. “Varieties of Epistemic Injustice.” In The Routledge Handbook of Epistemic Injustice, edited by Ian James Kidd, José Medina, and Gaile Pohlhaus Jr. Routledge. https://doi.org/10.4324/9781315212043.
 
 ---
 
