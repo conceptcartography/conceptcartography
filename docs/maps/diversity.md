@@ -1,8 +1,5 @@
 # Epistemic Diversity
 
-## ✍️ Authors
-Rose Trappes, Nathanael Sheehan, Rena Alcalay 
-
 ## ❔ Description
 Who and what is included or excluded in knowledge practice? How does that matter both for what and how we know, and for recognition, equity, and justice? These are topics at the forefront of fields like feminist epistemology, critical race studies, social epistemology, political epistemology, indigenous studies, science and technology studies, and philosophy of science.
 
@@ -41,19 +38,26 @@ This map was created based primarily on readings from an interdisciplinary, inte
 
 #graph-wrapper.fullscreen {
   position: fixed;
-  top: 0; left: 0;
-  width: 100vw; height: 100vh;
-  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 99999; /* Make sure it’s above the sidebar */
   background: #ffffff;
+  margin: 0;
+  padding: 0;
 }
 
 #graph-wrapper.fullscreen canvas,
 #graph-wrapper.fullscreen #graph-container {
   width: 100vw !important;
   height: 100vh !important;
+  margin: 0;
+  padding: 0;
   border-radius: 0;
   box-shadow: none;
 }
+
 #graph-controls {
   position: absolute;
   top: 1rem;
@@ -108,12 +112,19 @@ This map was created based primarily on readings from an interdisciplinary, inte
 }
 
 #graph-legend {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(6px);
   font-size: 0.85em;
-  padding: 0.5rem 1rem;
-  background: var(--md-code-bg-color);
-  border-radius: 6px;
-  margin-top: 1rem;
+  text-align: center;
+  padding: 0.6rem 1rem;
+  border-top: 1px solid #ccc;
+  z-index: 999;
 }
+
 
 #search-box {
   background: white;
@@ -123,22 +134,27 @@ This map was created based primarily on readings from an interdisciplinary, inte
 datalist option {
   font-size: 0.9rem;
 }
+.legend-item {
+  cursor: pointer;
+  padding: 0 4px;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.legend-item:hover {
+  border-bottom: 2px solid currentColor;
+}
+
+.legend-item.active {
+  font-weight: bold;
+  border-bottom: 2px solid currentColor;
+}
 
 </style>
 
 
 ## 🗺️ Map 
-<div id="graph-legend">
-  <strong>Relation types (edge colors):</strong><br>
-  <span style="color: blue;">Type of</span>, 
-  <span style="color: green;">Part of</span>, 
-  <span style="color: purple;">Produces</span>, 
-  <span style="color: red;">Counteracts</span>, 
-  <span style="color: orange;">Similar to</span>, 
-  <span style="color: gray;">Equivalent to</span>, 
-  <span style="color: black;">Distinct from</span>, 
-  <span style="color: cyan;">Depends on</span>
-</div>
+
 
 <div id="graph-wrapper">
 <div id="graph-controls">
@@ -149,6 +165,42 @@ datalist option {
 </div>
 
   <div id="graph-container"></div>
+  <div id="concept-details" style="
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 300px;
+  max-height: 80vh;
+  overflow-y: auto;
+  background: #ffffffee;
+  backdrop-filter: blur(4px);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  font-size: 0.95rem;
+  color: #1f2937;
+  display: none; /* Hidden by default */
+  z-index: 1000;
+">
+  <h3 id="details-title" style="margin-top:0;"></h3>
+  <p id="details-definition"></p>
+  <p><strong>📚 References:</strong></p>
+  <p id="details-references"></p>
+  <p><a id="details-link" href="#" target="_blank" style="color: #007acc;">🔗 View full concept →</a></p>
+</div>
+<div id="graph-legend">
+  <strong>Relation types (click to filter):</strong><br>
+  <span class="legend-item" data-type="type of" style="color: blue;">Type of</span>, 
+  <span class="legend-item" data-type="part of" style="color: green;">Part of</span>, 
+  <span class="legend-item" data-type="produces" style="color: purple;">Produces</span>, 
+  <span class="legend-item" data-type="counteracts" style="color: red;">Counteracts</span>, 
+  <span class="legend-item" data-type="similar to" style="color: orange;">Similar to</span>, 
+  <span class="legend-item" data-type="equivalent to" style="color: gray;">Equivalent to</span>, 
+  <span class="legend-item" data-type="distinct from" style="color: black;">Distinct from</span>, 
+  <span class="legend-item" data-type="depends on" style="color: cyan;">Depends on</span>
+</div>
+
 </div>
 
 
@@ -289,24 +341,61 @@ function initGraph() {
         .linkDirectionalParticles(5)
         .linkDirectionalParticleWidth(2)
         .linkDirectionalParticleColor(link => colorMap[normalize(link.type)] || 'gray')
-.onNodeClick(node => {
-  // Build metadata HTML
-  const metaHTML = `
-    <div style="padding: 1.5rem; max-width: 500px;">
-      <h2 style="margin-top: 0; font-size: 1.5rem; color: #1f2937;">${node.title}</h2>
-      <p style="color: #1f2937;"><strong>📖 Definition:</strong></p>
-      <p style="color: #1f2937;">${node.definition || "No definition available."}</p>
-      <p style="color: #1f2937;"><strong>📚 References:</strong></p>
-      <p style="color: #1f2937;">${node.reference 
-          ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
-          : "No references."}</p>
-<p><a href="../../concepts/${slugify(node.id)}" target="_blank" style="color: #007acc;">🔗 View full concept →</a></p>
+let activeFilters = new Set();
 
-    </div>
-  `;
+document.querySelectorAll('.legend-item').forEach(item => {
+  item.addEventListener('click', () => {
+    const type = item.dataset.type.toLowerCase();
 
-  showModal(metaHTML);
+    if (activeFilters.has(type)) {
+      activeFilters.delete(type);
+      item.classList.remove('active');
+    } else {
+      activeFilters.add(type);
+      item.classList.add('active');
+    }
+
+    updateGraphFilters();
+  });
 });
+
+function updateGraphFilters() {
+  const links = Graph.graphData().links;
+
+  if (activeFilters.size === 0) {
+    // Show all links if no filters
+    Graph.linkVisibility(() => true);
+    Graph.nodeVisibility(() => true);
+    return;
+  }
+
+  // Filter links and nodes based on active relation types
+  const visibleLinks = links.filter(link => activeFilters.has((link.type || '').toLowerCase()));
+  const visibleNodes = new Set();
+
+  visibleLinks.forEach(link => {
+    visibleNodes.add(link.source.id);
+    visibleNodes.add(link.target.id);
+  });
+
+  Graph.linkVisibility(link => activeFilters.has((link.type || '').toLowerCase()));
+  Graph.nodeVisibility(node => visibleNodes.has(node.id));
+}
+
+Graph.onNodeClick(node => {
+  highlightNode(node);
+});
+Graph.onBackgroundClick(() => {
+  // Reset node and link colors
+  Graph.nodeColor(() => '#3b3b3b'); // Default grey for nodes
+  Graph.linkColor(() => '#cccccc'); // Default light grey for links
+
+  // Hide the details panel
+  document.getElementById('concept-details').style.display = 'none';
+
+
+});
+
 
       
         // Wait for layout and container to stabilize, then zoom and center the graph
@@ -345,30 +434,61 @@ function toggleFullScreen() {
   const wrapper = document.getElementById('graph-wrapper');
   const button = document.getElementById('fullscreen-toggle');
   const isFullscreen = wrapper.classList.toggle('fullscreen');
-  Graph.width(isFullscreen ? window.innerWidth : wrapper.offsetWidth);
-  Graph.height(isFullscreen ? window.innerHeight : 600);
+
+  // Force redraw of canvas at fullscreen size
+  setTimeout(() => {
+    Graph.width(window.innerWidth);
+    Graph.height(window.innerHeight);
+  }, 100); // Delay ensures DOM fully updated
+
   button.innerText = isFullscreen ? "Exit Full Screen" : "Full Screen";
 }
 
 function focusOnConcept(query) {
-  if (!Graph || !query) return;
+  if (!Graph || !query.trim()) return;
 
   const normalized = query.toLowerCase().trim();
-  const node = Graph.graphData().nodes.find(n => n.id.toLowerCase() === normalized);
+  const node = Graph.graphData().nodes.find(n => n.id.toLowerCase() === normalized)
+             || Graph.graphData().nodes.find(n => n.id.toLowerCase().includes(normalized));
 
   if (node) {
+    // Trigger the same behaviour as clicking on a node
     highlightNode(node);
-  } else {
-    const partial = Graph.graphData().nodes.find(n => n.id.toLowerCase().includes(normalized));
-    if (partial) {
-      highlightNode(partial);
-    }
+
+    // Reset the search box
+    document.getElementById('search-box').value = '';
   }
 }
+
 
 function highlightNode(node) {
   if (!node) return;
 
+  // Highlight node and its neighbors
+  const neighbors = new Set();
+  const links = Graph.graphData().links;
+
+  links.forEach(link => {
+    if (link.source.id === node.id) neighbors.add(link.target.id);
+    if (link.target.id === node.id) neighbors.add(link.source.id);
+  });
+
+  // Update node colors
+  Graph.nodeColor(n => {
+    if (n.id === node.id) return '#facc15'; // Highlight clicked node
+    if (neighbors.has(n.id)) return '#38bdf8'; // Blue for neighbors
+    return '#3b3b3b'; // Default grey
+  });
+
+  // Update link colors
+  Graph.linkColor(link => {
+    if (link.source.id === node.id || link.target.id === node.id) {
+      return '#f87171'; // Red for connected links
+    }
+    return '#cccccc'; // Default light grey
+  });
+
+  // Zoom camera to node
   const distance = 100;
   const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z || 1);
 
@@ -382,16 +502,16 @@ function highlightNode(node) {
     1000
   );
 
-  const originalColor = '#3b3b3b';
-  const highlightColor = '#facc15'; // bright yellow
-
-  const nodeColorFn = n => n.id === node.id ? highlightColor : originalColor;
-  Graph.nodeColor(nodeColorFn);
-
-  setTimeout(() => {
-    Graph.nodeColor(() => originalColor);
-  }, 2000);
+  // Update details panel
+  document.getElementById('details-title').innerText = node.title;
+  document.getElementById('details-definition').innerText = node.definition || "No definition available.";
+  document.getElementById('details-references').innerHTML = node.reference
+    ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
+    : "No references.";
+  document.getElementById('details-link').href = `../../concepts/${slugify(node.id)}`;
+  document.getElementById('concept-details').style.display = 'block';
 }
+
 
 
 
@@ -421,3 +541,6 @@ document.addEventListener('keydown', e => {
   
   document.head.appendChild(forceGraphScript);
 </script>
+
+## ✍️ Authors
+Rose Trappes, Nathanael Sheehan, Rena Alcalay 

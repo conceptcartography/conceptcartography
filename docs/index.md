@@ -6,7 +6,7 @@
   font-weight: 600;
   color: var(--md-typeset-color, #333);
 ">Concept Cartography</h1>
-<img src="assets/homelogo.gif" style="border:black 9px solid;border-radius:50%;height:200px;width:200px;display:block;margin:auto;">
+<img src="assets/homelogo.gif" style="border:black 9px solid;height:400px;width:600px;display:block;margin:auto;">
 
 A concept library from academic research
 
