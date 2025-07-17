@@ -10,7 +10,7 @@
 
 ## 🔗 Relations
 
-- **similar to**: [epistemic injustice](./epistemic-injustice.md)
+- **coextensive with**: [epistemic injustice](./epistemic-injustice.md)
 - **distinct from**: [epistemic injustice](./epistemic-injustice.md)
 
 ## 📚 References
