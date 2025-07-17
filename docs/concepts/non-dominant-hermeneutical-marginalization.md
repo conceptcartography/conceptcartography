@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group (Mason 2011, 298).
+> "non-dominant hermeneutical marginalization describes unwarranted epistemic exclusions. Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group" (Goldstein 2022, 1865; cf. Mason 2011, 298).
 
 ## 💡 Examples
 
@@ -11,6 +11,7 @@
 ## 🔗 Relations
 
 - **produces**: [testimonial injustice](./testimonial-injustice.md)
+- **similar to**: non-dominant hermeneutical resources
 
 ## 📚 References
 
