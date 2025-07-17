@@ -6,6 +6,7 @@
 
 ## 🔗 Relations
 
+- **produces**: [epistemic injustice](./epistemic-injustice.md)
 - **counteracts**: [epistemic injustice](./epistemic-injustice.md)
 
 ## 📚 References
