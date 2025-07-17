@@ -149,41 +149,184 @@ datalist option {
   font-weight: bold;
   border-bottom: 2px solid currentColor;
 }
+.icon-btn {
+  position: relative;
+  background-color: #f5f5f5;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.icon-btn:hover {
+  background-color: #e8e8e8;
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.icon-btn:active {
+  background-color: #ddd;
+  transform: scale(0.95);
+}
+
+.icon-btn i {
+  pointer-events: none;
+}
+
+/* Tooltip styling */
+.icon-btn::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: -1.8rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(60, 60, 60, 0.9);
+  color: #fff;
+  padding: 4px 8px;
+  font-size: 0.8rem;
+  border-radius: 4px;
+  opacity: 0;
+  pointer-events: none;
+  white-space: nowrap;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.icon-btn:hover::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(4px);
+}
+#concept-details {
+  position: absolute;
+  top: 0rem;
+  right: 0rem;
+  width: clamp(240px, 22%, 300px); /* Responsive width */
+  max-height: 85vh;
+  max-width: 70vw;
+  overflow-y: auto;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(0.8rem, 0.9vw, 1rem);
+  color: #374151;
+  display: none; /* Hidden by default */
+  z-index: 1000;
+  transition: all 0.3s ease, transform 0.3s ease;
+}
+
+#concept-details h3 {
+  margin-top: 0;
+  font-size: clamp(1rem, 1.2vw, 1.3rem);
+  line-height: 1.2;
+  color: #111827;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+
+#concept-details p {
+  margin: 0.4rem 0;
+  line-height: 1.6;
+  color: #4b5563;
+  font-size: clamp(0.75rem, 0.85vw, 0.95rem);
+}
+
+#concept-details strong {
+  display: block;
+  margin-top: 0.8rem;
+  color: #1f2937;
+  font-size: clamp(0.8rem, 0.9vw, 1rem);
+  border-top: 1px solid #e5e7eb;
+  padding-top: 0.5rem;
+}
+
+#concept-details a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: clamp(0.75rem, 0.85vw, 0.95rem);
+  transition: color 0.2s ease;
+}
+
+#concept-details a:hover {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+
+#concept-details::-webkit-scrollbar {
+  width: 5px;
+}
+
+#concept-details::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 2.5px;
+}
+
+@media (max-width: 768px) {
+  #concept-details {
+    width: 90vw;
+    left: 50%;
+    transform: translateX(-50%);
+    top: auto;
+    bottom: 1rem;
+    max-height: 50vh;
+    font-size: clamp(0.75rem, 1vw, 0.9rem);
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+  }
+
+  #concept-details h3 {
+    font-size: clamp(1rem, 1.4vw, 1.2rem);
+  }
+}
 
 </style>
 
 
 ## 🗺️ Map 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <div id="graph-wrapper">
 <div id="graph-controls">
   <input type="text" id="search-box" list="concepts-list" placeholder="Search concept..." />
-<datalist id="concepts-list"></datalist>
-  <button onclick="resetView()">Reset View</button>
-  <button id="fullscreen-toggle" onclick="toggleFullScreen()">Full screen</button>
+  <datalist id="concepts-list"></datalist>
+
+  <!-- Reset View Button -->
+  <button class="icon-btn" onclick="resetView()" data-tooltip="Reset View">
+    <i class="fas fa-undo-alt"></i>
+  </button>
+
+  <!-- Fullscreen Toggle Button -->
+  <button class="icon-btn" id="fullscreen-toggle" onclick="toggleFullScreen()" data-tooltip="Toggle Fullscreen">
+    <i class="fas fa-expand-arrows-alt" id="fullscreen-icon"></i>
+  </button>
+
+  <!-- Random Concept Button -->
+  <button class="icon-btn" onclick="jumpToRandomConcept()" data-tooltip="Jump to Random Concept">
+    <i class="fas fa-random"></i>
+  </button>
 </div>
 
+
+
   <div id="graph-container"></div>
-  <div id="concept-details" style="
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  width: 300px;
-  max-height: 80vh;
-  overflow-y: auto;
-  background: #ffffffee;
-  backdrop-filter: blur(4px);
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 1rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-  font-size: 0.95rem;
-  color: #1f2937;
-  display: none; /* Hidden by default */
-  z-index: 1000;
-">
+  <div id="concept-details">
   <h3 id="details-title" style="margin-top:0;"></h3>
+  <p><strong>📚 Defintions:</strong></p>
   <p id="details-definition"></p>
   <p><strong>📚 References:</strong></p>
   <p id="details-references"></p>
@@ -239,6 +382,17 @@ document.getElementById('search-box').addEventListener('keydown', function(e) {
 document.getElementById('search-box').addEventListener('change', function () {
   focusOnConcept(this.value);
 });
+
+function jumpToRandomConcept() {
+  if (!Graph) return;
+
+  const nodes = Graph.graphData().nodes;
+  if (nodes.length === 0) return;
+
+  const randomNode = nodes[Math.floor(Math.random() * nodes.length)];
+  highlightNode(randomNode);
+}
+
 
 function showModal(contentHTML) {
   // Create backdrop
@@ -328,19 +482,22 @@ function initGraph() {
         "depends on": "cyan"
       };
       const normalize = str => (str || "").toLowerCase().trim();
+Graph = ForceGraph3D()(document.getElementById('graph-container'))
+  .graphData(data)
+  .backgroundColor('#fdf6e3') // warm, creamy canvas like fabric
+  .nodeColor(() => '#dc2626') // deep red “stitch knots”
+  .nodeOpacity(1)             // flat, solid like thread
+  .nodeRelSize(3.5)           // small like embroidery knots
+  .linkColor(link => colorMap[normalize(link.type)] || '#7f5539') // earthy thread colours
+  .linkOpacity(0.9)           // strong thread appearance
+  .linkWidth(3)               // thick like embroidery floss
+  .linkCurveRotation(() => Math.PI / 6) // more natural thread curvature
+  .nodeVal(node => node.val)
+  .nodeLabel(node => node.title || node.id)
+  .linkDirectionalArrowLength(0) // no arrows
+  .linkDirectionalArrowRelPos(0);
 
-      Graph = ForceGraph3D()(document.getElementById('graph-container'))
-        .graphData(data)
-        .nodeLabel(node => node.title || node.id)
-        .nodeColor(() => 'black')
-        .nodeVal(node => node.val) // <--- Set size based on val
-        .linkColor(link => colorMap[normalize(link.type)] || 'green')
-        .linkWidth(1.5)
-        .linkOpacity(0.8)
-        .backgroundColor('#fdfdfd')
-        .linkDirectionalParticles(5)
-        .linkDirectionalParticleWidth(2)
-        .linkDirectionalParticleColor(link => colorMap[normalize(link.type)] || 'gray')
+
 let activeFilters = new Set();
 
 document.querySelectorAll('.legend-item').forEach(item => {
@@ -441,7 +598,15 @@ function toggleFullScreen() {
     Graph.height(window.innerHeight);
   }, 100); // Delay ensures DOM fully updated
 
-  button.innerText = isFullscreen ? "Exit Full Screen" : "Full Screen";
+  const icon = document.getElementById('fullscreen-icon');
+if (isFullscreen) {
+  icon.classList.remove('fa-expand-arrows-alt');
+  icon.classList.add('fa-compress-arrows-alt');
+} else {
+  icon.classList.remove('fa-compress-arrows-alt');
+  icon.classList.add('fa-expand-arrows-alt');
+}
+
 }
 
 function focusOnConcept(query) {
