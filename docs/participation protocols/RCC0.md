@@ -10,7 +10,7 @@ If you're **referencing a relationship between concepts** (e.g., “epistemic de
 
 **Chicago Style**
 
-Alcalay, T., Trappes, R., and Sheehan, M. 2025. _Concept Cartography_ [Software]. Relation type: “Creative Agency depends on Epistemic Creativity.” Retrieved July 17, 2025, from https://conceptcartography.github.io/conceptcartography/concepts/creative-agency/
+Alcalay, Rena Beatrice, Sheehan, Nathanael and Rose Trappes. 2025. _Concept Cartography_ [Software]. Relation type: “Creative Agency depends on Epistemic Creativity.” Retrieved July 17, 2025, from https://conceptcartography.github.io/conceptcartography/concepts/creative-agency/
 
 
 _For instructions on how to add or suggest revisions to the map, visit our Participation Protocols._
