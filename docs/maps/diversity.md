@@ -209,6 +209,7 @@ datalist option {
   width: clamp(300px, 28%, 400px);
   max-height: 85vh;
   overflow-y: auto;
+  overflow-x: hidden;
   background: #f9fafb;
   border: 1px solid #e5e7eb;
   border-radius: 12px;
@@ -264,37 +265,50 @@ datalist option {
   background-color: #4b5563;
   transform: scale(1.05);
 }
-
-#concept-details a:hover {
-  color: #1d4ed8;
-  text-decoration: underline;
+.tabs {
+  display: flex;
+  flex-wrap: wrap; /* allow wrapping on small screens */
+  border-bottom: 2px solid #e5e7eb;
+  margin-bottom: 1rem;
+  gap: 0.4rem; /* spacing between buttons */
+  overflow-x: auto; /* horizontal scroll on overflow */
+  -webkit-overflow-scrolling: touch; /* smooth on iOS */
 }
 
-#concept-details::-webkit-scrollbar {
-  width: 5px;
+.tab-btn {
+  flex: 1 1 auto; /* grow and shrink as needed */
+  min-width: 100px; /* prevent too small buttons */
+  text-align: center;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  padding: 0.6rem 1rem;
+  font-weight: 600;
+  color: #4b5563;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap; /* prevent text wrapping */
 }
 
-#concept-details::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.3);
-  border-radius: 2.5px;
+.tab-btn.active {
+  color: #1a202c;
+  border-color: #3182ce;
 }
 
-@media (max-width: 768px) {
-  #concept-details {
-    width: 90vw;
-    left: 50%;
-    transform: translateX(-50%);
-    top: auto;
-    bottom: 1rem;
-    max-height: 50vh;
-    font-size: clamp(0.75rem, 1vw, 0.9rem);
-    border-radius: 16px;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
-  }
+.tab-btn:hover {
+  background-color: #f1f5f9;
+}
 
-  #concept-details h3 {
-    font-size: clamp(1rem, 1.4vw, 1.2rem);
-  }
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+
+
 }
 
 </style>
@@ -328,14 +342,26 @@ datalist option {
 
 
   <div id="graph-container"></div>
-  <div id="concept-details">
-  <h3 id="details-title" style="margin-top:0;"></h3>
-  <p><strong>📚 Defintions:</strong></p>
-  <p id="details-definition"></p>
-  <p><strong>📚 References:</strong></p>
-  <p id="details-references"></p>
-  <p><a id="details-link" href="#" target="_blank" style="color: #007acc;">🔗 View full concept →</a></p>
+<div id="concept-details">
+  <h3 id="details-title"></h3>
+  <div class="tabs">
+    <button class="tab-btn active" onclick="showTab(event, 'definition-tab')">📖 Definitions</button>
+    <button class="tab-btn" onclick="showTab(event, 'references-tab')">📚 References</button>
+    <button class="tab-btn" onclick="showTab(event, 'relations-tab')">🔗 Related</button>
+  </div>
+  <div id="definition-tab" class="tab-content active">
+    <p id="details-definition"></p>
+  </div>
+  <div id="references-tab" class="tab-content">
+    <p id="details-references"></p>
+  </div>
+  <div id="relations-tab" class="tab-content">
+    <div id="details-relations"></div>
+  </div>
+  <p style="margin-top:1rem;"><a id="details-link" href="#" target="_blank" style="color:#007acc;">🔗 View full concept →</a></p>
 </div>
+
+
 <div id="graph-legend">
   <strong>Relation types (click to filter):</strong><br>
   <span class="legend-item" data-type="type of" style="color: blue;">Type of</span>, 
@@ -386,6 +412,23 @@ document.getElementById('search-box').addEventListener('keydown', function(e) {
 document.getElementById('search-box').addEventListener('change', function () {
   focusOnConcept(this.value);
 });
+
+function showTab(evt, tabId) {
+  // Hide all tab contents
+  document.querySelectorAll('.tab-content').forEach(tab => {
+    tab.classList.remove('active');
+  });
+
+  // Deactivate all tab buttons
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+
+  // Activate the clicked tab
+  document.getElementById(tabId).classList.add('active');
+  evt.currentTarget.classList.add('active');
+}
+
 
 function jumpToRandomConcept() {
   if (!Graph) return;
@@ -682,15 +725,58 @@ const relatedConcepts = Array.from(relatedConceptsMap.values());
   );
 
   // Generate related concepts HTML
-  const relatedHTML = relatedConcepts.length > 0
-    ? `<strong>🔗 Related Concepts:</strong><div style="display:flex;flex-wrap:wrap;gap:0.4rem;margin-top:0.4rem;">
+  // Generate related concepts buttons under the title
+const relatedButtonsHTML = relatedConcepts.length > 0
+  ? `<div style="margin-top: 0.6rem; margin-bottom: 1rem; display: flex; flex-wrap: wrap; gap: 0.4rem;">
+        ${relatedConcepts.map(concept => `
+          <button class="relation-pill" style="
+            background-color: ${getRelationColor(concept.type)};
+            color: #fff;
+            padding: 0.35rem 0.75rem;
+            border: none;
+            border-radius: 999px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: transform 0.2s ease;"
+            onclick="focusOnConcept('${concept.id}')"
+            title="Relation: ${toTitleCase(concept.type)}">
+            ${concept.title}
+          </button>
+        `).join('')}
+     </div>`
+  : '';
+
+document.getElementById('details-title').innerHTML = `
+  ${node.title}
+  ${relatedButtonsHTML}
+`;
+
+
+  // Update details panel
+  // Update the popup content without wiping the tab structure
+document.getElementById('details-title').innerText = node.title;
+
+// Clean definition text
+const cleanDefinition = (node.definition || "")
+  .replace(/^>\s*/gm, "")
+  .trim();
+document.getElementById('details-definition').innerText = cleanDefinition || "No definition available.";
+
+// References
+document.getElementById('details-references').innerHTML = node.reference
+  ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
+  : "No references.";
+
+// Related Concepts
+document.getElementById('details-relations').innerHTML = relatedConcepts.length > 0
+  ? `<div style="display:flex;flex-wrap:wrap;gap:0.4rem;margin-top:0.4rem;">
         ${relatedConcepts.map(concept => `
           <span class="relation-pill" style="
             background-color: ${getRelationColor(concept.type)};
             color: white;
             padding: 0.3rem 0.6rem;
             border-radius: 999px;
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             cursor: pointer;
             white-space: nowrap;"
             onclick="focusOnConcept('${concept.id}')"
@@ -699,30 +785,20 @@ const relatedConcepts = Array.from(relatedConceptsMap.values());
           </span>
         `).join('')}
       </div>`
-    : '<em>No related concepts.</em>';
+  : '<em>No related concepts.</em>';
 
-  // Update details panel
-  document.getElementById('details-title').innerText = node.title;
-  document.getElementById('details-definition').innerText = node.definition || "No definition available.";
-  document.getElementById('details-references').innerHTML = node.reference
-    ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
-    : "No references.";
-  document.getElementById('concept-details').innerHTML = `
-  <h3 id="details-title">${node.title}</h3>
-  <p><strong>📚 Definitions:</strong></p>
-  <p id="details-definition">${node.definition || "No definition available."}</p>
-  <p><strong>📚 References:</strong></p>
-  <p id="details-references">${
-    node.reference
-      ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
-      : "No references."
-  }</p>
-  ${relatedHTML}
-  <p><a id="details-link" href="../../concepts/${slugify(node.id)}" target="_blank" style="color: #007acc;">🔗 View full concept →</a></p>
-`;
+// Link to full concept
+document.getElementById('details-link').href = `../../concepts/${slugify(node.id)}`;
 
-  document.getElementById('details-link').href = `../../concepts/${slugify(node.id)}`;
-  document.getElementById('concept-details').style.display = 'block';
+// Show popup
+document.getElementById('concept-details').style.display = 'block';
+
+// Reset tabs to first tab
+document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+document.querySelector('.tab-btn').classList.add('active');
+document.querySelector('.tab-content').classList.add('active');
+
 }
 function getRelationColor(type) {
   const colorMap = {

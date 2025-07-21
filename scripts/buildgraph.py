@@ -36,13 +36,13 @@ def parse_markdown_lines(filepath):
                 in_definitions = False
                 continue
             if stripped.lower().startswith("##"):
-                # New section
                 in_definitions = False
                 in_references = False
 
-            # Collect definitions (quotes or paragraphs)
-            if in_definitions and (stripped.startswith(">") or stripped):
-                definition_lines.append(stripped)
+            # Collect definitions (strip leading > if present)
+            if in_definitions and stripped:
+                clean_line = re.sub(r"^>\s*", "", stripped)  # remove leading "> "
+                definition_lines.append(clean_line)
 
             # Collect references (markdown list items)
             if in_references and stripped.startswith("-"):
