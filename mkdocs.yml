@@ -1,6 +1,6 @@
 site_name: Concept Cartography
-site_url: https://natesheehan.github.io/conceptcartography/
-repo_url: https://github.com/natesheehan/conceptcartography
+site_url: https://conceptcartography.github.io/conceptcartography/
+repo_url: https://github.com/conceptcartography/conceptcartography/
 edit_uri: edit/main/docs/
 theme:
   name: material
@@ -33,7 +33,7 @@ plugins:
   - search
   - tags
   - git-committers:
-      repository: natesheehan/conceptcartography
+      repository: conceptcartography/conceptcartography
       branch: main
       enabled: !ENV [CI, false]
   - git-revision-date-localized:
@@ -43,6 +43,7 @@ extra:
   generator: false
   version:
     provider: mike
+    default: latest
   social:
     - icon: fontawesome/brands/mastodon 
       link: https://fosstodon.org/@squidfunk

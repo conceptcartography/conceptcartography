@@ -5,7 +5,7 @@ Epistemic diversity carves deep channels into foundational terrain of knowledge,
 
 As we wandered through the wilderness, we found ourselves lost in a multitudinous landscape of concepts, theories and hypotheses. What we needed was a cartographer, someone to chart the variety of frameworks, draw connections between scattered regions of thought, and help us navigate the broader terrain.
 
-This is where concept cartography comes in. Several of us took on the role of cartographers, beginning by writing a dictionary of terms that gradually evolved into a conceptual map. We traced the contours of our reading list, extracting definitions, characterisations, examples, and conceptual routes between ideas. We also added additional landmarks from political epistemology.
+This is where concept cartography helped. Several of us took on the role of cartographers, beginning by writing a dictionary of terms that gradually evolved into a conceptual map. We traced the contours of our reading list, extracting definitions, characterisations, examples, and conceptual routes between ideas. We also added additional landmarks from political epistemology.
 
 The result is a representation of conceptual space: a topography of concepts, theories, and hypotheses and their interlinkages. The terrain is intricate, and like any map, ours offers only a  partial perspective. Yet we hope it serves as a navigational aid for those exploring the intellectual landscapes surrounding epistemic diversity. 
 
