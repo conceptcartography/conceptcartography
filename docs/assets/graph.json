@@ -52,8 +52,8 @@
     {
       "id": "discriminatory epistemic injustice",
       "title": "discriminatory epistemic injustice",
-      "definition": "> fundatmentally a form of (direct or indirect)discrimination. e.g., the cause of testimonial injustice is a prejudice. Meant to leave room for a kind of epistemic injustice that is primarly \"distributive injustice\" i.e., someone receiving less than their fair share of an epistemic good, such as education or access to expert advice or information (Fricker 2007, 53; cf. David Coady 2010; 2017)",
-      "reference": "- Fricker, Miranda. 2017. \"Evolving Concepts of Epistemic Injustice.\" In _The Routledge Handbook of Epistemic Injustice_, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge. https://doi.org/10.4324/9781315212043.\n- Coady, David. 2010. “Two Concepts of Epistemic Injustice.” _Episteme_ 7 (2): 101–13. https://doi.org/10.3366/epi.2010.0001.\n- Coady, David. 2017. \"Epistemic Injustice as Distributive Injustice.\" In _The Routledge Handbook of Epistemic Injustice_, edited by I.J. Kidd, J. Medina, and G. Pohlhaus, Jr. Routledge. https://doi.org/10.4324/9781315212043\n---",
+      "definition": "> \"A first point to make is that this kind of epistemic injustice is fundamentally a form of (direct or indirect) discrimination. The cause of testimonial injustice is a prejudice through which the speaker is misjudged and perceived as epistemically lesser (a direct discrimination). This will tend to have negative effects on how they are perceived and treated non-epistemically too – secondary aspects of the intrinsic wrong. The cause of a hermeneutical injustice is a background inequality of hermeneutical opportunity – specifically, hermeneutical marginalisation in relation to some area of social experience. This puts them at an unfair disadvantage in comprehending and/or getting others to comprehend an experience of that kind (a somewhat indirect discrimination)\" (Fricker 2017, 53; cf. David Coady 2010; 2017)",
+      "reference": "- Coady, David. 2010. “Two Concepts of Epistemic Injustice.” _Episteme_ 7 (2): 101–13. https://doi.org/10.3366/epi.2010.0001.\n- Coady, David. 2017. \"Epistemic Injustice as Distributive Injustice.\" In _The Routledge Handbook of Epistemic Injustice_, edited by I.J. Kidd, J. Medina, and G. Pohlhaus, Jr. Routledge. https://doi.org/10.4324/9781315212043\n- Fricker, Miranda. 2017. \"Evolving Concepts of Epistemic Injustice.\" In _The Routledge Handbook of Epistemic Injustice_, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge. https://doi.org/10.4324/9781315212043.\n---",
       "filename": "discriminatory-epistemic-injustice.md"
     },
     {
@@ -192,8 +192,8 @@
     {
       "id": "epistemic exploitation",
       "title": "epistemic exploitation",
-      "definition": "> \"Epistemic exploitation occurs when privileged persons compel marginalized persons to produce\nan education or explanation about the nature of the oppression they face\" (Bernstein 2016, 578).",
-      "reference": "- Berenstain, Nora. 2016. \"Epistemic Exploitation.\" _Ergo_ 3 (22). https://doi.org/10.3998/ergo.12405314.0003.022\n- Pohlhaus, Gaile Jr. 2020. “Epistemic Agency Under Oppression.” _Philosophical Papers_ 49 (2): 233–51. https://doi.org/10.1080/05568641.2020.1780149\n- Fehr, Carla, and Janet  Jones. 2022. \"Culture, Exploitation, and Epistemic Approaches to Diversity.\" _Synthese_ 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.\n---",
+      "definition": "> \"Epistemic exploitation occurs when privileged persons compel marginalized persons to produce\nan education or explanation about the nature of the oppression they face\" (Bernstain 2016, 578).\n> \"epistemic exploitation occurs when epistemic labor is coercively extracted from epistemic agents in the service of others\" (Pohlhaus 2017, 22).\n> \"inclusion within normatively governed systems may coercively direct the epistemic agency of marginalized knowers in ways that asymmetrically serve the epistemic interests of dominantly situated knowers while undermining their own. Such inclusions can, therefore, be epistemically exploitative, extracting epistemic labor from some solely for the benefit of others.\" (Pohlhaus 2020, 241)\n> \"there is a relationship between A and B, in which A accrues epistemic benefits from B’s knowledge and epistemic location and in doing so harms B, setting back B’s interests relative to A’s interests.\"  (Fehr and Jones 2022, 8)",
+      "reference": "- Berenstain, Nora. 2016. \"Epistemic Exploitation.\" _Ergo_ 3 (22). https://doi.org/10.3998/ergo.12405314.0003.022\n- Pohlhaus Jr., Gaile. 2017. “Varieties of Epistemic Injustice.” In _The Routledge Handbook of Epistemic Injustice_, edited by Ian James Kidd, José Medina, and Gaile Pohlhaus Jr. Routledge. https://doi.org/10.4324/9781315212043.\n- Pohlhaus Jr., Gaile 2020. “Epistemic Agency Under Oppression.” _Philosophical Papers_ 49 (2): 233–51. https://doi.org/10.1080/05568641.2020.1780149\n- Fehr, Carla, and Janet Minji Jones. 2022. \"Culture, Exploitation, and Epistemic Approaches to Diversity.\" _Synthese_ 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.\n---",
       "filename": "epistemic-exploitation.md"
     },
     {
@@ -297,7 +297,7 @@
     {
       "id": "extracted speech",
       "title": "extracted speech",
-      "definition": "> \"epistemic and social coercion may be used to produce testimony that is subordinating\" (Pohlhaus 2017, 22)",
+      "definition": "> \"speech that an agent is (in some sense) made to produce\" (McKinney 2016, 259).\n> \"epistemic and social coercion may be used to produce testimony that is subordinating\" (Pohlhaus 2017, 22)",
       "reference": "- McKinney, R. 2016. “Extracted speech.” _Social Theory and Practice_, 42(2): 258–284.\n- Pohlhaus Jr., Gaile. 2017. “Varieties of Epistemic Injustice.” In The Routledge Handbook of Epistemic Injustice, edited by Ian James Kidd, José Medina, and Gaile Pohlhaus Jr. Routledge. https://doi.org/10.4324/9781315212043.\n---",
       "filename": "extracted-speech.md"
     },
@@ -472,9 +472,16 @@
     {
       "id": "non-dominant hermeneutical marginalization",
       "title": "non-dominant hermeneutical marginalization",
-      "definition": "> Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group (Mason 2011, 298).",
-      "reference": "- Mason, Rebecca. 2011. “Two Kinds of Unknowing.” _Hypatia_ 26 (2): 294–307. https://doi.org/10.1111/j.1527-2001.2011.01175.x.\n- Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” _Philosophia_ 50 (4): 1861–78. https://doi.org/10.1007/s11406-021-00465-w.\n---",
+      "definition": "> \"non-dominant hermeneutical marginalization describes unwarranted epistemic exclusions. Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group\" (Goldstein 2022, 1864).",
+      "reference": "- Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” _Philosophia_ 50 (4): 1861–78. https://doi.org/10.1007/s11406-021-00465-w.\n---",
       "filename": "non-dominant-hermeneutical-marginalization.md"
+    },
+    {
+      "id": "non-dominant hermeneutical resources",
+      "title": "non-dominant hermeneutical resources",
+      "definition": "> \"non-dominant hermeneutical resources give marginalized subjects possibilities for self-understanding and articulation despite distortions and absences in dominant discourses of interpretation\" (Mason 2011, 305).",
+      "reference": "- Mason, Rebecca. 2011. “Two Kinds of Unknowing.” _Hypatia_ 26 (2): 294–307. https://doi.org/10.1111/j.1527-2001.2011.01175.x.\n---",
+      "filename": "non-dominant-hermeneutical-resources.md"
     },
     {
       "id": "novelty",
@@ -1198,6 +1205,11 @@
     {
       "source": "interlacing",
       "target": "epistemic injustice",
+      "type": "produces"
+    },
+    {
+      "source": "interlacing",
+      "target": "epistemic injustice",
       "type": "counteracts"
     },
     {
@@ -1284,6 +1296,16 @@
       "source": "non-dominant hermeneutical marginalization",
       "target": "testimonial injustice",
       "type": "produces"
+    },
+    {
+      "source": "non-dominant hermeneutical resources",
+      "target": "hermeneutical injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "non-dominant hermeneutical resources",
+      "type": "counteracts"
     },
     {
       "source": "novelty",
