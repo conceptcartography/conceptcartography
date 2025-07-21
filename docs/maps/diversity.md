@@ -204,34 +204,41 @@ datalist option {
 }
 #concept-details {
   position: absolute;
-  top: 0rem;
-  right: 0rem;
-  width: clamp(240px, 22%, 300px); /* Responsive width */
+  top: 1rem;
+  right: 1rem;
+  width: clamp(300px, 28%, 400px);
   max-height: 85vh;
-  max-width: 70vw;
   overflow-y: auto;
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(12px);
+  background: #f9fafb;
   border: 1px solid #e5e7eb;
   border-radius: 12px;
-  padding: 1rem;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: clamp(0.8rem, 0.9vw, 1rem);
+  padding: 1.5rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  font-family: "Inter", sans-serif;
   color: #374151;
-  display: none; /* Hidden by default */
+  display: none;
   z-index: 1000;
   transition: all 0.3s ease, transform 0.3s ease;
 }
 
 #concept-details h3 {
   margin-top: 0;
-  font-size: clamp(1rem, 1.2vw, 1.3rem);
-  line-height: 1.2;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1f2937;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#concept-details section {
+  margin-bottom: 1.2rem;
+}
+
+#concept-details section strong {
+  display: block;
+  margin-bottom: 0.6rem;
   color: #111827;
-  border-bottom: 1px solid #e5e7eb;
-  padding-bottom: 0.4rem;
-  margin-bottom: 0.8rem;
   font-weight: 600;
 }
 
@@ -239,26 +246,23 @@ datalist option {
   margin: 0.4rem 0;
   line-height: 1.6;
   color: #4b5563;
-  font-size: clamp(0.75rem, 0.85vw, 0.95rem);
 }
 
-#concept-details strong {
-  display: block;
-  margin-top: 0.8rem;
-  color: #1f2937;
-  font-size: clamp(0.8rem, 0.9vw, 1rem);
-  border-top: 1px solid #e5e7eb;
-  padding-top: 0.5rem;
-}
-
-#concept-details a {
+.relation-pill {
   display: inline-block;
-  margin-top: 0.5rem;
-  color: #2563eb;
-  text-decoration: none;
-  font-weight: 500;
-  font-size: clamp(0.75rem, 0.85vw, 0.95rem);
-  transition: color 0.2s ease;
+  background-color: #6b7280;
+  color: #fff;
+  padding: 0.35rem 0.75rem;
+  margin: 0.2rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.relation-pill:hover {
+  background-color: #4b5563;
+  transform: scale(1.05);
 }
 
 #concept-details a:hover {
@@ -625,7 +629,6 @@ function focusOnConcept(query) {
   }
 }
 
-
 function highlightNode(node) {
   if (!node) return;
 
@@ -633,10 +636,21 @@ function highlightNode(node) {
   const neighbors = new Set();
   const links = Graph.graphData().links;
 
-  links.forEach(link => {
-    if (link.source.id === node.id) neighbors.add(link.target.id);
-    if (link.target.id === node.id) neighbors.add(link.source.id);
-  });
+const relatedConceptsMap = new Map();
+
+links.forEach(link => {
+  const neighborId = link.source.id === node.id ? link.target.id : (link.target.id === node.id ? link.source.id : null);
+  if (neighborId && !relatedConceptsMap.has(neighborId)) {
+    neighbors.add(neighborId);
+    relatedConceptsMap.set(neighborId, {
+      id: neighborId,
+      title: link.source.id === node.id ? link.target.title || link.target.id : link.source.title || link.source.id,
+      type: link.type
+    });
+  }
+});
+
+const relatedConcepts = Array.from(relatedConceptsMap.values());
 
   // Update node colors
   Graph.nodeColor(n => {
@@ -667,14 +681,61 @@ function highlightNode(node) {
     1000
   );
 
+  // Generate related concepts HTML
+  const relatedHTML = relatedConcepts.length > 0
+    ? `<strong>🔗 Related Concepts:</strong><div style="display:flex;flex-wrap:wrap;gap:0.4rem;margin-top:0.4rem;">
+        ${relatedConcepts.map(concept => `
+          <span class="relation-pill" style="
+            background-color: ${getRelationColor(concept.type)};
+            color: white;
+            padding: 0.3rem 0.6rem;
+            border-radius: 999px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            white-space: nowrap;"
+            onclick="focusOnConcept('${concept.id}')"
+            title="${toTitleCase(concept.type)}">
+            ${concept.title}
+          </span>
+        `).join('')}
+      </div>`
+    : '<em>No related concepts.</em>';
+
   // Update details panel
   document.getElementById('details-title').innerText = node.title;
   document.getElementById('details-definition').innerText = node.definition || "No definition available.";
   document.getElementById('details-references').innerHTML = node.reference
     ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
     : "No references.";
+  document.getElementById('concept-details').innerHTML = `
+  <h3 id="details-title">${node.title}</h3>
+  <p><strong>📚 Definitions:</strong></p>
+  <p id="details-definition">${node.definition || "No definition available."}</p>
+  <p><strong>📚 References:</strong></p>
+  <p id="details-references">${
+    node.reference
+      ? node.reference.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
+      : "No references."
+  }</p>
+  ${relatedHTML}
+  <p><a id="details-link" href="../../concepts/${slugify(node.id)}" target="_blank" style="color: #007acc;">🔗 View full concept →</a></p>
+`;
+
   document.getElementById('details-link').href = `../../concepts/${slugify(node.id)}`;
   document.getElementById('concept-details').style.display = 'block';
+}
+function getRelationColor(type) {
+  const colorMap = {
+    "type of": "blue",
+    "part of": "green",
+    "produces": "purple",
+    "counteracts": "red",
+    "similar to": "orange",
+    "equivalent to": "gray",
+    "distinct from": "lime",
+    "depends on": "cyan"
+  };
+  return colorMap[(type || '').toLowerCase()] || "#888";
 }
 
 
