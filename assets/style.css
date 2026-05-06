@@ -1,0 +1,11 @@
+.md-nav__list {
+    font-weight: bold;
+}
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: bisque;
+}
+
+:root > * {
+  --md-footer-bg-color: #795649;
+  --md-footer-bg-color--dark: #14151a;
+}
