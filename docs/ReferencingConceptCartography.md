@@ -1,4 +1,4 @@
-# RCC0: Referencing Concept Cartography 
+# Referencing Concept Cartography 
 
 _The map is a living document. Its terrain is continually updated, and we warmly invite you to help expand or revise it. We encourage you to debate the connections between concepts, create sub-maps around specific themes (e.g., the epistemology of ignorance), and annotate the landscape with your own insights. In doing so, you contribute to a shared effort to navigate and make sense of this rich and evolving field._
 
